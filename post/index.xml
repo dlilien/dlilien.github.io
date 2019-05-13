@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on David Lilien</title>
+    <link>https://dlilien.github.io/post/</link>
+    <description>Recent content in Posts on David Lilien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 David Lilien</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dlilien.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019 South Pole field season</title>
+      <link>https://dlilien.github.io/post/sp_s3/</link>
+      <pubDate>Mon, 28 Jan 2019 11:33:40 -0800</pubDate>
+      
+      <guid>https://dlilien.github.io/post/sp_s3/</guid>
+      <description>In December, I headed to the South Pole for a third field season, wrapping our survey of regional ice flow. Like last year, this was a very quick season with only about two weeks at the Pole. As in previous years, the field season was timed to span the solstice so as to get the warmest weather at the South Pole (~-10 F this year). We left for New Zealand week after Thanksgiving, and after getting our cold weather gear we started trying to fly to Antarctica on December 13th.</description>
+    </item>
+    
+    <item>
+      <title>Radar processing</title>
+      <link>https://dlilien.github.io/post/impdar/</link>
+      <pubDate>Fri, 10 Aug 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/impdar/</guid>
+      <description>I&amp;rsquo;ve been doing some work to bring the St. Olaf deep radar processor (StODeep) up into this decade. I&amp;rsquo;ve had some time twiddling my thumbs while running ice-flow models, and I&amp;rsquo;ve been doing the work of migrating StODeep as I wait for the model runs. I&amp;rsquo;m not a fan of Matlab, so I&amp;rsquo;ve migrated things to Python. I took advantage of some of the code I had written for pygssi, but really pygssi is now not very useful and things are migrating to the functionality and syntax of StODeep.</description>
+    </item>
+    
+    <item>
+      <title>2018 South Pole Field Season</title>
+      <link>https://dlilien.github.io/post/sp_s2/</link>
+      <pubDate>Wed, 17 Jan 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/sp_s2/</guid>
+      <description>I&amp;rsquo;m freshly back from another field season in Antarctica. This was a quick one, with only about two weeks down at the South Pole, though with transit I was gone for just over a month. We were continuing GPS and radar surveys, logging boreholes, and checking on instruments that had overwintered. The team this year was a subset of the folks we had last year; since we were not drilling and only had a little bit of camping we didn&amp;rsquo;t have the IDDO folks or Maurice along.</description>
+    </item>
+    
+    <item>
+      <title>Python Brownbag</title>
+      <link>https://dlilien.github.io/post/python_demo/</link>
+      <pubDate>Mon, 16 Oct 2017 12:30:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/python_demo/</guid>
+      <description>I&amp;rsquo;m giving a short seminar on python for matlab users this Friday. I plan to give a short presentation on why grad students in Earth and Space Sciences might want to switch from Matlab, followed by prepared demos where people can follow along.
+I&amp;rsquo;ll also introduce git, since I think it is probably more important for productivity than the matlab/python choice. Hopefully I&amp;rsquo;ll have a few open-source converts by the end of the week!</description>
+    </item>
+    
+    <item>
+      <title>Workshop on social media for science communication</title>
+      <link>https://dlilien.github.io/post/scicomm_twitter/</link>
+      <pubDate>Fri, 29 Sep 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/scicomm_twitter/</guid>
+      <description>I&amp;rsquo;ve hesitated to commit to attending a full quarter of science communication classes, but I&amp;rsquo;ve been trying to take advantage of the half or 1-day workshops that the UW College of the Environment has been offering. This workshop was on using social media to communicate science, which means twitter just got a bunch of new accounts from UW scientists.</description>
+    </item>
+    
+    <item>
+      <title>2017 SPICEcore Meeting</title>
+      <link>https://dlilien.github.io/post/spicecore/</link>
+      <pubDate>Fri, 29 Sep 2017 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/spicecore/</guid>
+      <description>I attended the annual meeting of the scientists who work on the South Pole Ice Core (SPICEcore) last week, which was a great opportunity to learn about all the work that people are doing using the core. This meeting was held at the University of Washington, September 19-20, 2017, and had scientists from throughout the US in attendance.
+As lead PI for the upstream South-Pole project, Michelle Koutnik gave an update on our progress to the community.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on David Lilien</title>
+    <link>https://dlilien.github.io/project/</link>
+    <description>Recent content in Projects on David Lilien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 David Lilien</copyright>
+    <lastBuildDate>Fri, 10 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dlilien.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retreat of Smith Glacier, Antarctica</title>
+      <link>https://dlilien.github.io/project/cd_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/cd_proj/</guid>
+      <description>Understanding the retreat of Amundsen Sea ice shelves/streams</description>
+    </item>
+    
+    <item>
+      <title>South Pole Geophysics</title>
+      <link>https://dlilien.github.io/project/sp_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/sp_proj/</guid>
+      <description>Investigating ice flow upstream of South Pole</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on David Lilien</title>
+    <link>https://dlilien.github.io/tags/python/</link>
+    <description>Recent content in python on David Lilien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 David Lilien</copyright>
+    <lastBuildDate>Fri, 10 Aug 2018 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dlilien.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Radar processing</title>
+      <link>https://dlilien.github.io/post/impdar/</link>
+      <pubDate>Fri, 10 Aug 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/impdar/</guid>
+      <description>I&amp;rsquo;ve been doing some work to bring the St. Olaf deep radar processor (StODeep) up into this decade. I&amp;rsquo;ve had some time twiddling my thumbs while running ice-flow models, and I&amp;rsquo;ve been doing the work of migrating StODeep as I wait for the model runs. I&amp;rsquo;m not a fan of Matlab, so I&amp;rsquo;ve migrated things to Python. I took advantage of some of the code I had written for pygssi, but really pygssi is now not very useful and things are migrating to the functionality and syntax of StODeep.</description>
+    </item>
+    
+    <item>
+      <title>Python Brownbag</title>
+      <link>https://dlilien.github.io/post/python_demo/</link>
+      <pubDate>Mon, 16 Oct 2017 12:30:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/python_demo/</guid>
+      <description>I&amp;rsquo;m giving a short seminar on python for matlab users this Friday. I plan to give a short presentation on why grad students in Earth and Space Sciences might want to switch from Matlab, followed by prepared demos where people can follow along.
+I&amp;rsquo;ll also introduce git, since I think it is probably more important for productivity than the matlab/python choice. Hopefully I&amp;rsquo;ll have a few open-source converts by the end of the week!</description>
+    </item>
+    
+  </channel>
+</rss>

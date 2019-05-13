@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>South Pole on David Lilien</title>
+    <link>https://dlilien.github.io/tags/south-pole/</link>
+    <description>Recent content in South Pole on David Lilien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 David Lilien</copyright>
+    <lastBuildDate>Fri, 22 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dlilien.github.io/tags/south-pole/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Holocene Ice‐Flow Speedup in the Vicinity of the South Pole</title>
+      <link>https://dlilien.github.io/publication/holocene_ice_flow/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/holocene_ice_flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018 South Pole Field Season</title>
+      <link>https://dlilien.github.io/post/sp_s2/</link>
+      <pubDate>Wed, 17 Jan 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/sp_s2/</guid>
+      <description>I&amp;rsquo;m freshly back from another field season in Antarctica. This was a quick one, with only about two weeks down at the South Pole, though with transit I was gone for just over a month. We were continuing GPS and radar surveys, logging boreholes, and checking on instruments that had overwintered. The team this year was a subset of the folks we had last year; since we were not drilling and only had a little bit of camping we didn&amp;rsquo;t have the IDDO folks or Maurice along.</description>
+    </item>
+    
+    <item>
+      <title>2017 SPICEcore Meeting</title>
+      <link>https://dlilien.github.io/post/spicecore/</link>
+      <pubDate>Fri, 29 Sep 2017 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/spicecore/</guid>
+      <description>I attended the annual meeting of the scientists who work on the South Pole Ice Core (SPICEcore) last week, which was a great opportunity to learn about all the work that people are doing using the core. This meeting was held at the University of Washington, September 19-20, 2017, and had scientists from throughout the US in attendance.
+As lead PI for the upstream South-Pole project, Michelle Koutnik gave an update on our progress to the community.</description>
+    </item>
+    
+    <item>
+      <title>South Pole Geophysics</title>
+      <link>https://dlilien.github.io/project/sp_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/sp_proj/</guid>
+      <description>Investigating ice flow upstream of South Pole</description>
+    </item>
+    
+  </channel>
+</rss>

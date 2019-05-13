@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetings on David Lilien</title>
+    <link>https://dlilien.github.io/tags/meetings/</link>
+    <description>Recent content in Meetings on David Lilien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 David Lilien</copyright>
+    <lastBuildDate>Fri, 29 Sep 2017 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dlilien.github.io/tags/meetings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017 SPICEcore Meeting</title>
+      <link>https://dlilien.github.io/post/spicecore/</link>
+      <pubDate>Fri, 29 Sep 2017 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/spicecore/</guid>
+      <description>I attended the annual meeting of the scientists who work on the South Pole Ice Core (SPICEcore) last week, which was a great opportunity to learn about all the work that people are doing using the core. This meeting was held at the University of Washington, September 19-20, 2017, and had scientists from throughout the US in attendance.
+As lead PI for the upstream South-Pole project, Michelle Koutnik gave an update on our progress to the community.</description>
+    </item>
+    
+  </channel>
+</rss>

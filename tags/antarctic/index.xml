@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>antarctic on David Lilien</title>
+    <link>https://dlilien.github.io/tags/antarctic/</link>
+    <description>Recent content in antarctic on David Lilien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 David Lilien</copyright>
+    <lastBuildDate>Mon, 28 Jan 2019 11:33:40 -0800</lastBuildDate>
+    
+	<atom:link href="https://dlilien.github.io/tags/antarctic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019 South Pole field season</title>
+      <link>https://dlilien.github.io/post/sp_s3/</link>
+      <pubDate>Mon, 28 Jan 2019 11:33:40 -0800</pubDate>
+      
+      <guid>https://dlilien.github.io/post/sp_s3/</guid>
+      <description>In December, I headed to the South Pole for a third field season, wrapping our survey of regional ice flow. Like last year, this was a very quick season with only about two weeks at the Pole. As in previous years, the field season was timed to span the solstice so as to get the warmest weather at the South Pole (~-10 F this year). We left for New Zealand week after Thanksgiving, and after getting our cold weather gear we started trying to fly to Antarctica on December 13th.</description>
+    </item>
+    
+    <item>
+      <title>Holocene Ice‐Flow Speedup in the Vicinity of the South Pole</title>
+      <link>https://dlilien.github.io/publication/holocene_ice_flow/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/holocene_ice_flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retreat of Smith Glacier, Antarctica</title>
+      <link>https://dlilien.github.io/project/cd_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/cd_proj/</guid>
+      <description>Understanding the retreat of Amundsen Sea ice shelves/streams</description>
+    </item>
+    
+    <item>
+      <title>South Pole Geophysics</title>
+      <link>https://dlilien.github.io/project/sp_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/sp_proj/</guid>
+      <description>Investigating ice flow upstream of South Pole</description>
+    </item>
+    
+  </channel>
+</rss>
