@@ -21,5 +21,14 @@
       <description>I&amp;rsquo;ve been doing some work to bring the St. Olaf deep radar processor (StODeep) up into this decade. I&amp;rsquo;ve had some time twiddling my thumbs while running ice-flow models, and I&amp;rsquo;ve been doing the work of migrating StODeep as I wait for the model runs. I&amp;rsquo;m not a fan of Matlab, so I&amp;rsquo;ve migrated things to Python. I took advantage of some of the code I had written for pygssi, but really pygssi is now not very useful and things are migrating to the functionality and syntax of StODeep.</description>
     </item>
     
+    <item>
+      <title>Radar processing</title>
+      <link>https://dlilien.github.io/project/radar_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/radar_proj/</guid>
+      <description>Tools for processing radar data</description>
+    </item>
+    
   </channel>
 </rss>

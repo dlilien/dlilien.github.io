@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 David Lilien</copyright>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 16:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,51 @@
       <guid>https://dlilien.github.io/authors/admin/</guid>
       <description>I&amp;rsquo;m a postdoc at the University of Copenhagen. I study the dynamics of ice streams and outlet glaciers using numerical models, remote sensing, and field data. My primary interest is understanding recent changes to glaciers in West Antarctica and Greenland, and understanding the context of those changes through analysis of past ice flow.
 Find my C.V. here.</description>
+    </item>
+    
+    <item>
+      <title>Benjamin Hills</title>
+      <link>https://dlilien.github.io/authors/benjamin-hills/</link>
+      <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/benjamin-hills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Lilien</title>
+      <link>https://dlilien.github.io/authors/david-lilien/</link>
+      <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/david-lilien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joshua Driscol</title>
+      <link>https://dlilien.github.io/authors/joshua-driscol/</link>
+      <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/joshua-driscol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knut Christianson</title>
+      <link>https://dlilien.github.io/authors/knut-christianson/</link>
+      <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/knut-christianson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Jacobel</title>
+      <link>https://dlilien.github.io/authors/robert-jacobel/</link>
+      <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/robert-jacobel/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -59,29 +104,11 @@ Find my C.V. here.</description>
     </item>
     
     <item>
-      <title>David Lilien</title>
-      <link>https://dlilien.github.io/authors/david-lilien/</link>
-      <pubDate>Wed, 20 Feb 2019 13:00:00 -0800</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/david-lilien/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ian Joughin</title>
       <link>https://dlilien.github.io/authors/ian-joughin/</link>
-      <pubDate>Tue, 29 Jan 2019 10:31:11 -0800</pubDate>
+      <pubDate>Mon, 12 Nov 2018 15:00:00 +0100</pubDate>
       
       <guid>https://dlilien.github.io/authors/ian-joughin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knut Christianson</title>
-      <link>https://dlilien.github.io/authors/knut-christianson/</link>
-      <pubDate>Mon, 12 Nov 2018 10:23:37 -0800</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/knut-christianson/</guid>
       <description></description>
     </item>
     

@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Despite the widespread use of radio-echo sounding data in glaciology, there is no community standard for processing software. This complicates intercomparison of radiometric information between radar systems or even between different datasets collected using the same radar system processed by different operators.  An enormous amount of new radar data is being collected, so now more than ever it is important to have dependable, fast, and compatible processing flows for these data. Here, we present ImpDAR, a cross-platform, open-source impulse radar processor and interpreter written in Python. ImpDAR is designed to be a universal processor that is capable of reading data from the common commercial ground-penetrating radars (i.e. GSSI, PulseEkko, and MALÅ) as well as from some of the custom-built high-frequency systems. The core processing algorithms are based on the St. Olaf radar processor, which required a Matlab license and contained deprecated, legacy code. Other previously available tools also have significant drawbacks: commercial options are expensive, brand-specific, platform-specific, have limited capabilities, and some lack batch processing utilities. The processing flow included in ImpDAR is designed to be versatile, permitting the user to choose between multiple filters, geometric corrections, migration routines, and display options. It performs several critical, customizable processing steps, such as bandpass and horizontal filtering, time correction for antenna spacing, trace geolocation, migration, and elevation correction, among others. After processing data, ImpDAR’s interpreter makes it easy to plot the data and to digitize internal reflecting horizons. There are several additional plotting functionalities to visualize geometry, frequency content, and power of reflected waveforms. As an initial test of ImpDAR, we present interpreted profiles from 500-MHz snow radar used at South Cascade Glacier, Washington state and 3-MHz radar deployed at the South Pole subglacial lake. We hope that ImpDAR can become a common resource for impulse radar processing and interpretation in the glaciological community, and therefore request community input to improve this new tool.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://dlilien.github.io/talk/wais_2018/">
+  <link rel="alternate" hreflang="en-us" href="https://dlilien.github.io/talk/igs_2019/">
 
   
 
@@ -119,7 +119,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://dlilien.github.io/talk/wais_2018/">
+  <link rel="canonical" href="https://dlilien.github.io/talk/igs_2019/">
 
   
   
@@ -134,21 +134,21 @@
   <meta property="twitter:creator" content="@glaciologyDavid">
   
   <meta property="og:site_name" content="David Lilien">
-  <meta property="og:url" content="https://dlilien.github.io/talk/wais_2018/">
-  <meta property="og:title" content="Poster: Sensitivity of Smith Glacier to Melt Variability, Marginal Weakening, and Terminal Buttressing | David Lilien">
-  <meta property="og:description" content=""><meta property="og:image" content="https://dlilien.github.io/img/DSC_2056.jpg">
+  <meta property="og:url" content="https://dlilien.github.io/talk/igs_2019/">
+  <meta property="og:title" content="Poster: ImpDAR: an open-source impulse radar processor in Python | David Lilien">
+  <meta property="og:description" content="Despite the widespread use of radio-echo sounding data in glaciology, there is no community standard for processing software. This complicates intercomparison of radiometric information between radar systems or even between different datasets collected using the same radar system processed by different operators.  An enormous amount of new radar data is being collected, so now more than ever it is important to have dependable, fast, and compatible processing flows for these data. Here, we present ImpDAR, a cross-platform, open-source impulse radar processor and interpreter written in Python. ImpDAR is designed to be a universal processor that is capable of reading data from the common commercial ground-penetrating radars (i.e. GSSI, PulseEkko, and MALÅ) as well as from some of the custom-built high-frequency systems. The core processing algorithms are based on the St. Olaf radar processor, which required a Matlab license and contained deprecated, legacy code. Other previously available tools also have significant drawbacks: commercial options are expensive, brand-specific, platform-specific, have limited capabilities, and some lack batch processing utilities. The processing flow included in ImpDAR is designed to be versatile, permitting the user to choose between multiple filters, geometric corrections, migration routines, and display options. It performs several critical, customizable processing steps, such as bandpass and horizontal filtering, time correction for antenna spacing, trace geolocation, migration, and elevation correction, among others. After processing data, ImpDAR’s interpreter makes it easy to plot the data and to digitize internal reflecting horizons. There are several additional plotting functionalities to visualize geometry, frequency content, and power of reflected waveforms. As an initial test of ImpDAR, we present interpreted profiles from 500-MHz snow radar used at South Cascade Glacier, Washington state and 3-MHz radar deployed at the South Pole subglacial lake. We hope that ImpDAR can become a common resource for impulse radar processing and interpretation in the glaciological community, and therefore request community input to improve this new tool."><meta property="og:image" content="https://dlilien.github.io/img/DSC_2056.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-01-29T10:31:11-08:00">
+  <meta property="article:published_time" content="2019-05-12T10:31:11-08:00">
   
-  <meta property="article:modified_time" content="2018-09-18T16:00:00-05:00">
-  
-
+  <meta property="article:modified_time" content="2019-07-08T16:00:00-05:00">
   
 
   
 
-  <title>Poster: Sensitivity of Smith Glacier to Melt Variability, Marginal Weakening, and Terminal Buttressing | David Lilien</title>
+  
+
+  <title>Poster: ImpDAR: an open-source impulse radar processor in Python | David Lilien</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -451,7 +451,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Poster: Sensitivity of Smith Glacier to Melt Variability, Marginal Weakening, and Terminal Buttressing</h1>
+  <h1 itemprop="name">Poster: ImpDAR: an open-source impulse radar processor in Python</h1>
 
   
 
@@ -460,8 +460,8 @@
 
 
 
-<meta content="2018-09-18 16:00:00 -0500 -0500" itemprop="datePublished">
-<meta content="2018-09-18 16:00:00 -0500 -0500" itemprop="dateModified">
+<meta content="2019-07-08 16:00:00 -0500 -0500" itemprop="datePublished">
+<meta content="2019-07-08 16:00:00 -0500 -0500" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -474,7 +474,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/david-lilien/">David Lilien</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ian-joughin/">Ian Joughin</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joshua-driscol/">Joshua Driscol</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/david-lilien/">David Lilien</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/benjamin-hills/">Benjamin Hills</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/robert-jacobel/">Robert Jacobel</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/knut-christianson/">Knut Christianson</a></span>
 
   </div>
   
@@ -574,7 +574,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/cd_proj/">
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/radar_proj/">
     Project
   </a>
   
@@ -600,7 +600,8 @@
   <div class="article-container">
 
     
-      <br>
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Despite the widespread use of radio-echo sounding data in glaciology, there is no community standard for processing software. This complicates intercomparison of radiometric information between radar systems or even between different datasets collected using the same radar system processed by different operators.  An enormous amount of new radar data is being collected, so now more than ever it is important to have dependable, fast, and compatible processing flows for these data. Here, we present ImpDAR, a cross-platform, open-source impulse radar processor and interpreter written in Python. ImpDAR is designed to be a universal processor that is capable of reading data from the common commercial ground-penetrating radars (i.e. GSSI, PulseEkko, and MALÅ) as well as from some of the custom-built high-frequency systems. The core processing algorithms are based on the St. Olaf radar processor, which required a Matlab license and contained deprecated, legacy code. Other previously available tools also have significant drawbacks: commercial options are expensive, brand-specific, platform-specific, have limited capabilities, and some lack batch processing utilities. The processing flow included in ImpDAR is designed to be versatile, permitting the user to choose between multiple filters, geometric corrections, migration routines, and display options. It performs several critical, customizable processing steps, such as bandpass and horizontal filtering, time correction for antenna spacing, trace geolocation, migration, and elevation correction, among others. After processing data, ImpDAR’s interpreter makes it easy to plot the data and to digitize internal reflecting horizons. There are several additional plotting functionalities to visualize geometry, frequency content, and power of reflected waveforms. As an initial test of ImpDAR, we present interpreted profiles from 500-MHz snow radar used at South Cascade Glacier, Washington state and 3-MHz radar deployed at the South Pole subglacial lake. We hope that ImpDAR can become a common resource for impulse radar processing and interpretation in the glaciological community, and therefore request community input to improve this new tool.</p>
     
 
     <div class="row">
@@ -610,13 +611,8 @@
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
             
-            Sep 18, 2018
+            Jul 8, 2019
             <div class="talk-time">
-              
-                4:00 PM
-                
-                  &mdash; 6:00 PM
-                
               
             </div>
           </div>
@@ -633,7 +629,7 @@
           <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
             
-            West Antarctic Ice Sheet Workshop
+            Five Decades of Radioglaciology
             
           </div>
         </div>
@@ -648,7 +644,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Stony Point Center, NY</div>
+          <div class="col-12 col-md-9">Stanford, CA</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -689,7 +685,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/david-lilien/"></a></h5>
+      <h5 class="card-title" itemprop="name"><a href="/authors/joshua-driscol/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">

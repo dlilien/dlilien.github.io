@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Jacobel on David Lilien</title>
+    <link>https://dlilien.github.io/authors/robert-jacobel/</link>
+    <description>Recent content in Robert Jacobel on David Lilien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 David Lilien</copyright>
+    <lastBuildDate>Mon, 08 Jul 2019 16:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://dlilien.github.io/authors/robert-jacobel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poster: ImpDAR: an open-source impulse radar processor in Python</title>
+      <link>https://dlilien.github.io/talk/igs_2019/</link>
+      <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
+      
+      <guid>https://dlilien.github.io/talk/igs_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

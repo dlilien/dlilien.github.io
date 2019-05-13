@@ -43,13 +43,60 @@
   </url>
   
   <url>
-    <loc>https://dlilien.github.io/publication_types/2/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <loc>https://dlilien.github.io/authors/</loc>
+    <lastmod>2019-07-08T16:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dlilien.github.io/authors/</loc>
+    <loc>https://dlilien.github.io/authors/benjamin-hills/</loc>
+    <lastmod>2019-07-08T16:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/david-lilien/</loc>
+    <lastmod>2019-07-08T16:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/</loc>
+    <lastmod>2019-07-08T16:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/joshua-driscol/</loc>
+    <lastmod>2019-07-08T16:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/knut-christianson/</loc>
+    <lastmod>2019-07-08T16:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/talk/igs_2019/</loc>
+    <lastmod>2019-07-08T16:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/robert-jacobel/</loc>
+    <lastmod>2019-07-08T16:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/talk/</loc>
+    <lastmod>2019-07-08T16:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/publication_types/2/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -62,12 +109,6 @@
   
   <url>
     <loc>https://dlilien.github.io/authors/d-lilien/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -96,12 +137,6 @@
   </url>
   
   <url>
-    <loc>https://dlilien.github.io/authors/david-lilien/</loc>
-    <lastmod>2019-02-20T13:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dlilien.github.io/talk/thesis_defense/</loc>
     <lastmod>2019-02-20T13:00:00-08:00</lastmod>
   </url>
@@ -113,26 +148,9 @@
   </url>
   
   <url>
-    <loc>https://dlilien.github.io/talk/</loc>
-    <lastmod>2019-02-20T13:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dlilien.github.io/tags/antarctica/</loc>
     <lastmod>2019-02-20T13:00:00-08:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/ian-joughin/</loc>
-    <lastmod>2019-01-29T10:31:11-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/talk/wais_2018/</loc>
-    <lastmod>2019-01-29T10:31:11-08:00</lastmod>
   </url>
   
   <url>
@@ -153,32 +171,37 @@
   </url>
   
   <url>
-    <loc>https://dlilien.github.io/authors/knut-christianson/</loc>
-    <lastmod>2018-11-12T10:23:37-08:00</lastmod>
+    <loc>https://dlilien.github.io/authors/ian-joughin/</loc>
+    <lastmod>2018-11-12T15:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/talk/eastgrip_2018/</loc>
-    <lastmod>2018-11-12T10:23:37-08:00</lastmod>
+    <lastmod>2018-11-12T15:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/tags/negis/</loc>
-    <lastmod>2018-11-12T10:23:37-08:00</lastmod>
+    <lastmod>2018-11-12T15:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/tags/storstr%C3%B8mmen/</loc>
-    <lastmod>2018-11-12T10:23:37-08:00</lastmod>
+    <lastmod>2018-11-12T15:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/tags/greenland/</loc>
-    <lastmod>2018-11-12T10:23:37-08:00</lastmod>
+    <lastmod>2018-11-12T15:00:00+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/talk/wais_2018/</loc>
+    <lastmod>2018-09-18T16:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -338,6 +361,11 @@
     <loc>https://dlilien.github.io/project/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/project/radar_proj/</loc>
+    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
