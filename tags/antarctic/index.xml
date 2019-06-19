@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 David Lilien</copyright>
-    <lastBuildDate>Mon, 28 Jan 2019 11:33:40 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/tags/antarctic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advection (non-climate) impact on the South Pole Ice Core</title>
+      <link>https://dlilien.github.io/publication/advection_impact/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/advection_impact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2019 South Pole field season</title>
