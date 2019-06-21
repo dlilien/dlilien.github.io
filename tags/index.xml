@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 David Lilien</copyright>
-    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NEGIS</title>
+      <link>https://dlilien.github.io/tags/negis/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/tags/negis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>greenland</title>
+      <link>https://dlilien.github.io/tags/greenland/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/tags/greenland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modeling</title>
+      <link>https://dlilien.github.io/tags/modeling/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/tags/modeling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>South Pole</title>
@@ -49,29 +76,11 @@
     </item>
     
     <item>
-      <title>NEGIS</title>
-      <link>https://dlilien.github.io/tags/negis/</link>
-      <pubDate>Mon, 12 Nov 2018 15:00:00 +0100</pubDate>
-      
-      <guid>https://dlilien.github.io/tags/negis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Storstrømmen</title>
       <link>https://dlilien.github.io/tags/storstr%C3%B8mmen/</link>
       <pubDate>Mon, 12 Nov 2018 15:00:00 +0100</pubDate>
       
       <guid>https://dlilien.github.io/tags/storstr%C3%B8mmen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>greenland</title>
-      <link>https://dlilien.github.io/tags/greenland/</link>
-      <pubDate>Mon, 12 Nov 2018 15:00:00 +0100</pubDate>
-      
-      <guid>https://dlilien.github.io/tags/greenland/</guid>
       <description></description>
     </item>
     
