@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 David Lilien</copyright>
-    <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>NEGIS</title>
       <link>https://dlilien.github.io/tags/negis/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/tags/negis/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>greenland</title>
       <link>https://dlilien.github.io/tags/greenland/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/tags/greenland/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>modeling</title>
       <link>https://dlilien.github.io/tags/modeling/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/tags/modeling/</guid>
       <description></description>
@@ -103,7 +103,7 @@
     </item>
     
     <item>
-      <title>SPICEcore</title>
+      <title>SPIceCore</title>
       <link>https://dlilien.github.io/tags/spicecore/</link>
       <pubDate>Wed, 17 Jan 2018 10:00:00 +0000</pubDate>
       
