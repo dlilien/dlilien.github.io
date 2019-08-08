@@ -6,11 +6,20 @@
     <description>Recent content in Posts on David Lilien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 David Lilien</copyright>
+    <copyright>&amp;copy; 2019 David Lilien</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I moved to Denmark</title>
+      <link>https://dlilien.github.io/post/move_to_denmark/</link>
+      <pubDate>Mon, 05 Aug 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/move_to_denmark/</guid>
+      <description>I&amp;rsquo;ve started a postdoc in Denmark, at the Center for Ice and Climate (now called Physics of Ice, Climate and Earth). I am really excited to be here, both for the opportunity to work in a new environment and because there is so much expertise in glaciology and ice-core science. I&amp;rsquo;m funded to work on a project called &amp;ldquo;Iceflow,&amp;rdquo; which generally aims to learn about ice flow in Northeast Greenland, taking advantage of the new ice core project there.</description>
+    </item>
     
     <item>
       <title>2019 South Pole field season</title>
