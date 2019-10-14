@@ -43,20 +43,79 @@
   </url>
   
   <url>
+    <loc>https://dlilien.github.io/publication_types/2/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/b-hills/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/da-lilien/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dlilien.github.io/</loc>
-    <lastmod>2019-08-05T10:00:00+00:00</lastmod>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/publication/radar_processing/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/j-driscol/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/k-christianson/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/publication_types/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/r-jacobel/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/tags/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/tags/radar/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/post/move_to_denmark/</loc>
     <lastmod>2019-08-05T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/</loc>
-    <lastmod>2019-07-08T16:00:00-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -101,24 +160,6 @@
   </url>
   
   <url>
-    <loc>https://dlilien.github.io/publication_types/2/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/da-lilien/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/k-christianson/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dlilien.github.io/authors/n-holschuh/</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -126,18 +167,6 @@
   
   <url>
     <loc>https://dlilien.github.io/tags/negis/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/publication_types/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/tags/</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -298,12 +327,6 @@
   
   <url>
     <loc>https://dlilien.github.io/tags/python/</loc>
-    <lastmod>2018-08-10T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/tags/radar/</loc>
     <lastmod>2018-08-10T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

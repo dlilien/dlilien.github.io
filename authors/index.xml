@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Mon, 08 Jul 2019 16:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,51 @@
       <guid>https://dlilien.github.io/authors/admin/</guid>
       <description>I&amp;rsquo;m a postdoc at the University of Copenhagen. I study the dynamics of ice streams and outlet glaciers using numerical models, remote sensing, and field data. My primary interest is understanding recent changes to glaciers in West Antarctica and Greenland, and understanding the context of those changes through analysis of past ice flow.
 Find my C.V. here.</description>
+    </item>
+    
+    <item>
+      <title>B Hills</title>
+      <link>https://dlilien.github.io/authors/b-hills/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/b-hills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA Lilien</title>
+      <link>https://dlilien.github.io/authors/da-lilien/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/da-lilien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Driscol</title>
+      <link>https://dlilien.github.io/authors/j-driscol/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/j-driscol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Christianson</title>
+      <link>https://dlilien.github.io/authors/k-christianson/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/k-christianson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Jacobel</title>
+      <link>https://dlilien.github.io/authors/r-jacobel/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/r-jacobel/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -64,24 +109,6 @@ Find my C.V. here.</description>
       <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
       
       <guid>https://dlilien.github.io/authors/robert-jacobel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DA Lilien</title>
-      <link>https://dlilien.github.io/authors/da-lilien/</link>
-      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/da-lilien/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K Christianson</title>
-      <link>https://dlilien.github.io/authors/k-christianson/</link>
-      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/k-christianson/</guid>
       <description></description>
     </item>
     
