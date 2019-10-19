@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>NEGIS</title>
-      <link>https://dlilien.github.io/tags/negis/</link>
-      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/tags/negis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>greenland</title>
       <link>https://dlilien.github.io/tags/greenland/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
@@ -49,11 +40,11 @@
     </item>
     
     <item>
-      <title>South Pole</title>
-      <link>https://dlilien.github.io/tags/south-pole/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      <title>NEGIS</title>
+      <link>https://dlilien.github.io/tags/negis/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dlilien.github.io/tags/south-pole/</guid>
+      <guid>https://dlilien.github.io/tags/negis/</guid>
       <description></description>
     </item>
     
@@ -63,6 +54,15 @@
       <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/tags/antarctic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South Pole</title>
+      <link>https://dlilien.github.io/tags/south-pole/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/tags/south-pole/</guid>
       <description></description>
     </item>
     
