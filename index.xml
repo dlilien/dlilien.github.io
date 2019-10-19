@@ -1,83 +1,2648 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Lilien on David Lilien</title>
+    <title>David Lilien</title>
     <link>https://dlilien.github.io/</link>
-    <description>Recent content in David Lilien on David Lilien</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on David Lilien</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
     <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	    <atom:link href="https://dlilien.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Talks</title>
-      <link>https://dlilien.github.io/talk/</link>
-      <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
+      <title>Biography</title>
+      <link>https://dlilien.github.io/h2/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://dlilien.github.io/talk/</guid>
+      <guid>https://dlilien.github.io/h2/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>https://dlilien.github.io/photos/</link>
-      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      <title>Recent Posts</title>
+      <link>https://dlilien.github.io/h2/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dlilien.github.io/photos/</guid>
+      <guid>https://dlilien.github.io/h2/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://dlilien.github.io/project/</link>
-      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://dlilien.github.io/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://dlilien.github.io/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H2s</title>
-      <link>https://dlilien.github.io/h2/</link>
+      <link>https://dlilien.github.io/h2/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dlilien.github.io/h2/</guid>
+      <guid>https://dlilien.github.io/h2/projects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Recent &amp; Upcoming Presentations</title>
+      <link>https://dlilien.github.io/h2/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid></guid>
+      <guid>https://dlilien.github.io/h2/talks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://dlilien.github.io/post2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Recent Publications</title>
+      <link>https://dlilien.github.io/h2/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dlilien.github.io/post2/</guid>
+      <guid>https://dlilien.github.io/h2/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://dlilien.github.io/h2/photos/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/h2/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://dlilien.github.io/h2/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/h2/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ImpDAR: An open-source impulse radar processor *submitted*</title>
+      <link>https://dlilien.github.io/publication/radar_processing/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/radar_processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I moved to Denmark</title>
+      <link>https://dlilien.github.io/post/move_to_denmark/</link>
+      <pubDate>Mon, 05 Aug 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/move_to_denmark/</guid>
+      <description>
+
+
+
+
+&lt;p&gt;I&amp;rsquo;ve started a postdoc in Denmark, at the Center for Ice and Climate (now called Physics of Ice, Climate and Earth). I am really excited to be here, both for the opportunity to work in a new environment and because there is so much expertise in glaciology and ice-core science. I&amp;rsquo;m funded to work on a project called &amp;ldquo;Iceflow,&amp;rdquo; which generally aims to learn about ice flow in Northeast Greenland, taking advantage of the new ice core project there. I&amp;rsquo;m still homing in on exactly what I will do, but I&amp;rsquo;m starting to spin up some models to look at effects of anisotropy on the core (more coming on what that means soon!).&lt;/p&gt;
+
+&lt;p&gt;In April, I packed up all of my stuff from Seattle (mostly kayaks and skis), drove it all to my parents&amp;rsquo; basement near Chicago, and flew to Copenhagen. The drive to Chicago was kind of fun&amp;ndash;Julia joined me, and we were able to stop for a day to ski at Big Sky with some blue sky, fresh-ish April Powder, and the upper mountain completely open. We also took a slight detour down to pass through the Badlands&amp;ndash;I had been 12 years ago but Julia had never been, and she was excited about the paleosols.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; style=&#34;max-width:600px&#34;&gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_posts/move_to_denmark/big_sky.jpg&#34; alt=&#34;A good day in Big Sky&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_posts/move_to_denmark/big_sky.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;A good day in Big Sky&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;box&#34; style=&#34;max-width:600px&#34;&gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_posts/move_to_denmark/kayaks.jpg&#34; alt=&#34;Boats making their way east&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_posts/move_to_denmark/kayaks.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Boats making their way east&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;box&#34; style=&#34;max-width:600px&#34;&gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_posts/move_to_denmark/paleosols.jpg&#34; alt=&#34;Some old dirt&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_posts/move_to_denmark/paleosols.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Some old dirt&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Late April was a great time to show up in Denmark. The days have been long for the first few months that I have been here, leaving plenty of time to bike around the city in the light and to start get to know the place. I had a week to buy a bike, start to sort out the financial and administrative aspects of moving internationally, and fill the tiny fridge with some food.&lt;/p&gt;
+
+&lt;p&gt;Just after I arrived, the Greenland field season began to start up as the EastGRIP (GReenland Ice-core Project) camp opened. Many of the students, staff, and faculty cycle through trips to work at the camp through the course of the summer, so the office quickly emptied out. In addition, the Danes seem to value work-life balance in a way that is totally foreign to me as an American, and the office cleared out almost entirely through most of July. It was a great, quiet summer though, and having few people around was nice for getting things spinning up here without distraction. Julia was able to visit for much of the summer, and were able to travel on weekends and still both work/write during the week.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Poster: ImpDAR: an open-source impulse radar processor in Python</title>
+      <link>https://dlilien.github.io/talk/igs_2019/</link>
+      <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
+      
+      <guid>https://dlilien.github.io/talk/igs_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Weakening, Convergent Flow, and Vertical Heat Transport in the Northeast Greenland Ice Stream Shear Margins</title>
+      <link>https://dlilien.github.io/publication/negis_margins/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/negis_margins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advection (non-climate) impact on the South Pole Ice Core</title>
+      <link>https://dlilien.github.io/publication/advection_impact/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/advection_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melt at grounding line controls observed and future retreat of Smith, Pope, and Kohler Glaciers</title>
+      <link>https://dlilien.github.io/publication/cd_prog/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/cd_prog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissertation Defense</title>
+      <link>https://dlilien.github.io/talk/thesis_defense/</link>
+      <pubDate>Wed, 20 Feb 2019 13:00:00 -0800</pubDate>
+      
+      <guid>https://dlilien.github.io/talk/thesis_defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019 South Pole field season</title>
+      <link>https://dlilien.github.io/post/sp_s3/</link>
+      <pubDate>Mon, 28 Jan 2019 11:33:40 -0800</pubDate>
+      
+      <guid>https://dlilien.github.io/post/sp_s3/</guid>
+      <description>
+
+
+
+
+&lt;p&gt;In December, I headed to the South Pole for a third field season, wrapping our survey of regional ice flow. Like last year, this was a very quick season with only about two weeks at the Pole. As in previous years, the field season was timed to span the solstice so as to get the warmest weather at the South Pole (~-10 F this year). We left for New Zealand week after Thanksgiving, and after getting our cold weather gear we started trying to fly to Antarctica on December 13th. At first, we were trying to fly on a &amp;ldquo;Kiwi Herc&amp;rdquo;, a C-130 belonging to the Royal New Zealand Air Force that has wheels and no skis. On the first day, we flew 5 hours before turning around due to changing weather in McMurdo and flying the 5 hours back to Christchurch; these turnaround flights are not altogether uncommon and are called &amp;ldquo;boomerangs&amp;rdquo;. The next day we got on the plane had not even started taxiing when they decided the weather was too bad and the flight was cancelled. The next day we boomeranged once again, arriving back in Christchurch at about midnight after over ten hours in the air. At that point the Kiwi Herc surrendered to the elements and went back to its sunny home. We had a day off from flying, which was a relief, then attempted the Southern Ocean crossing once more on an American LC-130 (the L means it is ski equipped and consequently has much greater flexibility in landing in Antarctica). After nervously counting down the time/guessing when we reached the point of safe return, after which we would no longer have fuel to return to New Zealand and knew we would make it to McMurdo, hope gradually started to build. Soon, we were pretty thrilled to see the Transantarctic mountains appearing out of the few windows.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/lc130.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/lc130.jpg&#34; alt=&#34;Boarding the Herc, attempt four&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/lc130.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/mountains.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/mountains.jpg&#34; alt=&#34;The Transarctic mountains&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/mountains.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/drygalski.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/drygalski.jpg&#34; alt=&#34;The Drygalski ice tongue coming off David glacier&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/drygalski.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Getting to Antarctica is always exciting, but the two boomerangs made the arrival quite a relief. The view from the Willy Field skiway is truly stunning; on a clear day you can see the volcanoes on Ross Island, multiple islands sticking up from the McMurdo ice shelf, and number of ranges in the Transantarctic mountains. The views started as soon as the back of the plane opened for cargo unloading, with Mt. Erebus nicely framed out the cargo door. The volcano was topped with a very flat lenticular cloud that fully encircled the summit, almost looking like a flying saucer. Mt. Rainier often gets lenticulars as well, so the sight of a one above a volcano is not exactly foreign, but the scale of Mt. Erebus rising up 12,000 ft from sea level makes any view of it impressive. Once out of the plane, I spent the ride in to town with my face plastered to the window staring at the mountains and wishing there were penguins around.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/unloading.jpg&#34; alt=&#34;Erebus behind the Herc&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/unloading.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;So that crews have some time off, flights start to get sparse between Christmas and New Years. We knew we needed to be efficient to make it to Pole and avoid risking a long delay in McMurdo over the holidays. Luckily, we quickly made it through the required trainings in McMurdo, and after a few days were ready to head on to the South Pole. That flight went more smoothly, and we made it to the Pole on the 22nd and started to acclimatize.&lt;/p&gt;
+
+&lt;p&gt;The first order of business was to remove Max&amp;rsquo;s firn compaction instruments that had spent two winters near the Pole. Firn is nominally the transition stage between snow and ice, that is to say it is just old snow that has not yet had enough other snow piled on top of it to be compressed into ice. The firn instruments all sat atop boreholes measuring the distance from themselves to the bottom of the hole. As the snow settled/the firn compacted, this distance got shorter. By installing these instruments in holes of varying depths, the compaction rate can be determined at various depths in the firn column. Our only way to know if this worked was to go out to the site 50 km from the South Pole and download the data. Max had pulled data off of the instruments last year, so we knew that they had lasted one winter without hiccup, so we were reasonably sure that they would have worked again, but we were still anxious to get out there and be sure that everything was a success. Because they had been in place for two years, there was a lot of snow on top of the instruments; normally there is about 20 cm of snow accumulation (~8 in) near the South Pole, but last year was pretty snowy and there was about 60 cm of snow accumulation (~2 ft). Combined with the snow from the year before, this put the instruments about 3 ft down.&lt;/p&gt;
+
+&lt;p&gt;After we drove the two hours out to the site, Max quickly dug out the controller for all the measurements and downloaded the data (Hurray! everything again looked good), and then we were free to start removing the twelve compaction instruments. However, we also had to remove the solar panels and wind turbine that had provided power to these instruments through the prior two winters, and the anchors which kept the power system from blowing over, all of which had been buried ~3 ft down two years before. With all the new snow, those anchors and the bases of the poles holding the power equipment was now around 6 ft deep. Digging these instruments out was exhausting work. Though we had hoped to get them all out in a day, it quickly became apparent that a second day would be needed. After exposing &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; of the instruments and extracting enough equipment to fill our sleds for the drive back, we called it a day. We took a one day break to do some GPS surveying and give our backs a rest, then went and finished digging out the equipment.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/maxdig.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/maxdig.jpg&#34; alt=&#34;Max digging&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/maxdig.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/twitdig.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/twitdig.jpg&#34; alt=&#34;Twit digging&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/twitdig.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/holes.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/holes.jpg&#34; alt=&#34;Lots of holes&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/holes.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/borehole.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/borehole.jpg&#34; alt=&#34;One of the boreholes after digging it out&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/borehole.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/maxdigs2.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/maxdigs2.jpg&#34; alt=&#34;Max digging&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/maxdigs2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/twitdigs2.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/twitdigs2.jpg&#34; alt=&#34;Twit digging&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/twitdigs2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/packing.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/packing.jpg&#34; alt=&#34;Packing up the instruments&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/packing.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/conestoga.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/conestoga.jpg&#34; alt=&#34;Loading up the Conestoga&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/conestoga.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;The rest of out time at the South Pole was uneventful. As in previous years, we snowmobiled around measuring how much our stakes had moved and then pulling them out. At this point we already had a solid map of ice flow in the area, so the success of our previous measurements meant that most of these additional data really just reduced our already low errors. We also did a bit of ice-penetrating radar work downstream of the Pole and across the flowline 37.5 km upstream. As in previous years I was operating a 200 MHz (VHF) radar, which could see layers in the top 100 m of ice, while Twit dragged his deep (HF; 7 MHz) radar to find the ice thickness and look at deeper layers. As always, the complexity and custom-built nature of the deep radar caused a bit of extra hassle, but Twit was able to get everything working and we collected all the data we had hoped for. In what felt like no time, we were due to head back north. We had some more good flight luck and caught a plane to McMurdo on our first shot.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/blanket.jpg&#34; alt=&#34;Classic scene of Twit with his radar&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/blanket.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The most exciting part of getting back to McMurdo was the hope of seeing penguins. Penguins only show up near town when there is access to the ocean, and in the time that we had been at the pole a lot more cracks had opened in the sea ice. Our cargo had not made it on our flight with us, so there was little to do during our time in McMurdo, and looking for penguins was my main priority. This quickly paid off with a group of Adelies way out on the sea ice, far enough that a spotting scope was really needed to see them. Adelies were exciting, but I had seen some last year and I was really keen to see an emperor. Max and I decided to walk out to Hut Point, where Robert F. Scott&amp;rsquo;s Discovery Hut still sits nearly undisturbed, and peak around the corner for any penguins. As soon as we passed the hut a big black spot was visible out on the ice, and from the size we knew right away that it was an emperor. Over the next hour we watched it waddle, then increasingly belly slide, along the sea ice. It was making an occasional squawk, which was rather loud even hundreds of yards away. After it had passed us and was sliding away, we walked back to town and watched it through a spotting scope. I&amp;rsquo;m not sure what makes penguins quite so fascinating, other than how foreign they seem, but had it been closer I could have happily spent another few hours watching this one waddle along.&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/walkin2.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/walkin2.jpg&#34; alt=&#34;A lone emperor&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/walkin2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/bellyslide.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/bellyslide.jpg&#34; alt=&#34;An emperor doing the belly slide&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/bellyslide.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/penguin_discovery.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/penguin_discovery.jpg&#34; alt=&#34;The emperor admires Mt. Discovery&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/penguin_discovery.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-permalink=&#34;https://www.instagram.com/p/BsgZGWsgbt7/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; data-instgrm-version=&#34;12&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:16px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BsgZGWsgbt7/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; style=&#34; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&#34; target=&#34;_blank&#34;&gt; &lt;div style=&#34; display: flex; flex-direction: row; align-items: center;&#34;&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;padding: 19% 0;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display:block; height:50px; margin:0 auto 12px; width:50px;&#34;&gt;&lt;svg width=&#34;50px&#34; height=&#34;50px&#34; viewBox=&#34;0 0 60 60&#34; version=&#34;1.1&#34; xmlns=&#34;https://www.w3.org/2000/svg&#34; xmlns:xlink=&#34;https://www.w3.org/1999/xlink&#34;&gt;&lt;g stroke=&#34;none&#34; stroke-width=&#34;1&#34; fill=&#34;none&#34; fill-rule=&#34;evenodd&#34;&gt;&lt;g transform=&#34;translate(-511.000000, -20.000000)&#34; fill=&#34;#000000&#34;&gt;&lt;g&gt;&lt;path d=&#34;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&#34;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&#34;padding-top: 8px;&#34;&gt; &lt;div style=&#34; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&#34;&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;padding: 12.5% 0;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&#34;&gt;&lt;div&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;margin-left: 8px;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;margin-left: auto;&#34;&gt; &lt;div style=&#34; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/BsgZGWsgbt7/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;A post shared by David Lilien (@david.lilien)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2019-01-11T19:41:13+00:00&#34;&gt;Jan 11, 2019 at 11:41am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//www.instagram.com/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;We had made it back to McMurdo in time for Max to attempt to defend his title at the McMurdo Marathon. People pay exorbitant sums to run other races in Antarctica, so I had been feeling like it would be a shame to miss this marathon. My one previous marathon had left me somewhat incapacitated for months, so I decided to run the half. Max had come prepared with sheet metal screws for traction, so we got our shoes ready on Saturday and on Sunday morning headed on Ivan the Terrabus to get to the start of the race at the edge of the ice shelf. The half marathon was an out-and-back on the road to the Phoenix runway, while the marathon did that twice. It was a beautiful day, and on the way out I was only running in a shirt and tights; I needed a windbreaker on the way back but even that wasn&amp;rsquo;t bad. There was an aid station at 3.5 miles and at the turnaround; aid was somewhat nontraditional, and as much as I liked the idea I found it a bit early for burgers and beer. I met my goal of finishing in under two hours, though as a result of the soft surface my legs felt more tired than I thought they should. The screws had worked great though, and I did not slip much nor did I have a screw in the sole of my foot. Max led the whole race, but in the last 100 m a Kiwi who had drafted off him for 25 miles sprinted ahead. Alas. On the bright side, we got and email from Twit&amp;rsquo;s brother that Max had made the &lt;a href=&#34;https://www.newshub.co.nz/home/world/2019/01/kiwi-wins-antarctic-marathon-epic.html&#34; target=&#34;_blank&#34;&gt;national news in New Zealand&lt;/a&gt;, though only the crazy shirtless skier made it on their Instagram.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/shoescrews.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/shoescrews.jpg&#34; alt=&#34;Traction for running on a snow road&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/shoescrews.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/stretching.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/stretching.jpg&#34; alt=&#34;Stretching it out&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/stretching.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/ivan.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/ivan.jpg&#34; alt=&#34;Transport on Ivan the Terrabus out to the start line&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/ivan.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/runningout.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/runningout.jpg&#34; alt=&#34;Runners turning around for the marathon&amp;#39;s second lap&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/runningout.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/runningback.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/runningback.jpg&#34; alt=&#34;Half-marathoners finishing&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/runningback.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/haglund.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/haglund.jpg&#34; alt=&#34;The Kiwi&amp;#39;s transport and the toilet tent&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/haglund.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-permalink=&#34;https://www.instagram.com/p/BsWxikilO7b/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; data-instgrm-version=&#34;12&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:16px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BsWxikilO7b/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; style=&#34; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&#34; target=&#34;_blank&#34;&gt; &lt;div style=&#34; display: flex; flex-direction: row; align-items: center;&#34;&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;padding: 19% 0;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display:block; height:50px; margin:0 auto 12px; width:50px;&#34;&gt;&lt;svg width=&#34;50px&#34; height=&#34;50px&#34; viewBox=&#34;0 0 60 60&#34; version=&#34;1.1&#34; xmlns=&#34;https://www.w3.org/2000/svg&#34; xmlns:xlink=&#34;https://www.w3.org/1999/xlink&#34;&gt;&lt;g stroke=&#34;none&#34; stroke-width=&#34;1&#34; fill=&#34;none&#34; fill-rule=&#34;evenodd&#34;&gt;&lt;g transform=&#34;translate(-511.000000, -20.000000)&#34; fill=&#34;#000000&#34;&gt;&lt;g&gt;&lt;path d=&#34;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&#34;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&#34;padding-top: 8px;&#34;&gt; &lt;div style=&#34; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&#34;&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;padding: 12.5% 0;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&#34;&gt;&lt;div&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;margin-left: 8px;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;margin-left: auto;&#34;&gt; &lt;div style=&#34; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/BsWxikilO7b/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;A post shared by Newshub (@newshubnz)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2019-01-08T01:55:39+00:00&#34;&gt;Jan 7, 2019 at 5:55pm PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//www.instagram.com/embed.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;After a one-day delay before another scenic flight on an LC-130, we were on to the long series of commercial flights home.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/fang.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/fang.jpg&#34; alt=&#34;Mt. Erebus from the north&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/fang.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/bergs.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/bergs.jpg&#34; alt=&#34;Some ice bergs&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/bergs.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+    
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/seaiceshards.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/seaiceshards.jpg&#34; alt=&#34;Broken up sea ice&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/seaiceshards.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Modeled temperature and basal shear stress of NEGIS and implications for surge mechanics of Storstrømmen</title>
+      <link>https://dlilien.github.io/talk/eastgrip_2018/</link>
+      <pubDate>Mon, 12 Nov 2018 15:00:00 +0100</pubDate>
+      
+      <guid>https://dlilien.github.io/talk/eastgrip_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Sensitivity of Smith Glacier to Melt Variability, Marginal Weakening, and Terminal Buttressing</title>
+      <link>https://dlilien.github.io/talk/wais_2018/</link>
+      <pubDate>Tue, 18 Sep 2018 16:00:00 -0500</pubDate>
+      
+      <guid>https://dlilien.github.io/talk/wais_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radar processing</title>
+      <link>https://dlilien.github.io/post/impdar/</link>
+      <pubDate>Fri, 10 Aug 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/impdar/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;ve been doing some work to bring the St. Olaf deep radar processor (StODeep) up into this decade. I&amp;rsquo;ve had some time twiddling my thumbs while running ice-flow models, and I&amp;rsquo;ve been doing the work of migrating StODeep as I wait for the model runs. I&amp;rsquo;m not a fan of Matlab, so I&amp;rsquo;ve migrated things to Python. I took advantage of some of the code I had written for &lt;a href=&#34;../../pygssi&#34;&gt;pygssi&lt;/a&gt;, but really pygssi is now not very useful and things are migrating to the functionality and syntax of StODeep.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-bit-of-background&#34;&gt;A bit of background&lt;/h2&gt;
+
+&lt;p&gt;The St. Olaf Deep radar processor has a long history that I don&amp;rsquo;t fully know. I&amp;rsquo;m not at St. Olaf, and the processor can also do shallow radar, and is better described as an impulse radar processor. I&amp;rsquo;ve decided to call it ImpDAR for that reason.&lt;/p&gt;
+
+&lt;h2 id=&#34;full-documentation&#34;&gt;Full Documentation&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m still working on examples, but the documentation is &lt;a href=&#34;../../ImpDAR&#34;&gt;on this site&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Holocene Ice‐Flow Speedup in the Vicinity of the South Pole</title>
+      <link>https://dlilien.github.io/publication/holocene_ice_flow/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/holocene_ice_flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changes in flow of Crosson and Dotson ice shelves, West Antarctica, in response to elevated melt</title>
+      <link>https://dlilien.github.io/publication/cd_obs_inv/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/cd_obs_inv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018 South Pole Field Season</title>
+      <link>https://dlilien.github.io/post/sp_s2/</link>
+      <pubDate>Wed, 17 Jan 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/sp_s2/</guid>
+      <description>
+
+
+
+
+&lt;p&gt;I&amp;rsquo;m freshly back from another field season in Antarctica. This was a quick one, with only about two weeks down at the South Pole, though with transit I was gone for just over a month. We were continuing GPS and radar surveys, logging boreholes, and checking on instruments that had overwintered. The team this year was a subset of the folks we had last year; since we were not drilling and only had a little bit of camping we didn&amp;rsquo;t have the IDDO folks or Maurice along.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/erebus.jpg&#34; alt=&#34;Getting of the Herc and onto Ivan&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/erebus.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The season started out smoothly, and we miraculously made it to the pole without delays, and Twit and I were able to start our surveying after just a day and a half of acclimatization. We were riding the same snow machines as last year, though Twit&amp;rsquo;s had a great custom shifter knob added. After our heavy use last year, the belt on that machine had to be replaced, and the tight, new belt prevented the Skidoo from starting in gear. Instead the season was spent with something resembling a manual transmission with no clutch, which worked great!&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/gps_sled.jpg&#34; alt=&#34;We had to haul a lot of GPS units and a lot of gas&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/gps_sled.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After a few days of surveying we brought the Conestoga (a &amp;ldquo;hard-sided structure&amp;rdquo;) to go and help put in a small camp at our field site from last year. This site, 50 km upstream of South Pole along the flowline, had all the instruments that Max had overwintered and an open borehole for the other David to use to log temperature and density. We were able to get all our equipment out there with just one trip on skidoos, so we loaded up everything onto large sleds and hauled it out the day after Christmas.&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/camp_sled.jpg&#34; alt=&#34;Camping gear&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/camp_sled.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/full_conestoga.jpg&#34; alt=&#34;Our hard-sided structure full of soft goods&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/full_conestoga.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Even though we knew it was going to be as we left it, I was still pretty amazed to see our old campsite from few kilometers off, then come to it and find everything as expected. About 20 cm of snow blanketed the site, but flags, solar panels, and a wind turbine made everything easy to find. Even a little remnant of our discarded-ice-core sculptures remained, though it was wind-eroded.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/flags.jpg&#34; alt=&#34;Loading up equipment after testing near Mt. Erebus, just outside McMurdo&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/flags.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Max left twelve instruments logging compaction of the snow and firn (older snow compacting to ice) over the winter, as well as a string of thermistors down another hole to measure temperature, and we did not know if they had successfully recorded through the six-month night. As it turned out, all the instruments had survived the winter despite -75 C temperatures, and so Max only had to download data, replace one instrument that had failed on installation, and then he was done. David got to logging the borehole straight away since the tools have to move slowly through the hole. In the end the neutron probe was unable to handle the temperatures, same as last year, so he had plenty of time to do the temperature log of the hole.&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/it_worked.jpg&#34; alt=&#34;Max at the moment of truth. It survived winter!&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/it_worked.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/potentiometer.jpg&#34; alt=&#34;A quick replacement for some bad solder&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/potentiometer.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Skidoo camping is not quite as luxurious as Challenger camping, since you have to do things like wait until you get there to set up your cook tent, but it was still quite comfortable. My best night&amp;rsquo;s sleep of the whole season was my one night at camp. I think this is a result of the relative humidity; the station is filled with air that was formerly really cold then heated, and so has very little moisture. On the other hand, air at that lower temperature can be close to saturation (it was about 75% relative humidity a lot of the time), so in a tent it does not feel as dry.&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/tents.jpg&#34; alt=&#34;Sleep tents&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/tents.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/endurance.jpg&#34; alt=&#34;Cook/logging tent&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/endurance.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Twit and I headed back to the Pole after just one night, and did a couple additional radar profiles to complement those we took the previous year. We took radar profiles for two days, it was back to the GPS survey. Max and David came back the day after we did, and while David logged the temperature in the SPICEcore hole, the other three of us traded off doing GPS. We managed to resurvey almost all of our stake network before running out of time.&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/radar.jpg&#34; alt=&#34;Shallow radar setup&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/radar.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/spice.jpg&#34; alt=&#34;Logging temperature in SPICEcore&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/spice.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;We made it back to McMurdo with only a short delay, and were sent off by an incredible halo. We ended up waiting for planes in McMurdo for over a week, during which time Max won the McMurdo marathon. During the delay I saw my first penguins, and was able to work on my computer from the station. After a week I was ready to be home though, and after a brief layover in summery Christchurch came right back to Seattle.&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/pole18.jpg&#34; alt=&#34;The marker for South Pole for 2018&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/pole18.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/halo.jpg&#34; alt=&#34;A great halo&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/halo.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/seals.jpg&#34; alt=&#34;Lots of seals and some tiny penguins!&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/seals.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python Brownbag</title>
+      <link>https://dlilien.github.io/post/python_demo/</link>
+      <pubDate>Mon, 16 Oct 2017 12:30:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/python_demo/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m giving a short seminar on python for matlab users this Friday. I plan to give a short presentation on why grad students in Earth and Space Sciences might want to switch from Matlab, followed by prepared demos where people can follow along.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll also introduce git, since I think it is probably more important for productivity than the matlab/python choice. Hopefully I&amp;rsquo;ll have a few open-source converts by the end of the week!&lt;/p&gt;
+
+&lt;p&gt;Everything I&amp;rsquo;m presenting is on &lt;a href=&#34;https://github.com/dlilien/pybb&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;. There are two sets of slides, one on &lt;a href=&#34;https://dlilien.github.io/files/python_v_matlab.pdf&#34;&gt;Python vs. Matlab&lt;/a&gt; and one giving a whirlwind intro to &lt;a href=&#34;https://dlilien.github.io/fildes/commandline_git.pdf&#34;&gt;git and the package managers&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elevated melt causes varied response of Crosson and Dotson Ice Shelves</title>
+      <link>https://dlilien.github.io/talk/nwg-talk/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/talk/nwg-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elevated melt causes varied response of Crosson and Dotson Ice Shelves</title>
+      <link>https://dlilien.github.io/talk/wais-talk/</link>
+      <pubDate>Tue, 10 Oct 2017 00:09:45 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/talk/wais-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop on social media for science communication</title>
+      <link>https://dlilien.github.io/post/scicomm_twitter/</link>
+      <pubDate>Fri, 29 Sep 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/scicomm_twitter/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve hesitated to commit to attending a full quarter of science communication classes, but I&amp;rsquo;ve been trying to take advantage of the half or 1-day workshops that the UW College of the Environment has been offering. This workshop was on using social media to communicate science, which means twitter just got a bunch of new accounts from UW scientists. The workshop was led by &lt;a href=&#34;https://twitter.com/WhySharksMatter&#34; target=&#34;_blank&#34;&gt;David Shiffman&lt;/a&gt;, who is currently at Simon Fraser University.&lt;/p&gt;
+
+&lt;p&gt;I learned a lot about the demographics of twitter (much older and more professional than I expected), and I was convinced that twitter can be a better platform for science-related content than other social media, particularly Facebook. So, I joined the darkside as &lt;a href=&#34;https://twitter.com/GlaciologyDavid&#34; target=&#34;_blank&#34;&gt;@glaciologyDavid&lt;/a&gt;. We all puttered around for a while getting our bearings on the workings of twitter, posting gems like these:&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Learning what this twitter thing is all about at the &lt;a href=&#34;https://twitter.com/hashtag/ShiffmanWorkshop?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ShiffmanWorkshop&lt;/a&gt; with other luddites like &lt;a href=&#34;https://twitter.com/OldAlienEarth?ref_src=twsrc%5Etfw&#34;&gt;@OldAlienEarth&lt;/a&gt;.&lt;/p&gt;&amp;mdash; David A. Lilien (@GlaciologyDavid) &lt;a href=&#34;https://twitter.com/GlaciologyDavid/status/913830554285391872?ref_src=twsrc%5Etfw&#34;&gt;September 29, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I quickly became aware of just how well developed a tool this platform has become: apparently I&amp;rsquo;ve been oblivious to links on almost every journal article and news source that allow you to produce easy, nice-looking tweets of their content in a matter of seconds. Now if I only find some followers, I can spam them with everything I read!&lt;/p&gt;
+
+&lt;p&gt;If you are in the market for scientists to follow on twitter (particularly earth scientists and fisheries scientists), here are the accounts of the other participants in the workshop:&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Some new science communicators on twitter at &lt;a href=&#34;https://twitter.com/hashtag/ShiffmanWorkshop?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ShiffmanWorkshop&lt;/a&gt; , follow them! &lt;a href=&#34;https://t.co/UpKcncVA3x&#34;&gt;pic.twitter.com/UpKcncVA3x&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dr. David Shiffman (@WhySharksMatter) &lt;a href=&#34;https://twitter.com/WhySharksMatter/status/913828644337971200?ref_src=twsrc%5Etfw&#34;&gt;September 29, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>2017 SPICEcore Meeting</title>
+      <link>https://dlilien.github.io/post/spicecore/</link>
+      <pubDate>Fri, 29 Sep 2017 10:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/post/spicecore/</guid>
+      <description>
+
+
+
+
+&lt;p&gt;I attended the annual meeting of the scientists who work on the South Pole Ice Core (&lt;a href=&#34;http://spicecore.org/meetings/&#34; target=&#34;_blank&#34;&gt;SPICEcore&lt;/a&gt;) last week, which was a great opportunity to learn about all the work that people are doing using the core. This meeting was held at the University of Washington, September 19-20, 2017, and had scientists from throughout the US in attendance.&lt;/p&gt;
+
+&lt;p&gt;As lead PI for the upstream South-Pole project, Michelle Koutnik gave an update on our progress to the community. After some work over the summer, it was great to see a lot of our results coming together into a cohesive story. The most exciting result so far is that the shallow radar data, in conjunction with layers dated in SPICEcore, show that the current pattern of accumulation explains ~60% of the variance in layer thickness in SPICEcore. This result seems to suggest stable flow upstream of the South Pole for the past several thousand years! Here&amp;rsquo;s a short bit on the work I&amp;rsquo;ve helped with:&lt;/p&gt;
+
+&lt;p&gt;Last field season we resurveyed GPS stakes that Twit Conway and Michelle had put out the year before. This allowed us to determine the flowline of ice into SPICEcore, and set up our camp on this flowline. We then drove a lot of radar, both shallow (200mhz antenna, to ~100m depth) and deep (to the bed).&lt;/p&gt;
+
+&lt;p&gt;This summer, I went through and traced layers using the GSSI Radan software. These layers are reflections off of some kind of contrast in the ice; they could come from density variations or from other conductivity variations, e.g. chemical composition changes or an ash layer. I was able to follow 13 of these layers for a full 100km upstream along the flowline.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; style=&#34;max-width:500px&#34;&gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_posts/change_pole_1.png&#34; alt=&#34;**a** Relative change of layer depth in space. **b** Traced layers along the flowline. Layer 4 is used in a&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_posts/change_pole_1.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Tracing layers from SPICEcore to 100km upstream&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Looking just the variations in the first layer in map view, we can see that there is significant variation, likely reflecting variable snowfall or perhaps some redistribution of snow from wind. T.J. Fudge was then able to correlate some of these layers with conductivity variations measured directly in SPICEcore and a core we drilled at the camp 50km upstream. In conjunction with the velocities we measured, we can determine where the snow at different depths in the core fell, assuming no change in flow patterns. We can then determine if the observed variation in layer thickness correlates to the current patterns in accumulation, found using the shallow radar. Stay tuned for more results on this front!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radar processing</title>
+      <link>https://dlilien.github.io/project/radar_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/radar_proj/</guid>
+      <description>
+
+
+
+
+&lt;p&gt;While camping and collecting radar data near the South Pole in 2017, I needed a way to visualize results in the field. Since the readily available software was Windows-only, I started developing the tools that I needed to process the data I was collecting using Python on my Mac. While in the field, I wrote all the code for the basic loading and processing steps. These &lt;a href=&#34;http://github.com/dlilien/pygssi&#34; target=&#34;_blank&#34;&gt;scripts&lt;/a&gt;, which were specific to the GSSI system I was using, eventually grew to the point that they implemented most of the common steps for processing both the shallow ice-penetrating radar data, collected with commercial systems like the one I used, and deep radar data generally collected with custom systems.&lt;/p&gt;
+
+&lt;p&gt;It became clear that there was a general need for a tool like this for the broader community of glaciologists; available processing chains were all either secret, commercial, outdated, system-specific, or some combination of those. Because much of the heavy lifting in terms of development was done, I decided to push forward with making this radar processor more broadly useful, which meant writing the tools to ingest other forms of radar data. To make this code most useful for colleagues at UW, I also moved the code to be backwards compatible with the St. Olaf Deep radar processor, StODeep, which was a mass of deprecated matlab code with outdated interface. Most importantly, I added an interface to pick layers, allowing the full chain of processing and interpretation to be executed in this program. The code is freely available on &lt;a href=&#34;http://github.com/dlilien/impdar&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There is a bit of momentum for further development, and I have gotten assistance from other UW students in making this happen. Ben Hills, a UW graduate student, is working on implenting various migration routines in the software. Joshua Driscol, an undergraduate, has been working on algorithms for automatic picking and on comparison between data processed with other chains and with the software I&amp;rsquo;ve written. He will be &lt;a href=&#34;https://dlilien.github.io/talk/igs_2019/&#34; target=&#34;_blank&#34;&gt;presenting&lt;/a&gt; some data processed with this new software at the International Glaciological Society&amp;rsquo;s &lt;em&gt;Five decades of radioglaciology&lt;/em&gt; meeting. We hope to submit a paper on the radar processor to the special issue of the &lt;em&gt;Annals of Glaciology&lt;/em&gt; following the symposium, and hope that this tool can become useful for other researchers working with glaciological radar data.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/gssi.png&#34; alt=&#34;A shallow radar system&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/gssi.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;A shallow radar system&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retreat of Smith Glacier, Antarctica</title>
+      <link>https://dlilien.github.io/project/cd_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/cd_proj/</guid>
+      <description>
+
+
+
+
+&lt;p&gt;Crosson and Dotson are two of the most rapidly changing ice shelves in West Antarctica. Ice shelves are floating extensions of land-based glaciers, and are important for the flow of those glaciers upstream because they can provide resistive stresses at the grounding zone (the area where the ice goes afloat). Because of the cold air temperature there is little surface melt in Antarctica, so the vast majority of ice reaches the ocean and either melts at the underside of ice shelves or calves off as icebergs. Ice shelves are therefore critical as both a stabilizing force and as the conduit for the reservoir of ice in Antarctica to reach the ocean.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/overview_smith.png&#34; alt=&#34;Location of Crosson and Dotson in West Antarctica&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/overview_smith.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Location of Crosson and Dotson in West Antarctica&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The first chapter of my thesis investigated the stability of Crosson and Dotson ice shelves during the satellite record (1996-2015). Previous work has shown a 35 km retreat of the grounding line (Figure 2), the largest known present-day grounding-line retreat. These two ice shelves move at very different speeds; Crosson is fast (up to ~1500 m/yr) while Dotson is slow (around 300 m/yr). Additionally, Crosson sped up through the satellite record while Dotson did not. I&amp;rsquo;m interested in the reasons behind the different speed changes and grounding-line position changes that have been observed. This mostly observational work was published in &lt;a href=&#34;https://dlilien.github.io/publication/cd_obs_inv/&#34; target=&#34;_blank&#34;&gt;The Cryosphere&lt;/a&gt; in 2018.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/over_vel.png&#34; alt=&#34;Ice speeds in 2010 (from Ian Joughin) and grounding line positions (from Scheuchl et. al. 2016)&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/over_vel.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Ice speeds in 2010 (from Ian Joughin) and grounding line positions (from Scheuchl et. al. 2016)&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A central conclusion of the work is that although Dotson is sluggish, high melt rates near its grounding line imply that it has been out of balance since at least 1996. Using relict surface features of the shelf, we argue that this imbalance began much earlier, likely prior to to 1974.&lt;/p&gt;
+
+&lt;p&gt;The second portion of this project used a numerical model to try to understand how much melt, or how much grounding-line retreat or weakening of the ice shelves, was required to cause the observed changes. This work is currently in review at &lt;a href=&#34;https://dlilien.github.io/publication/cd_prog/&#34; target=&#34;_blank&#34;&gt;The Cryosphere Discussions&lt;/a&gt;. I ran a suite of numerical model simulations, initialized to match the state of these glaciers in 1996, then simulated their evolution during the last 20 years using various melt forcings. The model results indicate that high melt rates were needed to cause the retreat, and that rates needed to be strong near the grounding line for significant retreat to ensue. This conclusion remained regardless of whether the ice shelves weakened; weak shelves hastened retreat, but appeared unable to precipitate it.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/gl.png&#34; alt=&#34;Simulations of grounding-line retreat during the time period with observations&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/gl.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Simulations of grounding-line retreat during the time period with observations&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After comparing the results of these model simulations to satellite data, I ran a subset of the simulations forward in time to 2100. While these simulations are not predictions in the sense that the ocean forcing is not tied directly to likely scenarios, they are realistic estimates of likely retreat in that they maintain reasonable melt rates (around modern) for the duration of the simulations. The simulations that match the present-day retreat continue to retreat into the future, and suggest that a significant portion of the ice in these catchments will be lost by 2100. Such extensive retreat has the potential to hasten the destabilization of Thwaites glacier, Smith&amp;rsquo;s larger neighbor.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/long.png&#34; alt=&#34;Long-term simulations of retreat of these glaciers&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/long.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Long-term simulations of retreat of these glaciers&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>South Pole</title>
+      <link>https://dlilien.github.io/photos/south_pole/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/photos/south_pole/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/erebus-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/erebus-thumb.jpg&#34; alt=&#34;Loading up equipment after testing near Mt. Erebus, just outside McMurdo&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/erebus.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Erebus&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/cockpit-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/cockpit-thumb.jpg&#34; alt=&#34;On an LC-130 &amp;#34;Herc&amp;#34; flying to the South Pole&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/cockpit.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Flying to Pole&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/transantarctics-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/transantarctics-thumb.jpg&#34; alt=&#34;Flying over the Transantarctic Mountains&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/transantarctics.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Trans-Antarctic Mountains&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/gps_sled-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/gps_sled-thumb.jpg&#34; alt=&#34;We used 10 geodetic GPS units to survey how much our stake network had moved.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/gps_sled.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;GPS for surveying&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/gps-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/gps-thumb.jpg&#34; alt=&#34;Seeing how much this stake had moved.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/gps.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Surveying&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/stuff-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/stuff-thumb.jpg&#34; alt=&#34;Loading up our huge sled to go camping.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/stuff.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Equipment&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/loading_core-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/loading_core-thumb.jpg&#34; alt=&#34;Loading up boxes to transport the ice core would drill.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/loading_core.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Core Boxes&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/loading_batteries-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/loading_batteries-thumb.jpg&#34; alt=&#34;Loading up 1000lbs of batteries to power equipment through the winter.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/loading_batteries.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Batteries&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/work_tent-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/work_tent-thumb.jpg&#34; alt=&#34;With the sun, blocking the wind is enough to make working tolerable.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/work_tent.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Work Tent&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/drilling-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/drilling-thumb.jpg&#34; alt=&#34;The &amp;#34;4-inch drill&amp;#34; worked hard for three weeks drilling holes as deep as 350 feet.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/drilling.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Drilling&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/guide_drill-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/guide_drill-thumb.jpg&#34; alt=&#34;The drill gets guided down.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/guide_drill.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Drilling&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/core-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/core-thumb.jpg&#34; alt=&#34;Labeling a section of ice core. We need to know its depth, and which way was up.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/core.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Labeling Core&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/sidewinding-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/sidewinding-thumb.jpg&#34; alt=&#34;We drilled some shorter holes using the &amp;#34;Sidewinder&amp;#34; drill.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/sidewinding.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;&amp;#34;Hand&amp;#34; drilling&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/hole-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/hole-thumb.jpg&#34; alt=&#34;We are using the empty holes to measure temperature and how fast the snow is compacting.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/hole.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Empty Hole&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/multimeter-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/multimeter-thumb.jpg&#34; alt=&#34;We used temperature-sensitive resistors (thermistors) to measure the temperatures at the bottom of shallow holes.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/multimeter.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Measuring Temperature&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/unused_core-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/unused_core-thumb.jpg&#34; alt=&#34;We needed more holes than core, so some of the spare core decorated our camp.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/unused_core.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Core art&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/sled_core-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/sled_core-thumb.jpg&#34; alt=&#34;The ice core begins its long journey to Colorado. It will go by snomachine to the pole, by plane to McMurdo, by ship to California, then by truck to Colorado and New Hampshire, remaining frozen the whole time.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/sled_core.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Transporting Core&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/yeti-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/yeti-thumb.jpg&#34; alt=&#34;Some measurements required sampling in a Tyvex suit to preserve their integrity.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/yeti.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Clean Measurements&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/pit-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/pit-thumb.jpg&#34; alt=&#34;Logging our snowpit. The strong wind was doing its best to fill the pit back in.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/pit.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Snowpit&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/firnmeters-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/firnmeters-thumb.jpg&#34; alt=&#34;These instruments will stay in for two years to measure compaction of the snow.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/firnmeters.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Measuring Compaction&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/bigbox-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/bigbox-thumb.jpg&#34; alt=&#34;Power and logging for the compaction instruments through the winter.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/bigbox.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Measuring Compaction&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/radar-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/radar-thumb.jpg&#34; alt=&#34;We used two radar systems to measure the thickness of the ice and the depth of different layers.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/radar.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Measuring Ice Depth&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/halo-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/halo-thumb.jpg&#34; alt=&#34;We had many spectacular halos, which are formed by ice crystals in the air refracting light.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/halo.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Halo&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/south_pole/snow-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/south_pole/snow-thumb.jpg&#34; alt=&#34;The wind forms many features in the snow, whcih is bad for driving but often quite beautiful. We called these saddle-horn-like features bollards because of their resemblance to that type of mountaineering anchor.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/south_pole/snow.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Bollard&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/lc130-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/lc130-thumb.jpg&#34; alt=&#34;Getting on the plane after two boomerangs&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/lc130.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Boarding the LC-130&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/drygalski-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/drygalski-thumb.jpg&#34; alt=&#34;The edge of the Drygalski ice tongue on the flight south&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/drygalski.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Drygalski ice tongu&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/unloading-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/unloading-thumb.jpg&#34; alt=&#34;Cargo is pulled of the LC-130 with Mt. Erebus in the background&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/unloading.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Unloading the LC-130&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/delta-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/delta-thumb.jpg&#34; alt=&#34;Getting off the Delta at the skiway. Deltas are one of the many ridiculous vehicles used for passenger transport around McMurdo.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/delta.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Out at the skiway&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/melt-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/melt-thumb.jpg&#34; alt=&#34;Surface melt near the grounding line of the Ross ice shelf&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/melt.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Melt ponds&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/crevasses-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/crevasses-thumb.jpg&#34; alt=&#34;A small glacier joins the Beardmore&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/crevasses.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Beardmore?&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/piedmonts-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/piedmonts-thumb.jpg&#34; alt=&#34;A series of Piedmont glaciers. There Piedmont glaciers several places on earth (e.g. Malaspina in Alaska, Elephant Ear in Greenland). They are pretty much ice puddles where a glacier spills into a flat area.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/piedmonts.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Piedmont glaciers&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/geology-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/geology-thumb.jpg&#34; alt=&#34;Sometimes you can see rocks in Antarctica&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/geology.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Some rocks&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/idling-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/idling-thumb.jpg&#34; alt=&#34;Warming up the skidoos for a trip out to our old campsite&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/idling.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Skidoos&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/pinkfoam-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/pinkfoam-thumb.jpg&#34; alt=&#34;Squint between the straps and the GPS will tell you where to go&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/pinkfoam.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Navigation&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/twitdig-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/twitdig-thumb.jpg&#34; alt=&#34;Max had a number of instruments buried to measure firn compaction; we had to dig these instruments out.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/twitdig.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Digging&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/maxdig-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/maxdig-thumb.jpg&#34; alt=&#34;Max had a number of instruments buried to measure firn compaction; we had to dig these instruments out.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/maxdig.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Digging&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/twitdigs2-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/twitdigs2-thumb.jpg&#34; alt=&#34;It had snowed a lot this year, so we had an unexpectedly long way to dig.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/twitdigs2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Digging&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/maxdigs2-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/maxdigs2-thumb.jpg&#34; alt=&#34;It had snowed a lot this year, so we had an unexpectedly long way to dig.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/maxdigs2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Digging&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/christmascake-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/christmascake-thumb.jpg&#34; alt=&#34;Eating some New Zealand Christmas cake as a break from digging holes.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/christmascake.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;NZ Christmas Cake&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/holes-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/holes-thumb.jpg&#34; alt=&#34;We had a lot of holes to dig&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/holes.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Holes&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/borehole-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/borehole-thumb.jpg&#34; alt=&#34;Max&amp;#39;s instruments were down holes like this&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/borehole.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;A borehole&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/packing-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/packing-thumb.jpg&#34; alt=&#34;Tying things to the sled to bring out all the equipment that overwintered.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/packing.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Packing up&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/conestoga-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/conestoga-thumb.jpg&#34; alt=&#34;Putting things into the Conestoga&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/conestoga.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Packing up&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/foundballoon-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/foundballoon-thumb.jpg&#34; alt=&#34;We were driving near where a weather balloon came down, so we recovered it for NOAA&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/foundballoon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Ozone balloon&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/slowwalk-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/slowwalk-thumb.jpg&#34; alt=&#34;Max and Twit take the recovered balloon over to the Conestoga for transport&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/slowwalk.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Ozone balloon&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/blanket-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/blanket-thumb.jpg&#34; alt=&#34;Sometimes controlling your radar requires a look at the computer under the blanket&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/blanket.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Twit&amp;#39;s radar&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/mountains-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/mountains-thumb.jpg&#34; alt=&#34;A view from the flight back to McMurdo&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/mountains.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Transantarctic mountains&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/walkin2-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/walkin2-thumb.jpg&#34; alt=&#34;A lone emperor penguin walks on the sea ice&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/walkin2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Emperor Penguin&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/bellyslide-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/bellyslide-thumb.jpg&#34; alt=&#34;Penguins are pretty bad at walking, so they bellyslide a lot&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/bellyslide.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Emperor Penguin&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/penguin_discovery-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/penguin_discovery-thumb.jpg&#34; alt=&#34;A lone emperor penguin walks on the sea ice with Mt. Discovery in the background&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/penguin_discovery.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Emperor Penguin&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/fang-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/fang-thumb.jpg&#34; alt=&#34;A look at Mt. Erebus from the north as we fly back to New Zealand&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/fang.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Mt. Erebus&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/seaiceshards-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/seaiceshards-thumb.jpg&#34; alt=&#34;Sea ice that has broken up&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/seaiceshards.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Sea-ice shards&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/bergs-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/bergs-thumb.jpg&#34; alt=&#34;Ice bergs, calved off some undetermined ice shelf or glacier&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/bergs.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Ice bergs&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/island-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/island-thumb.jpg&#34; alt=&#34;Somewhere near Ross Island&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/island.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;An island&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/pole_1819/northerntransant-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1819/northerntransant-thumb.jpg&#34; alt=&#34;Somewhere in the northern Transantarctic mountains&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1819/northerntransant.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Mountains&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>South Pole Geophysics</title>
+      <link>https://dlilien.github.io/project/sp_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/sp_proj/</guid>
+      <description>
+
+
+
+
+&lt;p&gt;I&amp;rsquo;ve had the great opportunity to join in a collaborative research project, spearheaded by Michelle Koutnik, studying ice flow near South Pole. An overall summary of the project is &lt;a href=&#34;http://www.michelle-koutnik.com/south-pole-survey/&#34; target=&#34;_blank&#34;&gt;on Michelle&amp;rsquo;s website&lt;/a&gt;, so here I&amp;rsquo;ll just summarize the portions with which I&amp;rsquo;m involved.&lt;/p&gt;
+
+&lt;p&gt;The South Pole Ice Core (&lt;a href=&#34;http://spicecore.org/&#34; target=&#34;_blank&#34;&gt;SPICEcore&lt;/a&gt;) was drilled during 2014-2016 by scientists working around the US, recovering ice from about 1 km from the geographic south pole. There are a lot of benefits to drilling at this site, but one complication is that South Pole is not on an ice divide. The ice at South Pole moves about 10 m/yr; one fun consequence is that South Pole Station and surrounding surface is moving relative to the Pole, so each year on New Years the marker for the Pole gets replaced by a new one, made by the overwintering crew, placed at the new location of the Pole.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/pole18.jpg&#34; alt=&#34;The marker for South Pole for 2018&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/pole18.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The motion of the ice means that the composition of gas, impurities, and water isotopes in SPICEcore is affected by the composition of those components upstream at the time the ice originated as snow. This is both a blessing and a curse; it creates ambiguity in the cause of variations recorded in the core, since some changes in isotopes or temperature may be caused by spatial rather than temporal variation. However, an ice core drilled in stationary ice contains information about only one point in horizontal space, whereas SPICEcore recors information along a line. My involvement is mostly driving a snowmachine around.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_posts/tracks.png&#34; alt=&#34;The flowline into SPICEcore&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_posts/tracks.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;The flowline into SPICEcore&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The central aim of this project is to characterize ice flow upstream of the site of SPICEcore in both the vertical and horizontal dimensions. In the vertical, this means understanding firn (old snow) compaction, while in the horizontal this means determining where the ice is coming from and how long it took to get to the core site. I&amp;rsquo;ve mainly been involved with the horizontal portion, though I&amp;rsquo;ve also done two seasons of shallow radar profiling to look at horizontal variability of layers in the firn.&lt;/p&gt;
+
+&lt;p&gt;To determine the flowline, and how long the ice takes to flow along that flowline, we used a network of GPS stakes. These days, when we want to find out how ice is moving we use satellite observations (InSAR or optical feature tracking), but the orbits of satellites generally do not go over the poles, so we are unable to use satellite velocities in this region. While GPS also uses satellites, the satellites do not need to be directly overhead, and GPS receivers near South Pole can still see at least twelve satellites and thus obtain an accurate position. By putting out stakes and measuring their displacement over the course of 1-2 years using GPS, we figured out the velocity in the region upstream of South Pole (Figure 2). Using this velocity, it is straightforward to determine the flowline into SPICEcore. My role in this GPS work has mainly been a lot of snowmachining out to place and measure the position of these stakes.&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/gps.jpg&#34; alt=&#34;Measuring stake position with a GPS&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/gps.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/flow.png&#34; alt=&#34;The flowline into SPICEcore&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/flow.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;The flowline into SPICEcore&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;My other main involvement with the project has been with the spatial variation of accumulation (i.e. snowfall). About 20 cm of snow fall each year at South Pole, which compacts into about 9 cm of ice, but the amount of accumulation varies horizontally, probably based on weather patterns and surface topography (imagine snow blowing off hilltops into valleys). In order to figure out how much accumulation takes place at different places upstream of South Pole, we used a ground penetrating radar. This is just a commercial system, usually used by geologists to see through a few meters of soil or rock. However, the frequency travels farther in ice and snow than rock, especially in cold, dry snow, so we can see layers (likely caused by density variations) down to 100 m near South Pole. By dragging this radar around behind a snowmachine, I traced layers to determine how accumulation varies along the lines we profiled (Figure 3).&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/radar.jpg&#34; alt=&#34;The shallow radar setup&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/radar.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/layers.png&#34; alt=&#34;Tracing layers in a profile for 100 km upstream from SPICEcore&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/layers.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Tracing layers in a profile for 100 km upstream from SPICEcore&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;By comparing the accumulation along the flowline upstream of SPICEcore to the layer thicknesses in SPICEcore, we were able to determine that the flow direction and the pattern of accumulation have been approximately unchanged over the last 10,000 years. During that time, ice flow speeds increased by around 15%. This speedup is not surprising given what we know about the ice thickness history. Ice has gotten thicker in the Antarctic interior since the last glacial because warmer air is able to transport more moisture and thus cause more snow, and ice near the Antarctic margin has thinned due to the warmer temperatures resulting in more melt (mostly from warm water contacting ice shelves). These results were &lt;a href=&#34;https://dlilien.github.io/publication/holocene_ice_flow/&#34; target=&#34;_blank&#34;&gt;published in Geophysical Research Letters in 2018&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The flow of ice upstream also has implications for interpreting the ice core. T.J. Fudge is leading a paper on these effects, and that will be coming out soon (likely 2019).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drainage of Southeast Greenland Firn Aquifer Water through Crevasses to the Bed</title>
+      <link>https://dlilien.github.io/publication/meltwater_crevasses/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/meltwater_crevasses/</guid>
+      <description>&lt;p&gt;My role in the project was to do flow modeling of the ice surrounding the crevasses to determine how quickly the ice pressure would cause them to close.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Around the Cascades</title>
+      <link>https://dlilien.github.io/photos/wa_glaciers/</link>
+      <pubDate>Sun, 30 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/photos/wa_glaciers/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/nisqually_glacier-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/nisqually_glacier-thumb.jpg&#34; alt=&#34;Nisqually Glacier on Mt. Rainier. Southern Cascades, August, 2015.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/nisqually_glacier.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Nisqually Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/deming_ice_fall_Mt_Baker-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/deming_ice_fall_Mt_Baker-thumb.jpg&#34; alt=&#34;The Deming Ice Fall on Mt. Baker. North Cascades, September, 2015.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/deming_ice_fall_Mt_Baker.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Deming Ice Fall&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/easton_Glacier_Mt_Baker-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/easton_Glacier_Mt_Baker-thumb.jpg&#34; alt=&#34;Easton Glacier on Mt. Baker. North Cascades, September, 2015.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/easton_Glacier_Mt_Baker.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Easton Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/terrestrial_radar_with_Mt_Baker-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/terrestrial_radar_with_Mt_Baker-thumb.jpg&#34; alt=&#34;Terrestrial radar interferometer (TRI) observing Coleman Glacier on Mt. Baker. North Cascades, September, 2016.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/terrestrial_radar_with_Mt_Baker.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Coleman Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/twin_Sisters_from_Mt_Baker-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/twin_Sisters_from_Mt_Baker-thumb.jpg&#34; alt=&#34;Twin Sisters range and glacier from Mt. Baker. North Cascades, September, 2015.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/twin_Sisters_from_Mt_Baker.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Twin Sisters&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/twin_Sisters_from_North_Twin-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/twin_Sisters_from_North_Twin-thumb.jpg&#34; alt=&#34;Twin Sisters Glacier from the summit of North Twin. Northwest Cascades, 2016.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/twin_Sisters_from_North_Twin.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Twin Sisters&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/tomyhoi_Glacier-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/tomyhoi_Glacier-thumb.jpg&#34; alt=&#34;The small, unnamed glacier on Tomyhoi Peak. North Cascades, August, 2014.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/tomyhoi_Glacier.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Tomyhoi Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/goode_Glacier-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/goode_Glacier-thumb.jpg&#34; alt=&#34;Looking up at Goode Glacier below Goode Mountain. North Cascades National Park, 2016.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/goode_Glacier.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Goode Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/goode_Glacier_from_above-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/goode_Glacier_from_above-thumb.jpg&#34; alt=&#34;Looking down Goode Glacier from Goode&amp;#39;s Northeast Buttress. North Cascades National Park, 2016.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/goode_Glacier_from_above.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Goode Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/eldorado_and_Inspiration_Glaciers-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/eldorado_and_Inspiration_Glaciers-thumb.jpg&#34; alt=&#34;The top of Inspiration Glacier coming off Eldorado Peak. Near Cascade Pass, May, 2017.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/eldorado_and_Inspiration_Glaciers.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Inspiration Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/mcallister_icefall-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/mcallister_icefall-thumb.jpg&#34; alt=&#34;The McAllister Ice Fall from Austera Peak. Near Cascade Pass, May, 2017.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/mcallister_icefall.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;McAllister Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/wa_glaciers/smoky_Quien_Sabe_on_Sahale-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/wa_glaciers/smoky_Quien_Sabe_on_Sahale-thumb.jpg&#34; alt=&#34;Quien Sabe Glacier coming off Boston and Sahale peaks, shrouded in smoke from fires in British Columbia. Near Cascade Pass, August, 2017.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/wa_glaciers/smoky_Quien_Sabe_on_Sahale.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Quien Sabe Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Glaciers and geology while traveling</title>
+      <link>https://dlilien.github.io/photos/na_geo/</link>
+      <pubDate>Sun, 30 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/photos/na_geo/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/esker-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/esker-thumb.jpg&#34; alt=&#34;An esker (relic of subglacial river) on Rawalpindi Lake, Northwest Territories/Nunavut border. August, 2008&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/esker.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;An esker&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/pingo-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/pingo-thumb.jpg&#34; alt=&#34;Maybe this is full of ice? An odd hill near Kugluktuk, Nunavut in the Canadian subarctic. August, 2008&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/pingo.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;A pingo&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/mammoth-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/mammoth-thumb.jpg&#34; alt=&#34;Yellowstone in winter is empty and beautiful. This is one of the Mammoth hot springs, melting through the snow. January, 2013.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/mammoth.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;A hotspring&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/lava-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/lava-thumb.jpg&#34; alt=&#34;Lava oozes out of Kilauea. Big Island, HI. March, 2013.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/lava.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Lava&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/new_land-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/new_land-thumb.jpg&#34; alt=&#34;New land forming next the Big Island, HI. March, 2013.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/new_land.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;New Land&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/ice-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/ice-thumb.jpg&#34; alt=&#34;Standing atop an old iceberg. Hidden Lake, near McCarthy AK. August, 2014. Photo Credit: Laura Kehrl&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/ice.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Berg&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/debris-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/debris-thumb.jpg&#34; alt=&#34;Camped in the middle of the Kennicot glacier, near McCarthy AK. August, 2014. Photo Credit: Laura Kehrl&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/debris.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Camping on a medial morain&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/tent-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/tent-thumb.jpg&#34; alt=&#34;Camping atop a saddle, looking at Mt. Blackburn, near McCarthy AK. August, 2014. Photo Credit: Laura Kehrl&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/tent.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Donahoe&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/rock_glacier-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/rock_glacier-thumb.jpg&#34; alt=&#34;There is a rock glacier up there somewhere... near McCarthy AK. August, 2014.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/rock_glacier.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Rock glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/chamonix-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/chamonix-thumb.jpg&#34; alt=&#34;Looking up above the town of Chamonix. November, 2015&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/chamonix.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Chamonix&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/alps_rando-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/alps_rando-thumb.jpg&#34; alt=&#34;A glacier in the French Alps. November, 2015&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/alps_rando.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Alps Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/matterhorn-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/matterhorn-thumb.jpg&#34; alt=&#34;The Matterhorn. November, 2015&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/matterhorn.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Matterhorn&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/mitre-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/mitre-thumb.jpg&#34; alt=&#34;Huge relief above Milford Sound, NZ. January, 2017.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/mitre.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Mitre Peak&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/u-valley-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/u-valley-thumb.jpg&#34; alt=&#34;A big, glacial valley. Mt. Aspiring National Park, NZ. January, 2017.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/u-valley.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Matukituki&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/hut-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/hut-thumb.jpg&#34; alt=&#34;A hut high above the Matukituki. Mt. Aspiring National Pak, NZ. January, 2017.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/hut.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;An NZ hut&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/outhouse-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/outhouse-thumb.jpg&#34; alt=&#34;Room with a view. Mt. Aspiring National Pak, NZ. January, 2017.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/outhouse.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;An NZ outhous&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/eggs-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/eggs-thumb.jpg&#34; alt=&#34;I don&amp;#39;t know much about these huge rocks. East coast of south island, NZ. January, 2017.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/eggs.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Mitre Peak&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/robson-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/robson-thumb.jpg&#34; alt=&#34;The Emperor Face of Mt. Robson towers above Berg Lake. Mt. Robson Provincial Park, BC. July, 2018.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/robson.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Mt. Robson&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/robsonice-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/robsonice-thumb.jpg&#34; alt=&#34;A glacier touches Berg Lake. Mt. Robson Provincial Park, BC. July, 2018.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/robsonice.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Mt. Robson&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/kinney-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/kinney-thumb.jpg&#34; alt=&#34;Reflections of big avalanche paths in Kinney Lake. Mt. Robson Provincial Park, BC. July, 2018.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/kinney.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Kinney Lake&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/folds-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/folds-thumb.jpg&#34; alt=&#34;Exposed folds in the Eastern Sierra. Near Convict Lake, CA. August, 2018.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/folds.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Folds&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/spearhead-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/spearhead-thumb.jpg&#34; alt=&#34;Glaciers in the BC coast range. February, 2019.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/spearhead.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Coast range glaciers&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/spearheadlunch-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/spearheadlunch-thumb.jpg&#34; alt=&#34;Lunch overlooking glaciers in the BC coast range. February, 2019.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/spearheadlunch.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Coast range glaciers&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/na_geo/paleosols-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/na_geo/paleosols-thumb.jpg&#34; alt=&#34;Ancient soils in Badlands National Park, SD. April, 2019.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/na_geo/paleosols.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Paleosols&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UAF Summer School 2014</title>
+      <link>https://dlilien.github.io/photos/mccarthy/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/photos/mccarthy/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/driving_down-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/driving_down-thumb.jpg&#34; alt=&#34;Crossing the Alaska range&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/driving_down.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Driving to McCarthy&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/fishing-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/fishing-thumb.jpg&#34; alt=&#34;Gulls fishing for salmon&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/fishing.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;River crossing&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/bridge-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/bridge-thumb.jpg&#34; alt=&#34;The guardrails are a neat addition to the bridge here&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/bridge.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Kuskulana Bridge&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/posters-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/posters-thumb.jpg&#34; alt=&#34;Outdoor poster session with all participants&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/posters.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Poster Session&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/wall_posters-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/wall_posters-thumb.jpg&#34; alt=&#34;Some posters were on the wall&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/wall_posters.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;More Posters&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/clothesline_posters-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/clothesline_posters-thumb.jpg&#34; alt=&#34;More posters on the clothesline&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/clothesline_posters.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;More Posters&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/view_near_camp-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/view_near_camp-thumb.jpg&#34; alt=&#34;Not a bad place to stay for a week&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/view_near_camp.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;View from camp&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/old_truck-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/old_truck-thumb.jpg&#34; alt=&#34;There are lots of cool old things around McCarthy&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/old_truck.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Old Truck&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/old_hardware-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/old_hardware-thumb.jpg&#34; alt=&#34;We had meals, and worked on our projects, here&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/old_hardware.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;The Wrangell Mountains Center&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/porphry-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/porphry-thumb.jpg&#34; alt=&#34;We used Ed LaChappelle&amp;#39;s old cabin for our classroom&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/porphry.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Our Classroom&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/lachappelle_rug-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/lachappelle_rug-thumb.jpg&#34; alt=&#34;A rug hanging in Ed LaChappelle&amp;#39;s cabin. It shows Mt. Blackburn&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/lachappelle_rug.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Blackburn Tapestry&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/ants_on_ice-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/ants_on_ice-thumb.jpg&#34; alt=&#34;A fieldtrip to the Root Glacier&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/ants_on_ice.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Fieldtrip!&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/clean_root-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/clean_root-thumb.jpg&#34; alt=&#34;A clean bit of ice&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/clean_root.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Root Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/dirty_root-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/dirty_root-thumb.jpg&#34; alt=&#34;Debris covered ice&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/dirty_root.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Root Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/root-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/root-thumb.jpg&#34; alt=&#34;Icefall in the dystance&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/root.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Root Glacier&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/cryoconite-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/cryoconite-thumb.jpg&#34; alt=&#34;These form because dark material absorbs energy from the sun, heats up, and melts downwards.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/cryoconite.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Cryoconite Holes&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/donohoe-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/donohoe-thumb.jpg&#34; alt=&#34;An island surrounded by ice&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/donohoe.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Donohoe&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/moulin-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/moulin-thumb.jpg&#34; alt=&#34;Water drains through moulins to the bed&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/moulin.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;A Moulin&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/refrozen_hole-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/refrozen_hole-thumb.jpg&#34; alt=&#34;Any guesses what happened here? The crystals suggest some interesting refreezing&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/refrozen_hole.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Refrozen Hole&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/shadows-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/shadows-thumb.jpg&#34; alt=&#34;A lake drained through this channel earlier in the summer&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/shadows.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Subglacial drainage&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/under_the_root-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/under_the_root-thumb.jpg&#34; alt=&#34;Looking back out of the channel&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/under_the_root.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Glacial Blue&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/stream-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/stream-thumb.jpg&#34; alt=&#34;A stream on top of the Root&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/stream.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Supraglacial Stream&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/alaska/rock_and_stream-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/alaska/rock_and_stream-thumb.jpg&#34; alt=&#34;The rocks shade the ice beneath them&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/alaska/rock_and_stream.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Mushroom Rocks&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial selection for structural color on butterfly wings and comparison with natural evolution</title>
+      <link>https://dlilien.github.io/publication/wasik-2014/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/wasik-2014/</guid>
       <description></description>
     </item>
     
