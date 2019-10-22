@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2019 10:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dlilien.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -76,18 +76,9 @@
     </item>
     
     <item>
-      <title>ImpDAR: An open-source impulse radar processor *submitted*</title>
-      <link>https://dlilien.github.io/publication/radar_processing/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/publication/radar_processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Heading to Little Dome C</title>
       <link>https://dlilien.github.io/post/be-oi/</link>
-      <pubDate>Mon, 05 Aug 2019 10:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Oct 2019 10:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/post/be-oi/</guid>
       <description>
@@ -191,6 +182,15 @@
   &lt;/figure&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>ImpDAR: An open-source impulse radar processor: submitted</title>
+      <link>https://dlilien.github.io/publication/radar_processing/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/radar_processing/</guid>
+      <description></description>
     </item>
     
     <item>
