@@ -964,6 +964,81 @@
     </item>
     
     <item>
+      <title>Flow history of NEGIS</title>
+      <link>https://dlilien.github.io/project/negis_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/negis_proj/</guid>
+      <description>
+
+
+
+
+
+
+&lt;h1 id=&#34;the-goal&#34;&gt;The goal&lt;/h1&gt;
+
+&lt;p&gt;My postdoc in Copenhagen focuses on modeling of the Northeast Greenland Ice Stream (NEGIS) in a way useful to interpreting or informed by the new EastGRIP ice core.
+NEGIS is a huge system, and a lot of research and modeling has already been done on it, so my goal is to really leverage new, unique information that we can get from having an ice core in the middle of the ice stream.
+Because the ice core contains records extending back thousands of years, far longer than more direct records of ice flow, so it could give us unique information about the long-term ice flow.
+The idea that I have started to run with is to use the crystal fabric of the core as a tracer of past flow.&lt;/p&gt;
+
+&lt;h1 id=&#34;crystal-fabric&#34;&gt;Crystal fabric&lt;/h1&gt;
+
+&lt;p&gt;Glacier ice is composed of small grains that grow in size with depth, starting at the millimeter scale at the surface and growing to centimeters or more deep in the ice sheet.
+Each of these grains has its water molecules bonded in a hexagonal crystal lattice&amp;ndash;this lattice is quasi-rotationally symmetric in its hexagonal plane (think of a snow flake&amp;ndash;if you rotate it by 60 degrees it looks the same).
+However, the direction perpendicular to this hexagonal plane does not match this symmetry, and we term this direction the c-axis.
+We can then describe an individual crystal based on its c-axis orientation.
+This orientation is a result of the flow history of that crystal&amp;ndash;how it pointed when it fell as snow, how it was squashed, stretched, and rotated with ice flow.
+This ice crystal fabric affects deformation by making it easier in some directions (think of a deck of cards&amp;ndash;two directions of deforming the deck are easy, one is hard).&lt;/p&gt;
+
+&lt;p&gt;Thinking about what happens to an individual crystal is well and good, but if we want to understand how a whole glacier moves we are thinking about an enormous number of crystals, far too many for us to keep track of individually.
+Instead, we think of a &amp;ldquo;crystal fabric&amp;rdquo;, some kind of aggregate of grains that we may be able to describe in relatively simple mathematical terms.
+In an ice flow model, we can both approximate how this fabric evolves and how it affects the deformation of the glacier.
+Beneficially for me, crystal fabric is something that is already measured in ice cores, so there will be data from EastGRIP with which to compare modeling results.&lt;/p&gt;
+
+&lt;h1 id=&#34;modeling&#34;&gt;Modeling&lt;/h1&gt;
+
+&lt;p&gt;Modeling ice-crystal fabric is a fairly difficult exercise: the fabric evolves in multiple dimensions, it get moves around by ice flow, and the description we use is continuous despite the fabric itself being discrete.
+To take out some of the complexity, I&amp;rsquo;m modeling along flowlines that lead to near the core site.
+By modeling the development of ice-crystal fabric along multiple flowlines, hopefully I can get a sense of a range of possible flow histories (hypothetical ways in which the ice stream might have differed in the past).
+If we could then associate one these flow histories with what is measured in the ice core, we might then be able to say something about ice flow in the past.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/flowtubes_velboth_pearls.png&#34; alt=&#34;Modeling along some hypothetical flowlines. The pearls indicate how travel times in thousands of years, at present day speeds, to the 0 mark.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/flowtubes_velboth_pearls.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Modeling along some hypothetical flowlines. The pearls indicate how travel times in thousands of years, at present day speeds, to the 0 mark.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Right now, this work is in its preliminary stations. I have a working model, but it does not yet describe all the relevant processes.
+One of the many challenges is that many effects must be included; for example, temperature affects how easily ice deforms (see figure below), so we may get a very different fabric if we don&amp;rsquo;t account for the large change in temperature in Greenland since the last ice age.
+I&amp;rsquo;m currently working out these kinks, and preparing to run model simulations that can more accurately represent fabric formation on these flowlines and thus be compared with ice-core data.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/temp_vel_comp.png&#34; alt=&#34;Effect of temperature on a flow line&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/temp_vel_comp.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Effect of temperature on a flow line&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Radar processing</title>
       <link>https://dlilien.github.io/project/radar_proj/</link>
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
