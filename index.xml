@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Fri, 18 Oct 2019 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 14:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://dlilien.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -72,6 +72,24 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/h2/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melt at Grounding line controls observed and future retreat of Smith, Pope, and Kohler Glaciers</title>
+      <link>https://dlilien.github.io/talk/egu_2020/</link>
+      <pubDate>Wed, 06 May 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/talk/egu_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using ice-flow models to understand and contextualize modern ice-stream retreat</title>
+      <link>https://dlilien.github.io/talk/wisc_2020/</link>
+      <pubDate>Mon, 03 Feb 2020 15:30:00 -0600</pubDate>
+      
+      <guid>https://dlilien.github.io/talk/wisc_2020/</guid>
       <description></description>
     </item>
     

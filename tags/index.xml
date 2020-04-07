@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 15:30:00 -0600</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>antarctica</title>
+      <link>https://dlilien.github.io/tags/antarctica/</link>
+      <pubDate>Mon, 03 Feb 2020 15:30:00 -0600</pubDate>
+      
+      <guid>https://dlilien.github.io/tags/antarctica/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>radar</title>
@@ -63,15 +72,6 @@
       <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/tags/antarctic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>antarctica</title>
-      <link>https://dlilien.github.io/tags/antarctica/</link>
-      <pubDate>Wed, 20 Feb 2019 13:00:00 -0800</pubDate>
-      
-      <guid>https://dlilien.github.io/tags/antarctica/</guid>
       <description></description>
     </item>
     

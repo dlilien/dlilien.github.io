@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 14:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,42 @@
       <guid>https://dlilien.github.io/authors/admin/</guid>
       <description>I&amp;rsquo;m a postdoc in glaciology at the University of Copenhagen. I study the dynamics of ice streams and outlet glaciers using numerical models, remote sensing, and field data. My primary interest is understanding recent changes to glaciers in West Antarctica and Greenland, and understanding the context of those changes through analysis of past ice flow.
 Find my C.V. here.</description>
+    </item>
+    
+    <item>
+      <title>Benjamin Smith</title>
+      <link>https://dlilien.github.io/authors/benjamin-smith/</link>
+      <pubDate>Wed, 06 May 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/benjamin-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Lilien</title>
+      <link>https://dlilien.github.io/authors/david-lilien/</link>
+      <pubDate>Wed, 06 May 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/david-lilien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ian Joughin</title>
+      <link>https://dlilien.github.io/authors/ian-joughin/</link>
+      <pubDate>Wed, 06 May 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/ian-joughin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noel Gourmelen</title>
+      <link>https://dlilien.github.io/authors/noel-gourmelen/</link>
+      <pubDate>Wed, 06 May 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/noel-gourmelen/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -73,15 +109,6 @@ Find my C.V. here.</description>
       <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
       
       <guid>https://dlilien.github.io/authors/benjamin-hills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Lilien</title>
-      <link>https://dlilien.github.io/authors/david-lilien/</link>
-      <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/david-lilien/</guid>
       <description></description>
     </item>
     
@@ -217,15 +244,6 @@ Find my C.V. here.</description>
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/n-gourmelen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ian Joughin</title>
-      <link>https://dlilien.github.io/authors/ian-joughin/</link>
-      <pubDate>Mon, 12 Nov 2018 15:00:00 +0100</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/ian-joughin/</guid>
       <description></description>
     </item>
     
