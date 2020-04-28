@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T.J. Fudge on David Lilien</title>
+    <link>https://dlilien.github.io/authors/t.j.-fudge/</link>
+    <description>Recent content in T.J. Fudge on David Lilien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 David Lilien</copyright>
+    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dlilien.github.io/authors/t.j.-fudge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advection (non-climate) impact on the South Pole Ice Core</title>
+      <link>https://dlilien.github.io/publication/advection_impact/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/advection_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holocene Ice‐Flow Speedup in the Vicinity of the South Pole</title>
+      <link>https://dlilien.github.io/publication/holocene_ice_flow/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/holocene_ice_flow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Wed, 06 May 2020 14:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 15:30:00 -0600</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/authors/david-lilien/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Melt at Grounding line controls observed and future retreat of Smith, Pope, and Kohler Glaciers</title>
-      <link>https://dlilien.github.io/talk/egu_2020/</link>
-      <pubDate>Wed, 06 May 2020 14:00:00 +0200</pubDate>
-      
-      <guid>https://dlilien.github.io/talk/egu_2020/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Using ice-flow models to understand and contextualize modern ice-stream retreat</title>
@@ -27,15 +18,6 @@
       <pubDate>Mon, 03 Feb 2020 15:30:00 -0600</pubDate>
       
       <guid>https://dlilien.github.io/talk/wisc_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poster: ImpDAR: an open-source impulse radar processor in Python</title>
-      <link>https://dlilien.github.io/talk/igs_2019/</link>
-      <pubDate>Mon, 08 Jul 2019 16:00:00 -0500</pubDate>
-      
-      <guid>https://dlilien.github.io/talk/igs_2019/</guid>
       <description></description>
     </item>
     
@@ -63,15 +45,6 @@
       <pubDate>Mon, 12 Nov 2018 15:00:00 +0100</pubDate>
       
       <guid>https://dlilien.github.io/talk/eastgrip_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poster: Sensitivity of Smith Glacier to Melt Variability, Marginal Weakening, and Terminal Buttressing</title>
-      <link>https://dlilien.github.io/talk/wais_2018/</link>
-      <pubDate>Tue, 18 Sep 2018 16:00:00 -0500</pubDate>
-      
-      <guid>https://dlilien.github.io/talk/wais_2018/</guid>
       <description></description>
     </item>
     
