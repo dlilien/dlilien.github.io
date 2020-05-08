@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Wed, 06 May 2020 14:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,20 +23,92 @@ Find my C.V. here.</description>
     </item>
     
     <item>
-      <title>Benjamin Smith</title>
-      <link>https://dlilien.github.io/authors/benjamin-smith/</link>
-      <pubDate>Wed, 06 May 2020 14:00:00 +0200</pubDate>
+      <title>Andrew Schauer</title>
+      <link>https://dlilien.github.io/authors/andrew-schauer/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dlilien.github.io/authors/benjamin-smith/</guid>
+      <guid>https://dlilien.github.io/authors/andrew-schauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Max Stevens</title>
+      <link>https://dlilien.github.io/authors/c.-max-stevens/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/c.-max-stevens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David A. Lilien</title>
       <link>https://dlilien.github.io/authors/david-a.-lilien/</link>
-      <pubDate>Wed, 06 May 2020 14:00:00 +0200</pubDate>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/david-a.-lilien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edwin D. Waddington</title>
+      <link>https://dlilien.github.io/authors/edwin-d.-waddington/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/edwin-d.-waddington/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Steig</title>
+      <link>https://dlilien.github.io/authors/eric-steig/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/eric-steig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Howard Conway</title>
+      <link>https://dlilien.github.io/authors/howard-conway/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/howard-conway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michelle Koutnik</title>
+      <link>https://dlilien.github.io/authors/michelle-koutnik/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/michelle-koutnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Holschuh</title>
+      <link>https://dlilien.github.io/authors/nicholas-holschuh/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/nicholas-holschuh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T.J. Fudge</title>
+      <link>https://dlilien.github.io/authors/t.j.-fudge/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/t.j.-fudge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Smith</title>
+      <link>https://dlilien.github.io/authors/benjamin-smith/</link>
+      <pubDate>Wed, 06 May 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/benjamin-smith/</guid>
       <description></description>
     </item>
     
@@ -145,78 +217,6 @@ Find my C.V. here.</description>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/robert-jacobel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicholas Holschuh</title>
-      <link>https://dlilien.github.io/authors/nicholas-holschuh/</link>
-      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/nicholas-holschuh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andrew Schauer</title>
-      <link>https://dlilien.github.io/authors/andrew-schauer/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/andrew-schauer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Max Stevens</title>
-      <link>https://dlilien.github.io/authors/c.-max-stevens/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/c.-max-stevens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edwin D. Waddington</title>
-      <link>https://dlilien.github.io/authors/edwin-d.-waddington/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/edwin-d.-waddington/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eric Steig</title>
-      <link>https://dlilien.github.io/authors/eric-steig/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/eric-steig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Howard Conway</title>
-      <link>https://dlilien.github.io/authors/howard-conway/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/howard-conway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michelle Koutnik</title>
-      <link>https://dlilien.github.io/authors/michelle-koutnik/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/michelle-koutnik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T.J. Fudge</title>
-      <link>https://dlilien.github.io/authors/t.j.-fudge/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/t.j.-fudge/</guid>
       <description></description>
     </item>
     

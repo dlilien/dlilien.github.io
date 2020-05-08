@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Wed, 06 May 2020 08:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>South Pole</title>
+      <link>https://dlilien.github.io/tags/south-pole/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/tags/south-pole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>antarctic</title>
+      <link>https://dlilien.github.io/tags/antarctic/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/tags/antarctic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>anisotropy</title>
@@ -63,24 +81,6 @@
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/tags/modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>South Pole</title>
-      <link>https://dlilien.github.io/tags/south-pole/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/tags/south-pole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>antarctic</title>
-      <link>https://dlilien.github.io/tags/antarctic/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/tags/antarctic/</guid>
       <description></description>
     </item>
     

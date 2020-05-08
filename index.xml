@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Wed, 06 May 2020 14:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dlilien.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -72,6 +72,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/h2/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advection and non-climate impacts on the South Pole Ice Core</title>
+      <link>https://dlilien.github.io/publication/advection_impact/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/advection_impact/</guid>
       <description></description>
     </item>
     
@@ -302,15 +311,6 @@
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/publication/negis_margins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Advection (non-climate) impact on the South Pole Ice Core</title>
-      <link>https://dlilien.github.io/publication/advection_impact/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/publication/advection_impact/</guid>
       <description></description>
     </item>
     
