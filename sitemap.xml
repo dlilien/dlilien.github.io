@@ -44,7 +44,72 @@
   
   <url>
     <loc>https://dlilien.github.io/publication_types/2/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/benjamin-h.-hills/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/david-a.-lilien/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/publication/radar_processing/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/joshua-driscol/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/knut-christianson/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/publication_types/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/robert-jacobel/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/tags/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/tags/radar/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,25 +125,7 @@
   </url>
   
   <url>
-    <loc>https://dlilien.github.io/authors/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dlilien.github.io/authors/c.-max-stevens/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/david-a.-lilien/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -114,12 +161,6 @@
   </url>
   
   <url>
-    <loc>https://dlilien.github.io/publication_types/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dlilien.github.io/tags/south-pole/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -127,12 +168,6 @@
   
   <url>
     <loc>https://dlilien.github.io/authors/t.j.-fudge/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/tags/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -236,43 +271,14 @@
   </url>
   
   <url>
-    <loc>https://dlilien.github.io/authors/benjamin-hills/</loc>
-    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/publication/radar_processing/</loc>
-    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/joshua-driscol/</loc>
-    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/knut-christianson/</loc>
-    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/robert-jacobel/</loc>
-    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/tags/radar/</loc>
-    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dlilien.github.io/post/move_to_denmark/</loc>
     <lastmod>2019-08-05T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/benjamin-hills/</loc>
+    <lastmod>2019-07-08T16:00:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

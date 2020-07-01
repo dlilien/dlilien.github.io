@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>radar</title>
+      <link>https://dlilien.github.io/tags/radar/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/tags/radar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>South Pole</title>
@@ -45,15 +54,6 @@
       <pubDate>Mon, 03 Feb 2020 15:30:00 -0600</pubDate>
       
       <guid>https://dlilien.github.io/tags/antarctica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>radar</title>
-      <link>https://dlilien.github.io/tags/radar/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/tags/radar/</guid>
       <description></description>
     </item>
     

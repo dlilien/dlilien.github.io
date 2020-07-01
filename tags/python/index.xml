@@ -18,7 +18,8 @@
       <pubDate>Fri, 10 Aug 2018 10:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/post/impdar/</guid>
-      <description>I&amp;rsquo;ve been doing some work to bring the St. Olaf deep radar processor (StODeep) up into this decade. I&amp;rsquo;ve had some time twiddling my thumbs while running ice-flow models, and I&amp;rsquo;ve been doing the work of migrating StODeep as I wait for the model runs. I&amp;rsquo;m not a fan of Matlab, so I&amp;rsquo;ve migrated things to Python. I took advantage of some of the code I had written for pygssi, but really pygssi is now not very useful and things are migrating to the functionality and syntax of StODeep.</description>
+      <description>I&amp;rsquo;ve been doing some work to bring the St. Olaf deep radar processor (StODeep) up into this decade. I&amp;rsquo;ve had some time twiddling my thumbs while running ice-flow models, and I&amp;rsquo;ve been doing the work of migrating StODeep as I wait for the model runs. I&amp;rsquo;m not a fan of Matlab, so I&amp;rsquo;ve migrated things to Python.
+A bit of background The St. Olaf Deep radar processor has a long history that I don&amp;rsquo;t fully know.</description>
     </item>
     
     <item>

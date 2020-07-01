@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ImpDAR: An open-source impulse radar processor</title>
+      <link>https://dlilien.github.io/publication/radar_processing/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/radar_processing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Advection and non-climate impacts on the South Pole Ice Core</title>
@@ -18,15 +27,6 @@
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/publication/advection_impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ImpDAR: An open-source impulse radar processor: submitted</title>
-      <link>https://dlilien.github.io/publication/radar_processing/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/publication/radar_processing/</guid>
       <description></description>
     </item>
     

@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dlilien.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -72,6 +72,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/h2/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ImpDAR: An open-source impulse radar processor</title>
+      <link>https://dlilien.github.io/publication/radar_processing/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/radar_processing/</guid>
       <description></description>
     </item>
     
@@ -220,15 +229,6 @@
   &lt;/figure&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>ImpDAR: An open-source impulse radar processor: submitted</title>
-      <link>https://dlilien.github.io/publication/radar_processing/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/publication/radar_processing/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -690,7 +690,7 @@
       <guid>https://dlilien.github.io/post/impdar/</guid>
       <description>
 
-&lt;p&gt;I&amp;rsquo;ve been doing some work to bring the St. Olaf deep radar processor (StODeep) up into this decade. I&amp;rsquo;ve had some time twiddling my thumbs while running ice-flow models, and I&amp;rsquo;ve been doing the work of migrating StODeep as I wait for the model runs. I&amp;rsquo;m not a fan of Matlab, so I&amp;rsquo;ve migrated things to Python. I took advantage of some of the code I had written for &lt;a href=&#34;../../pygssi&#34;&gt;pygssi&lt;/a&gt;, but really pygssi is now not very useful and things are migrating to the functionality and syntax of StODeep.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been doing some work to bring the St. Olaf deep radar processor (StODeep) up into this decade. I&amp;rsquo;ve had some time twiddling my thumbs while running ice-flow models, and I&amp;rsquo;ve been doing the work of migrating StODeep as I wait for the model runs. I&amp;rsquo;m not a fan of Matlab, so I&amp;rsquo;ve migrated things to Python.&lt;/p&gt;
 
 &lt;h2 id=&#34;a-bit-of-background&#34;&gt;A bit of background&lt;/h2&gt;
 
