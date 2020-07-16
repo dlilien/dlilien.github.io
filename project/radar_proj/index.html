@@ -137,12 +137,12 @@
   <meta property="og:url" content="https://dlilien.github.io/project/radar_proj/">
   <meta property="og:title" content="Radar processing | David Lilien">
   <meta property="og:description" content="Tools for processing radar data
-"><meta property="og:image" content="https://dlilien.github.io/project/radar_proj/featured.jpg">
+"><meta property="og:image" content="https://dlilien.github.io/project/radar_proj/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-02-10T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2020-06-29T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2017-02-10T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2020-06-29T00:00:00&#43;00:00">
   
 
   
@@ -471,8 +471,8 @@
 
 
 
-<meta content="2017-02-10 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2017-02-10 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2020-06-29 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2020-06-29 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -485,7 +485,7 @@
     
       
     
-    <time>Feb 10, 2017</time>
+    <time>Jun 29, 2020</time>
   </span>
   
 
@@ -630,11 +630,11 @@
 </div>
 
 
-<p>While camping and collecting radar data near the South Pole in 2017, I needed a way to visualize results in the field. Since the readily available software was Windows-only, I started developing the tools that I needed to process the data I was collecting using Python on my Mac. While in the field, I wrote all the code for the basic loading and processing steps. These <a href="http://github.com/dlilien/pygssi" target="_blank">scripts</a>, which were specific to the GSSI system I was using, eventually grew to the point that they implemented most of the common steps for processing both the shallow ice-penetrating radar data, collected with commercial systems like the one I used, and deep radar data generally collected with custom systems.</p>
+<p>While camping and collecting radar data near the South Pole in 2017, I needed a way to visualize results in the field. Since the readily available software was Windows-only, I started developing the tools that I needed to process the data I was collecting using Python on my Mac. While in the field, I wrote all the code for the basic loading and processing steps. These scripts, which were specific to the GSSI system I was using, eventually grew to the point that they implemented most of the common steps for processing both the shallow ice-penetrating radar data, collected with commercial systems like the one I used, and deep radar data generally collected with custom systems.</p>
 
-<p>It became clear that there was a general need for a tool like this for the broader community of glaciologists; available processing chains were all either secret, commercial, outdated, system-specific, or some combination of those. Because much of the heavy lifting in terms of development was done, I decided to push forward with making this radar processor more broadly useful, which meant writing the tools to ingest other forms of radar data. To make this code most useful for colleagues at UW, I also moved the code to be backwards compatible with the St. Olaf Deep radar processor, StODeep, which was a mass of deprecated matlab code with outdated interface. Most importantly, I added an interface to pick layers, allowing the full chain of processing and interpretation to be executed in this program. The code is freely available on <a href="http://github.com/dlilien/impdar" target="_blank">github</a>.</p>
+<p>It became clear that there was a general need for a tool like this for the broader community of glaciologists; available processing chains were all either secret, commercial, outdated, system-specific, or some combination of those. Because much of the heavy lifting in terms of development was done, I decided to push forward with making this radar processor more broadly useful, which meant writing the tools to ingest other forms of radar data. To make this code most useful for colleagues at UW, I also moved the code to be backwards compatible with the St. Olaf Deep radar processor, StODeep, which was a mass of deprecated matlab code with outdated interface. Most importantly, I added an interface to pick layers, allowing the full chain of processing and interpretation to be executed in this program. The code is freely available on <a href="http://github.com/dlilien/impdar" target="_blank">github</a>. I also maintain documentation for the software on <a href="http://impdar.readthedocs.io/en/latest" target="_blank">readthedocs</a></p>
 
-<p>There is a bit of momentum for further development, and I have gotten assistance from other UW students in making this happen. Ben Hills, a UW graduate student, is working on implenting various migration routines in the software. Joshua Driscol, an undergraduate, has been working on algorithms for automatic picking and on comparison between data processed with other chains and with the software I&rsquo;ve written. He will be <a href="/talk/igs_2019/" target="_blank">presenting</a> some data processed with this new software at the International Glaciological Society&rsquo;s <em>Five decades of radioglaciology</em> meeting. We hope to submit a paper on the radar processor to the special issue of the <em>Annals of Glaciology</em> following the symposium, and hope that this tool can become useful for other researchers working with glaciological radar data.</p>
+<p>There was momentum for further development, and I had assistance from other UW students in making this happen. Ben Hills, a UW graduate student, implented various migration routines in the software, and added capability for ApRES processing. Joshua Driscol, an undergraduate, worked on algorithms for automatic picking and on comparison between data processed with other chains and with the software I&rsquo;ve written. He <a href="/talk/igs_2019/" target="_blank">presented</a> some data processed with this new software at the International Glaciological Society&rsquo;s <em>Five decades of radioglaciology</em> meeting. A <a href="https://doi.org/10.1017/aog.2020.44" target="_blank">paper</a> describing this software is in the special issue of the <em>Annals of Glaciology</em> special issue on radioglaciology.</p>
 
 
 <link rel="stylesheet" href="/css/hugo-easy-gallery.css" />

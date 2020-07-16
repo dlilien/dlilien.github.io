@@ -85,6 +85,39 @@
     </item>
     
     <item>
+      <title>Radar processing</title>
+      <link>https://dlilien.github.io/project/radar_proj/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/radar_proj/</guid>
+      <description>
+
+
+
+
+&lt;p&gt;While camping and collecting radar data near the South Pole in 2017, I needed a way to visualize results in the field. Since the readily available software was Windows-only, I started developing the tools that I needed to process the data I was collecting using Python on my Mac. While in the field, I wrote all the code for the basic loading and processing steps. These scripts, which were specific to the GSSI system I was using, eventually grew to the point that they implemented most of the common steps for processing both the shallow ice-penetrating radar data, collected with commercial systems like the one I used, and deep radar data generally collected with custom systems.&lt;/p&gt;
+
+&lt;p&gt;It became clear that there was a general need for a tool like this for the broader community of glaciologists; available processing chains were all either secret, commercial, outdated, system-specific, or some combination of those. Because much of the heavy lifting in terms of development was done, I decided to push forward with making this radar processor more broadly useful, which meant writing the tools to ingest other forms of radar data. To make this code most useful for colleagues at UW, I also moved the code to be backwards compatible with the St. Olaf Deep radar processor, StODeep, which was a mass of deprecated matlab code with outdated interface. Most importantly, I added an interface to pick layers, allowing the full chain of processing and interpretation to be executed in this program. The code is freely available on &lt;a href=&#34;http://github.com/dlilien/impdar&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;. I also maintain documentation for the software on &lt;a href=&#34;http://impdar.readthedocs.io/en/latest&#34; target=&#34;_blank&#34;&gt;readthedocs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There was momentum for further development, and I had assistance from other UW students in making this happen. Ben Hills, a UW graduate student, implented various migration routines in the software, and added capability for ApRES processing. Joshua Driscol, an undergraduate, worked on algorithms for automatic picking and on comparison between data processed with other chains and with the software I&amp;rsquo;ve written. He &lt;a href=&#34;https://dlilien.github.io/talk/igs_2019/&#34; target=&#34;_blank&#34;&gt;presented&lt;/a&gt; some data processed with this new software at the International Glaciological Society&amp;rsquo;s &lt;em&gt;Five decades of radioglaciology&lt;/em&gt; meeting. A &lt;a href=&#34;https://doi.org/10.1017/aog.2020.44&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; describing this software is in the special issue of the &lt;em&gt;Annals of Glaciology&lt;/em&gt; special issue on radioglaciology.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/gssi.png&#34; alt=&#34;A shallow radar system&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/gssi.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;A shallow radar system&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Advection and non-climate impacts on the South Pole Ice Core</title>
       <link>https://dlilien.github.io/publication/advection_impact/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
@@ -293,6 +326,73 @@
 &lt;p&gt;Just after I arrived, the Greenland field season began to start up as the EastGRIP (GReenland Ice-core Project) camp opened. Many of the students, staff, and faculty cycle through trips to work at the camp through the course of the summer, so the office quickly emptied out. In addition, the Danes seem to value work-life balance in a way that is totally foreign to me as an American, and the office cleared out almost entirely through most of July. It was a great, quiet summer though, and having few people around was nice for getting things spinning up here without distraction. Julia was able to visit for much of the summer, and we were able to travel on weekends.&lt;/p&gt;
 
 &lt;p&gt;As soon as it was time to get back in the swing of things, preparations began to ramp up for the upcoming Antarctic season. I&amp;rsquo;ll be going to Little Dome C to do some of the final site surveying for the Beyond Epica Oldest Ice drilling. More on that to come!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flow history of NEGIS</title>
+      <link>https://dlilien.github.io/project/negis_proj/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/negis_proj/</guid>
+      <description>
+
+
+
+
+
+
+&lt;h1 id=&#34;the-goal&#34;&gt;The goal&lt;/h1&gt;
+
+&lt;p&gt;My postdoc in Copenhagen focuses on modeling of the Northeast Greenland Ice Stream (NEGIS). The idea is to do some modeling that takes advantage of/helps interpret the new EastGRIP ice core.
+NEGIS is a huge system, and a lot of research and modeling has already been done on it, so my goal is to really leverage new, unique information that we can get from having an ice core in the middle of the ice stream.
+Because the ice core contains records extending back thousands of years, far longer than more direct records of ice flow, so it could give us unique information about the long-term ice flow.
+The idea that I have started to run with is to use the crystal fabric of the core as a tracer of past flow.
+For a primer on crystal fabric, take a look at the &lt;a href=&#34;https://dlilien.github.io/project/fabric/&#34; target=&#34;_blank&#34;&gt;work I have doing to use fabric as a tracer of past flow.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;past-work-on-negis&#34;&gt;Past work on NEGIS&lt;/h1&gt;
+
+&lt;p&gt;When I was still at the University of Washington, I did some &lt;a href=&#34;https://dlilien.github.io/publication/negis_margins/&#34; target=&#34;_blank&#34;&gt;work&lt;/a&gt; with then-postdoc Nick Holschuh to understand the relationship between radar data collected on NEGIS and the small-scale flow regime. I ran a number of model simulations, which Nick used to aid in interpretation of the radar data and to determine how well the various simulations matched reality. The work suggests that the isochrones do not match the current flow field, but rather imply some transient changes to the ice stream. While Nick was able to obtain some nice results, they give a tantalizing suggestion of instability without allowing us to quantify it or say much about the cause. Consequently, I was extremely excited to get to come to Copenhagen to work on this system as new data are collected.&lt;/p&gt;
+
+&lt;h1 id=&#34;anisotropic-modeling&#34;&gt;Anisotropic modeling&lt;/h1&gt;
+
+&lt;p&gt;For my current work, I&amp;rsquo;m modeling along flowlines that lead to near the EastGRIP core site.
+By modeling the development of ice-crystal fabric along multiple flowlines, I can explore a range of possible flow histories (hypothetical ways in which the ice stream might have differed in the past).
+If we could then associate one these flow histories with what is measured in the ice core, we might then be able to say something about ice flow in the past.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/flowtubes_velboth_pearls.png&#34; alt=&#34;Modeling along some hypothetical flowlines. The pearls indicate how travel times in thousands of years, at present day speeds, to the 0 mark.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/flowtubes_velboth_pearls.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Modeling along some hypothetical flowlines. The pearls indicate how travel times in thousands of years, at present day speeds, to the 0 mark.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Right now, this work is in its preliminary stages. I have a working model, which took significant time due to all the processes that must be included.
+One of the many challenges is that many effects must be included; for example, temperature affects how easily ice deforms (see figure below), so we may get a very different fabric if we don&amp;rsquo;t account for the large change in temperature in Greenland since the last ice age.
+I&amp;rsquo;ve worked out these kinks, and am preparing to run model simulations that can more accurately represent fabric formation on these flowlines and thus be compared with ice-core data.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/temp_vel_comp.png&#34; alt=&#34;Effect of temperature on a flow line&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/temp_vel_comp.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Effect of temperature on a flow line&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The preliminary results were been encouraging, but the complexity of the different effects led me to take a significant step back and think about the essential aspects of fabric in an ice stream. This led a full project just understanding these effects in the abstract, which is described &lt;a href=&#34;https://dlilien.github.io/project/fabric/&#34; target=&#34;_blank&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -991,11 +1091,11 @@
     </item>
     
     <item>
-      <title>Flow history of NEGIS</title>
-      <link>https://dlilien.github.io/project/negis_proj/</link>
+      <title>Ice-crystal fabric</title>
+      <link>https://dlilien.github.io/project/fabric/</link>
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dlilien.github.io/project/negis_proj/</guid>
+      <guid>https://dlilien.github.io/project/fabric/</guid>
       <description>
 
 
@@ -1003,17 +1103,18 @@
 
 
 
-&lt;h1 id=&#34;the-goal&#34;&gt;The goal&lt;/h1&gt;
+&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;
 
-&lt;p&gt;My postdoc in Copenhagen focuses on modeling of the Northeast Greenland Ice Stream (NEGIS) in a way useful to interpreting or informed by the new EastGRIP ice core.
-NEGIS is a huge system, and a lot of research and modeling has already been done on it, so my goal is to really leverage new, unique information that we can get from having an ice core in the middle of the ice stream.
-Because the ice core contains records extending back thousands of years, far longer than more direct records of ice flow, so it could give us unique information about the long-term ice flow.
-The idea that I have started to run with is to use the crystal fabric of the core as a tracer of past flow.&lt;/p&gt;
+&lt;p&gt;We do not have a lot of great observations of ice-stream flow speeds before the 1990s, when satellite observations really became available. However, the type of retreat that we think Antarctic glaciers are committed to takes place over centuries to millenia. Insight into past changes to glaciers over those timescales could give us valuable information on how such retreats take place. In particular, changes to the ice sheets at present are mostly coastal, yet we expect them to migrate inland, and thus information about inland migration of past marginal changes could be particularly valuable. However, there is little direct evidence that we would expect to be preserved from past changes. One potential place where such information might be preserved, though, is in the orientation of crystals in the ice.&lt;/p&gt;
 
 &lt;h1 id=&#34;crystal-fabric&#34;&gt;Crystal fabric&lt;/h1&gt;
 
 &lt;p&gt;Glacier ice is composed of small grains that grow in size with depth, starting at the millimeter scale at the surface and growing to centimeters or more deep in the ice sheet.
-Each of these grains has its water molecules bonded in a hexagonal crystal lattice&amp;ndash;this lattice is quasi-rotationally symmetric in its hexagonal plane (think of a snow flake&amp;ndash;if you rotate it by 60 degrees it looks the same).
+At the surface, these crystals are randomly oriented, because snow falls in random orientations.
+Deeper in a glacier, deformation causes these crystals to tend to align in preferred direction, which has some interesting effects.&lt;/p&gt;
+
+&lt;p&gt;It is easiest to start by thinking of an individual ice crystal.
+Each ice crystal has its water molecules bonded in a hexagonal crystal lattice&amp;ndash;this lattice is quasi-rotationally symmetric in its hexagonal plane (think of a snow flake&amp;ndash;if you rotate it by 60 degrees it looks the same).
 However, the direction perpendicular to this hexagonal plane does not match this symmetry, and we term this direction the c-axis.
 We can then describe an individual crystal based on its c-axis orientation.
 This orientation is a result of the flow history of that crystal&amp;ndash;how it pointed when it fell as snow, how it was squashed, stretched, and rotated with ice flow.
@@ -1021,44 +1122,60 @@ This ice crystal fabric affects deformation by making it easier in some directio
 
 &lt;p&gt;Thinking about what happens to an individual crystal is well and good, but if we want to understand how a whole glacier moves we are thinking about an enormous number of crystals, far too many for us to keep track of individually.
 Instead, we think of a &amp;ldquo;crystal fabric&amp;rdquo;, some kind of aggregate of grains that we may be able to describe in relatively simple mathematical terms.
-In an ice flow model, we can both approximate how this fabric evolves and how it affects the deformation of the glacier.
-Beneficially for me, crystal fabric is something that is already measured in ice cores, so there will be data from EastGRIP with which to compare modeling results.&lt;/p&gt;
+Isotropic (randomly oriented), girdle (forming a circle) and single maximum (pointing mainly in one direction) are probably the most common fabric types in ice. However, even girdles and single maxima can come in different strengths and orientations, and so can hold detailed information about deformation history.&lt;/p&gt;
 
-&lt;h1 id=&#34;modeling&#34;&gt;Modeling&lt;/h1&gt;
-
-&lt;p&gt;Modeling ice-crystal fabric is a fairly difficult exercise: the fabric evolves in multiple dimensions, it get moves around by ice flow, and the description we use is continuous despite the fabric itself being discrete.
-To take out some of the complexity, I&amp;rsquo;m modeling along flowlines that lead to near the core site.
-By modeling the development of ice-crystal fabric along multiple flowlines, hopefully I can get a sense of a range of possible flow histories (hypothetical ways in which the ice stream might have differed in the past).
-If we could then associate one these flow histories with what is measured in the ice core, we might then be able to say something about ice flow in the past.&lt;/p&gt;
+&lt;p&gt;Ice divides (ice flows vertically and in one horizontal dimension away from a ridge), or domes (ice flows radially outward from the dome center), are the simplest to think about since the flow fields in these areas are relatively tame. I&amp;rsquo;ll focus on divides. At divides, the surface has no slope, so there is no shear stress but only downard stress due to gravity, extensional stress away from the divide, and some containing force along the divide. At the divide, the crystal fabric gradually transitions from isotropic (randomly oriented) at the surface to a girdle, or circle in the plane of the divide, due to the extensional stresses. At depth, the ice reaches something of single maximum with crystals pointing upwards, where the vertical stresses dominate. This type of fabric has been seen in ice cores, and models can do a reasonable job reproducing it (see figure below). Just off the divide, we get complex effects as ice is moved around and stress states become more complex. This is seen, for example, in the angle of the fabric which tends to point leftward at certain depths in the right panel of the figure, or in the complex pattern of the shear strain in the left panel. Fabrics are not entirely intuitive, and assessing what fabrics are likely to result from complex deformation regimes is perhaps best done with an ice-flow model.&lt;/p&gt;
 
 
 
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/flowtubes_velboth_pearls.png&#34; alt=&#34;Modeling along some hypothetical flowlines. The pearls indicate how travel times in thousands of years, at present day speeds, to the 0 mark.&#34;/&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/idealized_init_zoom.png&#34; alt=&#34;Anisotropic modeling at an ice divide.&#34;/&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/flowtubes_velboth_pearls.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/idealized_init_zoom.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
       &lt;figcaption&gt;
-          &lt;p&gt;Modeling along some hypothetical flowlines. The pearls indicate how travel times in thousands of years, at present day speeds, to the 0 mark.&lt;/p&gt;
+          &lt;p&gt;Anisotropic modeling at an ice divide.&lt;/p&gt;
       &lt;/figcaption&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Right now, this work is in its preliminary stations. I have a working model, but it does not yet describe all the relevant processes.
-One of the many challenges is that many effects must be included; for example, temperature affects how easily ice deforms (see figure below), so we may get a very different fabric if we don&amp;rsquo;t account for the large change in temperature in Greenland since the last ice age.
-I&amp;rsquo;m currently working out these kinks, and preparing to run model simulations that can more accurately represent fabric formation on these flowlines and thus be compared with ice-core data.&lt;/p&gt;
+&lt;p&gt;So how can all this information be used to infer past ice flow? It takes a relatively long time to reorient the ice crystals (thousands of years or more), so if modern ice-crystal fabric does not match modern ice flow, we may have evidence of past changes. Moreover, if we can use an ice-flow model to match different changes to flow with different fabrics, we may be able to identify what changes could cause such a mismatch between fabric and flow. I have been working to model how changes to ice streams will be manifest in the crystal fabric, and thus what we might look for in terms of inferring past changes.&lt;/p&gt;
+
+&lt;h1 id=&#34;modeling&#34;&gt;Modeling&lt;/h1&gt;
+
+&lt;p&gt;In an ice flow model, we seek to approximate how fabric evolves in response to the deformation of ice, and how it affects the deformation of the glacier.
+Modeling ice-crystal fabric is a fairly difficult exercise: the fabric evolves in multiple dimensions, it get moves around by ice flow, and the description we use is continuous despite the fabric itself being discrete.
+To take out some of the complexity, I&amp;rsquo;m modeling along flowtubes rather than fully in three dimensions.
+The model is implemented in Elmer/Ice, an open-source software package that is one of the only codes capable of handling the coupled evolution of ice flow and fabric.
+Using the model, we can get a sense of what fabrics result from ice streams, shown here for a few different ways of having the ice converge together to form a stream.&lt;/p&gt;
 
 
 
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/temp_vel_comp.png&#34; alt=&#34;Effect of temperature on a flow line&#34;/&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/idealized_convergence.png&#34; alt=&#34;Anisotropic modeling of ice streams. Details are not critical here, but these fabrics are readily distinguished from non-streaming flow.&#34;/&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/temp_vel_comp.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/idealized_convergence.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
       &lt;figcaption&gt;
-          &lt;p&gt;Effect of temperature on a flow line&lt;/p&gt;
+          &lt;p&gt;Anisotropic modeling of ice streams. Details are not critical here, but these fabrics are readily distinguished from non-streaming flow.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Skipping over the details of all the simulations I have run, it is important to ask whether we could observe these differences. Ice cores allow quite detailed measurement of fabric, so it is almost given that they could resolve these fabrics. However, it would be particularly exciting if we could observe the fabrics without drilling. One potential tool for this is pRES or ApRES, a type of phase sensitive radar. By rotating the radar around, we can identify some integrated information about the fabric. I have used the output of the ice-flow model to generate synthetic radargrams, which tell us what to expect when observing such fabrics with pRES in the field. As seen in the figure below, these are quite complicated, but easily distinguished from pure internal deformation (on the left). This is quite encouraging, and suggest that it should be possible to identify changes to past ice-stream flow by observing the fabric from the surface.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/pres_modeling_streams.png&#34; alt=&#34;Synthetic radargrams for pRES on hypothetical ice streams.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/pres_modeling_streams.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Synthetic radargrams for pRES on hypothetical ice streams.&lt;/p&gt;
       &lt;/figcaption&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
@@ -1066,35 +1183,231 @@ I&amp;rsquo;m currently working out these kinks, and preparing to run model simu
     </item>
     
     <item>
-      <title>Radar processing</title>
-      <link>https://dlilien.github.io/project/radar_proj/</link>
+      <title>Little Dome C</title>
+      <link>https://dlilien.github.io/photos/ldc/</link>
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dlilien.github.io/project/radar_proj/</guid>
-      <description>
+      <guid>https://dlilien.github.io/photos/ldc/</guid>
+      <description>&lt;p&gt;
 
 
 
 
-&lt;p&gt;While camping and collecting radar data near the South Pole in 2017, I needed a way to visualize results in the field. Since the readily available software was Windows-only, I started developing the tools that I needed to process the data I was collecting using Python on my Mac. While in the field, I wrote all the code for the basic loading and processing steps. These &lt;a href=&#34;http://github.com/dlilien/pygssi&#34; target=&#34;_blank&#34;&gt;scripts&lt;/a&gt;, which were specific to the GSSI system I was using, eventually grew to the point that they implemented most of the common steps for processing both the shallow ice-penetrating radar data, collected with commercial systems like the one I used, and deep radar data generally collected with custom systems.&lt;/p&gt;
 
-&lt;p&gt;It became clear that there was a general need for a tool like this for the broader community of glaciologists; available processing chains were all either secret, commercial, outdated, system-specific, or some combination of those. Because much of the heavy lifting in terms of development was done, I decided to push forward with making this radar processor more broadly useful, which meant writing the tools to ingest other forms of radar data. To make this code most useful for colleagues at UW, I also moved the code to be backwards compatible with the St. Olaf Deep radar processor, StODeep, which was a mass of deprecated matlab code with outdated interface. Most importantly, I added an interface to pick layers, allowing the full chain of processing and interpretation to be executed in this program. The code is freely available on &lt;a href=&#34;http://github.com/dlilien/impdar&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;There is a bit of momentum for further development, and I have gotten assistance from other UW students in making this happen. Ben Hills, a UW graduate student, is working on implenting various migration routines in the software. Joshua Driscol, an undergraduate, has been working on algorithms for automatic picking and on comparison between data processed with other chains and with the software I&amp;rsquo;ve written. He will be &lt;a href=&#34;https://dlilien.github.io/talk/igs_2019/&#34; target=&#34;_blank&#34;&gt;presenting&lt;/a&gt; some data processed with this new software at the International Glaciological Society&amp;rsquo;s &lt;em&gt;Five decades of radioglaciology&lt;/em&gt; meeting. We hope to submit a paper on the radar processor to the special issue of the &lt;em&gt;Annals of Glaciology&lt;/em&gt; following the symposium, and hope that this tool can become useful for other researchers working with glaciological radar data.&lt;/p&gt;
-
-
+&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
 
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-    &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/gssi.png&#34; alt=&#34;A shallow radar system&#34;/&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000468-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000468-thumb.jpg&#34; alt=&#34;Getting on the plane to McMurdo after a week&amp;#39;s delay&#34;/&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/gssi.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000468.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
       &lt;figcaption&gt;
-          &lt;p&gt;A shallow radar system&lt;/p&gt;
+          &lt;p&gt;C-17&lt;/p&gt;
       &lt;/figcaption&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000518-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000518-thumb.jpg&#34; alt=&#34;150 of us arriving in McMurdo&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000518.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;C-17&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000580-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000580-thumb.jpg&#34; alt=&#34;Extra time in McMurdo meant an opportunity to see some seals! Apparently these things are so insulated that sometimes snow can fall on them and stay frozen.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000580.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Seals&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000599-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000599-thumb.jpg&#34; alt=&#34;Wandering (with strict safety guidance) around the pressure ridges near Scott Base.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000599.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Buckling&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000668-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000668-thumb.jpg&#34; alt=&#34;Getting ready for our flight to Concordia Station at Dome C.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000668.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Boarding the Basler&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000685-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000685-thumb.jpg&#34; alt=&#34;A cushy tent at Concordia Station.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000685.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Heated Tent&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000694-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000694-thumb.jpg&#34; alt=&#34;The Two Towers of Concordia Station.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000694.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Concordia&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000701-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000701-thumb.jpg&#34; alt=&#34;One of the Two Towers of Concordia Station.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000701.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Concordia&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000710-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000710-thumb.jpg&#34; alt=&#34;Motoring out to our campsite at Little Dome C.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000710.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;To camp&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000755-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000755-thumb.jpg&#34; alt=&#34;Elevation and cold are brutal for equipment, so in the end we were not light and fast, but rather puttered around with a 10 kw diesel generator.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000755.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Generator&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000781-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000781-thumb.jpg&#34; alt=&#34;We towed the radar behind a Pisten Bully, which is much cushier than a snowmachine.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000781.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Pisten Bully&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000783-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000783-thumb.jpg&#34; alt=&#34;We had quite a train behind the Pisten Bully. Antenna panels in blue, generator in the metal sled-the -plan was much more elegant for generators, but the cold and elevation are a real problem.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000783.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Radar Setup&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000822-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000822-thumb.jpg&#34; alt=&#34;After a week of long days of work, we dragged our home back to Concordia.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000822.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Homeward&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000848-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000848-thumb.jpg&#34; alt=&#34;Leaving Concordia station.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000848.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Me&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000874-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000874-thumb.jpg&#34; alt=&#34;We flew back via Mario Zucchelli to McMurdo. Landing at Mario Zucchelli in the Twin Otter was a real treat.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000874.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Enigma&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/ldc/P1000907-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/ldc/P1000907-thumb.jpg&#34; alt=&#34;The best part of our brief stay at Mario Zucchelli was a whole bunch of penguins!&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/ldc/P1000907.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Adelies&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     

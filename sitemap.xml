@@ -114,6 +114,23 @@
   </url>
   
   <url>
+    <loc>https://dlilien.github.io/project/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/project/radar_proj/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/tags/project/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dlilien.github.io/publication/advection_impact/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
@@ -276,6 +293,17 @@
   </url>
   
   <url>
+    <loc>https://dlilien.github.io/project/negis_proj/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/tags/greenland/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dlilien.github.io/authors/benjamin-hills/</loc>
     <lastmod>2019-07-08T16:00:00-05:00</lastmod>
     <priority>0</priority>
@@ -295,12 +323,6 @@
   <url>
     <loc>https://dlilien.github.io/publication/negis_margins/</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/tags/greenland/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -452,7 +474,12 @@
   </url>
   
   <url>
-    <loc>https://dlilien.github.io/project/negis_proj/</loc>
+    <loc>https://dlilien.github.io/project/fabric/</loc>
+    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/photos/ldc/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -460,17 +487,6 @@
     <loc>https://dlilien.github.io/photos/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/project/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/project/radar_proj/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -496,12 +512,6 @@
   
   <url>
     <loc>https://dlilien.github.io/tags/photos/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/tags/project/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

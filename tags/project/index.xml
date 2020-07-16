@@ -7,27 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Fri, 10 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Radar processing</title>
+      <link>https://dlilien.github.io/project/radar_proj/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/radar_proj/</guid>
+      <description>Tools for processing radar data</description>
+    </item>
+    
+    <item>
       <title>Flow history of NEGIS</title>
       <link>https://dlilien.github.io/project/negis_proj/</link>
-      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/project/negis_proj/</guid>
       <description>Modeling ice fabric to understand the Northeast Greenland Ice Stream</description>
     </item>
     
     <item>
-      <title>Radar processing</title>
-      <link>https://dlilien.github.io/project/radar_proj/</link>
+      <title>Ice-crystal fabric</title>
+      <link>https://dlilien.github.io/project/fabric/</link>
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dlilien.github.io/project/radar_proj/</guid>
-      <description>Tools for processing radar data</description>
+      <guid>https://dlilien.github.io/project/fabric/</guid>
+      <description>Using crystal fabric to infer past flow</description>
     </item>
     
     <item>
