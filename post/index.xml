@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on David Lilien</title>
@@ -19,7 +19,7 @@
       
       <guid>https://dlilien.github.io/post/be-oi/</guid>
       <description>I&amp;rsquo;m really excited to get to be a part of the final surveys for selecting the site of the Beyond Epica Oldest Ice core.
-The Project Beyond Epica is looking to drill an ice core containing a continuous 1.5 million year climate record, 700,000 years longer than exists presently. Such a core will hopefully let us access important scientific mysteries, like why there was transition in the frequency of glacial cycles 1 million years ago.</description>
+The Project Beyond Epica is looking to drill an ice core containing a continuous 1.5 million year climate record, 700,000 years longer than exists presently.</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ The Project Beyond Epica is looking to drill an ice core containing a continuous
       <pubDate>Mon, 05 Aug 2019 10:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/post/move_to_denmark/</guid>
-      <description>I&amp;rsquo;ve started a postdoc in Denmark, at the Center for Ice and Climate (now called Physics of Ice, Climate and Earth). I am really excited to be here, both for the opportunity to work in a new environment and because there is so much expertise in glaciology and ice-core science. I&amp;rsquo;m funded to work on a project called &amp;ldquo;Iceflow,&amp;rdquo; which generally aims to learn about ice flow in Northeast Greenland, taking advantage of the new ice core project there.</description>
+      <description>I&amp;rsquo;ve started a postdoc in Denmark, at the Center for Ice and Climate (now called Physics of Ice, Climate and Earth). I am really excited to be here, both for the opportunity to work in a new environment and because there is so much expertise in glaciology and ice-core science.</description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@ The Project Beyond Epica is looking to drill an ice core containing a continuous
       <pubDate>Mon, 28 Jan 2019 11:33:40 -0800</pubDate>
       
       <guid>https://dlilien.github.io/post/sp_s3/</guid>
-      <description>In December, I headed to the South Pole for a third field season, wrapping our survey of regional ice flow. Like last year, this was a very quick season with only about two weeks at the Pole. As in previous years, the field season was timed to span the solstice so as to get the warmest weather at the South Pole (~-10 F this year). We left for New Zealand week after Thanksgiving, and after getting our cold weather gear we started trying to fly to Antarctica on December 13th.</description>
+      <description>In December, I headed to the South Pole for a third field season, wrapping our survey of regional ice flow. Like last year, this was a very quick season with only about two weeks at the Pole. As in previous years, the field season was timed to span the solstice so as to get the warmest weather at the South Pole (~-10 F this year).</description>
     </item>
     
     <item>
@@ -56,7 +56,7 @@ A bit of background The St. Olaf Deep radar processor has a long history that I 
       <pubDate>Wed, 17 Jan 2018 10:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/post/sp_s2/</guid>
-      <description>I&amp;rsquo;m freshly back from another field season in Antarctica. This was a quick one, with only about two weeks down at the South Pole, though with transit I was gone for just over a month. We were continuing GPS and radar surveys, logging boreholes, and checking on instruments that had overwintered. The team this year was a subset of the folks we had last year; since we were not drilling and only had a little bit of camping we didn&amp;rsquo;t have the IDDO folks or Maurice along.</description>
+      <description>I&amp;rsquo;m freshly back from another field season in Antarctica. This was a quick one, with only about two weeks down at the South Pole, though with transit I was gone for just over a month. We were continuing GPS and radar surveys, logging boreholes, and checking on instruments that had overwintered.</description>
     </item>
     
     <item>
@@ -84,8 +84,7 @@ I&amp;rsquo;ll also introduce git, since I think it is probably more important f
       <pubDate>Fri, 29 Sep 2017 10:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/post/spicecore/</guid>
-      <description>I attended the annual meeting of the scientists who work on the South Pole Ice Core (SPICEcore) last week, which was a great opportunity to learn about all the work that people are doing using the core. This meeting was held at the University of Washington, September 19-20, 2017, and had scientists from throughout the US in attendance.
-As lead PI for the upstream South-Pole project, Michelle Koutnik gave an update on our progress to the community.</description>
+      <description>I attended the annual meeting of the scientists who work on the South Pole Ice Core (SPICEcore) last week, which was a great opportunity to learn about all the work that people are doing using the core. This meeting was held at the University of Washington, September 19-20, 2017, and had scientists from throughout the US in attendance.</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on David Lilien</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 08:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,20 +23,155 @@ Find my C.V. here.</description>
     </item>
     
     <item>
-      <title>Benjamin H. Hills</title>
-      <link>https://dlilien.github.io/authors/benjamin-h.-hills/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Christine S. Hvidberg</title>
+      <link>https://dlilien.github.io/authors/christine-s.-hvidberg/</link>
+      <pubDate>Tue, 08 Dec 2020 08:30:00 +0200</pubDate>
       
-      <guid>https://dlilien.github.io/authors/benjamin-h.-hills/</guid>
+      <guid>https://dlilien.github.io/authors/christine-s.-hvidberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David A. Lilien</title>
       <link>https://dlilien.github.io/authors/david-a.-lilien/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Dec 2020 08:30:00 +0200</pubDate>
       
       <guid>https://dlilien.github.io/authors/david-a.-lilien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dorthe Dahl-Jensen</title>
+      <link>https://dlilien.github.io/authors/dorthe-dahl-jensen/</link>
+      <pubDate>Tue, 08 Dec 2020 08:30:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/dorthe-dahl-jensen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Rathmann</title>
+      <link>https://dlilien.github.io/authors/nicholas-rathmann/</link>
+      <pubDate>Tue, 08 Dec 2020 08:30:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/nicholas-rathmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Martín</title>
+      <link>https://dlilien.github.io/authors/carlos-mart%C3%ADn/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/carlos-mart%C3%ADn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catherine Ritz</title>
+      <link>https://dlilien.github.io/authors/catherine-ritz/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/catherine-ritz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles O&#39;Neill</title>
+      <link>https://dlilien.github.io/authors/charles-oneill/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/charles-oneill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Steinhage</title>
+      <link>https://dlilien.github.io/authors/daniel-steinhage/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/daniel-steinhage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drew Taylor</title>
+      <link>https://dlilien.github.io/authors/drew-taylor/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/drew-taylor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frédéric Parrenin</title>
+      <link>https://dlilien.github.io/authors/fr%C3%A9d%C3%A9ric-parrenin/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/fr%C3%A9d%C3%A9ric-parrenin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heinrich Miller</title>
+      <link>https://dlilien.github.io/authors/heinrich-miller/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/heinrich-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jie-Bang Yan</title>
+      <link>https://dlilien.github.io/authors/jie-bang-yan/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/jie-bang-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massimo Frezzotti</title>
+      <link>https://dlilien.github.io/authors/massimo-frezzotti/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/massimo-frezzotti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olaf Eisen</title>
+      <link>https://dlilien.github.io/authors/olaf-eisen/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/olaf-eisen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prasad Gogineni</title>
+      <link>https://dlilien.github.io/authors/prasad-gogineni/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/prasad-gogineni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Mulvaney</title>
+      <link>https://dlilien.github.io/authors/robert-mulvaney/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/robert-mulvaney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin H. Hills</title>
+      <link>https://dlilien.github.io/authors/benjamin-h.-hills/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/benjamin-h.-hills/</guid>
       <description></description>
     </item>
     
@@ -176,33 +311,6 @@ Find my C.V. here.</description>
     </item>
     
     <item>
-      <title>Christine S. Hvidberg</title>
-      <link>https://dlilien.github.io/authors/christine-s.-hvidberg/</link>
-      <pubDate>Wed, 06 May 2020 08:30:00 +0200</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/christine-s.-hvidberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dorthe Dahl-Jensen</title>
-      <link>https://dlilien.github.io/authors/dorthe-dahl-jensen/</link>
-      <pubDate>Wed, 06 May 2020 08:30:00 +0200</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/dorthe-dahl-jensen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicholas Rathmann</title>
-      <link>https://dlilien.github.io/authors/nicholas-rathmann/</link>
-      <pubDate>Wed, 06 May 2020 08:30:00 +0200</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/nicholas-rathmann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sérgio H. Faria</title>
       <link>https://dlilien.github.io/authors/s%C3%A9rgio-h.-faria/</link>
       <pubDate>Wed, 06 May 2020 08:30:00 +0200</pubDate>
@@ -295,7 +403,7 @@ Find my C.V. here.</description>
     <item>
       <title>Antonia Monteiro</title>
       <link>https://dlilien.github.io/authors/antonia-monteiro/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
       
       <guid>https://dlilien.github.io/authors/antonia-monteiro/</guid>
       <description></description>
@@ -304,7 +412,7 @@ Find my C.V. here.</description>
     <item>
       <title>April J. Dinwiddie</title>
       <link>https://dlilien.github.io/authors/april-j.-dinwiddie/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
       
       <guid>https://dlilien.github.io/authors/april-j.-dinwiddie/</guid>
       <description></description>
@@ -313,7 +421,7 @@ Find my C.V. here.</description>
     <item>
       <title>Bethany R. Wasik</title>
       <link>https://dlilien.github.io/authors/bethany-r.-wasik/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
       
       <guid>https://dlilien.github.io/authors/bethany-r.-wasik/</guid>
       <description></description>
@@ -322,7 +430,7 @@ Find my C.V. here.</description>
     <item>
       <title>Heeso Noh</title>
       <link>https://dlilien.github.io/authors/heeso-noh/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
       
       <guid>https://dlilien.github.io/authors/heeso-noh/</guid>
       <description></description>
@@ -331,7 +439,7 @@ Find my C.V. here.</description>
     <item>
       <title>Hui Cao</title>
       <link>https://dlilien.github.io/authors/hui-cao/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
       
       <guid>https://dlilien.github.io/authors/hui-cao/</guid>
       <description></description>
@@ -340,7 +448,7 @@ Find my C.V. here.</description>
     <item>
       <title>Seng Fatt Liew</title>
       <link>https://dlilien.github.io/authors/seng-fatt-liew/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
       
       <guid>https://dlilien.github.io/authors/seng-fatt-liew/</guid>
       <description></description>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on David Lilien</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Wed, 06 May 2020 14:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 08:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modeling ice-crystal fabric as a proxy for ice-stream stability</title>
+      <link>https://dlilien.github.io/talk/agu_2020/</link>
+      <pubDate>Tue, 08 Dec 2020 08:30:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/talk/agu_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Melt at Grounding line controls observed and future retreat of Smith, Pope, and Kohler Glaciers</title>

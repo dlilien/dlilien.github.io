@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on David Lilien</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 08:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>anisotropy</title>
+      <link>https://dlilien.github.io/tags/anisotropy/</link>
+      <pubDate>Tue, 08 Dec 2020 08:30:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/tags/anisotropy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>radar</title>
@@ -31,15 +40,6 @@
     </item>
     
     <item>
-      <title>South Pole</title>
-      <link>https://dlilien.github.io/tags/south-pole/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/tags/south-pole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>antarctic</title>
       <link>https://dlilien.github.io/tags/antarctic/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
@@ -49,11 +49,11 @@
     </item>
     
     <item>
-      <title>anisotropy</title>
-      <link>https://dlilien.github.io/tags/anisotropy/</link>
-      <pubDate>Wed, 06 May 2020 08:30:00 +0200</pubDate>
+      <title>South Pole</title>
+      <link>https://dlilien.github.io/tags/south-pole/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dlilien.github.io/tags/anisotropy/</guid>
+      <guid>https://dlilien.github.io/tags/south-pole/</guid>
       <description></description>
     </item>
     
@@ -76,20 +76,20 @@
     </item>
     
     <item>
-      <title>NEGIS</title>
-      <link>https://dlilien.github.io/tags/negis/</link>
-      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/tags/negis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>modeling</title>
       <link>https://dlilien.github.io/tags/modeling/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/tags/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEGIS</title>
+      <link>https://dlilien.github.io/tags/negis/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/tags/negis/</guid>
       <description></description>
     </item>
     

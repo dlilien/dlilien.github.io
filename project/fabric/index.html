@@ -92,7 +92,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.7882d144ef3cc2f1fe0645b0fc44e17d.css">
+  <link rel="stylesheet" href="/css/academic.min.860573c9b77f056cda9004c582c32c6e.css">
 
   
 
@@ -676,8 +676,6 @@
 
 
 
-
-
   
 
 
@@ -735,30 +733,22 @@
     </div>
 </div>
 
-
 <h1 id="motivation">Motivation</h1>
-
 <p>We do not have a lot of great observations of ice-stream flow speeds before the 1990s, when satellite observations really became available. However, the type of retreat that we think Antarctic glaciers are committed to takes place over centuries to millenia. Insight into past changes to glaciers over those timescales could give us valuable information on how such retreats take place. In particular, changes to the ice sheets at present are mostly coastal, yet we expect them to migrate inland, and thus information about inland migration of past marginal changes could be particularly valuable. However, there is little direct evidence that we would expect to be preserved from past changes. One potential place where such information might be preserved, though, is in the orientation of crystals in the ice.</p>
-
 <h1 id="crystal-fabric">Crystal fabric</h1>
-
 <p>Glacier ice is composed of small grains that grow in size with depth, starting at the millimeter scale at the surface and growing to centimeters or more deep in the ice sheet.
 At the surface, these crystals are randomly oriented, because snow falls in random orientations.
 Deeper in a glacier, deformation causes these crystals to tend to align in preferred direction, which has some interesting effects.</p>
-
 <p>It is easiest to start by thinking of an individual ice crystal.
 Each ice crystal has its water molecules bonded in a hexagonal crystal lattice&ndash;this lattice is quasi-rotationally symmetric in its hexagonal plane (think of a snow flake&ndash;if you rotate it by 60 degrees it looks the same).
 However, the direction perpendicular to this hexagonal plane does not match this symmetry, and we term this direction the c-axis.
 We can then describe an individual crystal based on its c-axis orientation.
 This orientation is a result of the flow history of that crystal&ndash;how it pointed when it fell as snow, how it was squashed, stretched, and rotated with ice flow.
 This ice crystal fabric affects deformation by making it easier in some directions (think of a deck of cards&ndash;two directions of deforming the deck are easy, one is hard).</p>
-
 <p>Thinking about what happens to an individual crystal is well and good, but if we want to understand how a whole glacier moves we are thinking about an enormous number of crystals, far too many for us to keep track of individually.
 Instead, we think of a &ldquo;crystal fabric&rdquo;, some kind of aggregate of grains that we may be able to describe in relatively simple mathematical terms.
 Isotropic (randomly oriented), girdle (forming a circle) and single maximum (pointing mainly in one direction) are probably the most common fabric types in ice. However, even girdles and single maxima can come in different strengths and orientations, and so can hold detailed information about deformation history.</p>
-
 <p>Ice divides (ice flows vertically and in one horizontal dimension away from a ridge), or domes (ice flows radially outward from the dome center), are the simplest to think about since the flow fields in these areas are relatively tame. I&rsquo;ll focus on divides. At divides, the surface has no slope, so there is no shear stress but only downard stress due to gravity, extensional stress away from the divide, and some containing force along the divide. At the divide, the crystal fabric gradually transitions from isotropic (randomly oriented) at the surface to a girdle, or circle in the plane of the divide, due to the extensional stresses. At depth, the ice reaches something of single maximum with crystals pointing upwards, where the vertical stresses dominate. This type of fabric has been seen in ice cores, and models can do a reasonable job reproducing it (see figure below). Just off the divide, we get complex effects as ice is moved around and stress states become more complex. This is seen, for example, in the angle of the fabric which tends to point leftward at certain depths in the right panel of the figure, or in the complex pattern of the shear strain in the left panel. Fabrics are not entirely intuitive, and assessing what fabrics are likely to result from complex deformation regimes is perhaps best done with an ice-flow model.</p>
-
 
 <link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 <div class="box" >
@@ -772,17 +762,13 @@ Isotropic (randomly oriented), girdle (forming a circle) and single maximum (poi
       </figcaption>
   </figure>
 </div>
-
 <p>So how can all this information be used to infer past ice flow? It takes a relatively long time to reorient the ice crystals (thousands of years or more), so if modern ice-crystal fabric does not match modern ice flow, we may have evidence of past changes. Moreover, if we can use an ice-flow model to match different changes to flow with different fabrics, we may be able to identify what changes could cause such a mismatch between fabric and flow. I have been working to model how changes to ice streams will be manifest in the crystal fabric, and thus what we might look for in terms of inferring past changes.</p>
-
 <h1 id="modeling">Modeling</h1>
-
 <p>In an ice flow model, we seek to approximate how fabric evolves in response to the deformation of ice, and how it affects the deformation of the glacier.
 Modeling ice-crystal fabric is a fairly difficult exercise: the fabric evolves in multiple dimensions, it get moves around by ice flow, and the description we use is continuous despite the fabric itself being discrete.
 To take out some of the complexity, I&rsquo;m modeling along flowtubes rather than fully in three dimensions.
 The model is implemented in Elmer/Ice, an open-source software package that is one of the only codes capable of handling the coupled evolution of ice flow and fabric.
 Using the model, we can get a sense of what fabrics result from ice streams, shown here for a few different ways of having the ice converge together to form a stream.</p>
-
 
 
 <div class="box" >
@@ -796,9 +782,7 @@ Using the model, we can get a sense of what fabrics result from ice streams, sho
       </figcaption>
   </figure>
 </div>
-
 <p>Skipping over the details of all the simulations I have run, it is important to ask whether we could observe these differences. Ice cores allow quite detailed measurement of fabric, so it is almost given that they could resolve these fabrics. However, it would be particularly exciting if we could observe the fabrics without drilling. One potential tool for this is pRES or ApRES, a type of phase sensitive radar. By rotating the radar around, we can identify some integrated information about the fabric. I have used the output of the ice-flow model to generate synthetic radargrams, which tell us what to expect when observing such fabrics with pRES in the field. As seen in the figure below, these are quite complicated, but easily distinguished from pure internal deformation (on the left). This is quite encouraging, and suggest that it should be possible to identify changes to past ice-stream flow by observing the fabric from the surface.</p>
-
 
 
 <div class="box" >
@@ -961,7 +945,7 @@ Using the model, we can get a sense of what fabrics result from ice streams, sho
   
 
   <p class="powered-by">
-    &copy; 2019 David Lilien &middot; 
+    © 2019 David Lilien &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

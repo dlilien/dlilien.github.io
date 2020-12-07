@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on David Lilien</title>
@@ -11,6 +11,15 @@
     
 	<atom:link href="https://dlilien.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Brief Communication: New radar constraints support presence of ice older than 1.5 Ma at Little Dome C</title>
+      <link>https://dlilien.github.io/publication/beoi/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/beoi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ImpDAR: An open-source impulse radar processor</title>
@@ -78,7 +87,7 @@
     <item>
       <title>Artificial selection for structural color on butterfly wings and comparison with natural evolution</title>
       <link>https://dlilien.github.io/publication/wasik-2014/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
       
       <guid>https://dlilien.github.io/publication/wasik-2014/</guid>
       <description></description>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seng Fatt Liew on David Lilien</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2014 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/authors/seng-fatt-liew/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Artificial selection for structural color on butterfly wings and comparison with natural evolution</title>
       <link>https://dlilien.github.io/publication/wasik-2014/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
       
       <guid>https://dlilien.github.io/publication/wasik-2014/</guid>
       <description></description>
