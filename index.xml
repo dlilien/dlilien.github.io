@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 David Lilien</copyright>
-    <lastBuildDate>Tue, 08 Dec 2020 08:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dlilien.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -60,7 +60,7 @@
     <item>
       <title>H2s</title>
       <link>https://dlilien.github.io/h2/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://dlilien.github.io/h2/</guid>
       <description></description>

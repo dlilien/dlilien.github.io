@@ -9,7 +9,7 @@
   
   <url>
     <loc>https://dlilien.github.io/h2/about/</loc>
-    <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+    <lastmod>2016-04-20T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -43,32 +43,117 @@
   </url>
   
   <url>
-    <loc>https://dlilien.github.io/tags/anisotropy/</loc>
-    <lastmod>2020-12-08T08:30:00+02:00</lastmod>
+    <loc>https://dlilien.github.io/publication_types/2/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/authors/</loc>
-    <lastmod>2020-12-08T08:30:00+02:00</lastmod>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/authors/christine-s.-hvidberg/</loc>
-    <lastmod>2020-12-08T08:30:00+02:00</lastmod>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/authors/david-a.-lilien/</loc>
-    <lastmod>2020-12-08T08:30:00+02:00</lastmod>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/</loc>
-    <lastmod>2020-12-08T08:30:00+02:00</lastmod>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/authors/dorthe-dahl-jensen/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/publication/idealized_aniso/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/nicholas-m.-rathmann/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/publication_types/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/publication/beoi/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/carlos-mart%C3%ADn/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/catherine-ritz/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/charles-oneill/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/daniel-steinhage/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/drew-taylor/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/fr%C3%A9d%C3%A9ric-parrenin/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/heinrich-miller/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/jie-bang-yan/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/massimo-frezzotti/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/olaf-eisen/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/prasad-gogineni/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/authors/robert-mulvaney/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlilien.github.io/tags/anisotropy/</loc>
     <lastmod>2020-12-08T08:30:00+02:00</lastmod>
   </url>
   
@@ -90,81 +175,6 @@
   <url>
     <loc>https://dlilien.github.io/talk/</loc>
     <lastmod>2020-12-08T08:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/publication_types/2/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/publication/beoi/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/carlos-mart%C3%ADn/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/catherine-ritz/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/charles-oneill/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/daniel-steinhage/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/drew-taylor/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/fr%C3%A9d%C3%A9ric-parrenin/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/heinrich-miller/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/jie-bang-yan/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/massimo-frezzotti/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/olaf-eisen/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/prasad-gogineni/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/publication_types/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dlilien.github.io/authors/robert-mulvaney/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -569,7 +579,7 @@
   
   <url>
     <loc>https://dlilien.github.io/h2/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-20T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -594,37 +604,37 @@
   
   <url>
     <loc>https://dlilien.github.io/authors/antonia-monteiro/</loc>
-    <lastmod>2014-08-01T00:00:00+02:00</lastmod>
+    <lastmod>2014-08-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/authors/april-j.-dinwiddie/</loc>
-    <lastmod>2014-08-01T00:00:00+02:00</lastmod>
+    <lastmod>2014-08-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/publication/wasik-2014/</loc>
-    <lastmod>2014-08-01T00:00:00+02:00</lastmod>
+    <lastmod>2014-08-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/authors/bethany-r.-wasik/</loc>
-    <lastmod>2014-08-01T00:00:00+02:00</lastmod>
+    <lastmod>2014-08-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/authors/heeso-noh/</loc>
-    <lastmod>2014-08-01T00:00:00+02:00</lastmod>
+    <lastmod>2014-08-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/authors/hui-cao/</loc>
-    <lastmod>2014-08-01T00:00:00+02:00</lastmod>
+    <lastmod>2014-08-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://dlilien.github.io/authors/seng-fatt-liew/</loc>
-    <lastmod>2014-08-01T00:00:00+02:00</lastmod>
+    <lastmod>2014-08-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
