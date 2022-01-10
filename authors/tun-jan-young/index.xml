@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tun Jan Young on David Lilien</title>
+    <link>https://dlilien.github.io/authors/tun-jan-young/</link>
+    <description>Recent content in Tun Jan Young on David Lilien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 David Lilien</copyright>
+    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dlilien.github.io/authors/tun-jan-young/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the Limitations of Using Polarimetric Radar Sounding to Infer the Crystal Orientation Fabric of Ice Masses</title>
+      <link>https://dlilien.github.io/publication/rathmann_tamm/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/rathmann_tamm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

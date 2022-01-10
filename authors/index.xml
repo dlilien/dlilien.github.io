@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 David Lilien</copyright>
-    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlilien.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,18 +23,18 @@ Find my C.V. here.</description>
     </item>
     
     <item>
-      <title>Christine S. Hvidberg</title>
-      <link>https://dlilien.github.io/authors/christine-s.-hvidberg/</link>
-      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Aslak Grinsted</title>
+      <link>https://dlilien.github.io/authors/aslak-grinsted/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dlilien.github.io/authors/christine-s.-hvidberg/</guid>
+      <guid>https://dlilien.github.io/authors/aslak-grinsted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David A. Lilien</title>
       <link>https://dlilien.github.io/authors/david-a.-lilien/</link>
-      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/david-a.-lilien/</guid>
       <description></description>
@@ -43,7 +43,7 @@ Find my C.V. here.</description>
     <item>
       <title>Dorthe Dahl-Jensen</title>
       <link>https://dlilien.github.io/authors/dorthe-dahl-jensen/</link>
-      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/dorthe-dahl-jensen/</guid>
       <description></description>
@@ -52,9 +52,36 @@ Find my C.V. here.</description>
     <item>
       <title>Nicholas M. Rathmann</title>
       <link>https://dlilien.github.io/authors/nicholas-m.-rathmann/</link>
-      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/nicholas-m.-rathmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamara A. Gerber</title>
+      <link>https://dlilien.github.io/authors/tamara-a.-gerber/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/tamara-a.-gerber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tun Jan Young</title>
+      <link>https://dlilien.github.io/authors/tun-jan-young/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/tun-jan-young/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christine S. Hvidberg</title>
+      <link>https://dlilien.github.io/authors/christine-s.-hvidberg/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/christine-s.-hvidberg/</guid>
       <description></description>
     </item>
     
