@@ -6,35 +6,40 @@
     <description>Recent content in Authors on David Lilien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 David Lilien</copyright>
-    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://dlilien.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2022 David Lilien</copyright>
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dlilien.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://dlilien.github.io/authors/admin/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/admin/</guid>
-      <description>I&amp;rsquo;m a postdoc in glaciology at the University of Copenhagen. I study the dynamics of ice streams and outlet glaciers using numerical models, remote sensing, and field data. My primary interest is understanding recent changes to glaciers in West Antarctica and Greenland, and understanding the context of those changes through analysis of past ice flow.
+      <description>I&amp;rsquo;m a Research Associate in glaciology at the University of Manitoba. I study the dynamics of ice streams and outlet glaciers using numerical models, remote sensing, and field data. My primary interest is understanding how recent changes to large outlet glaciers will propagate upstream; this involves simulating modern changes as well as contextualize current retreat by understanding past ice flow.
 Find my C.V. here.</description>
     </item>
     
     <item>
       <title>Aslak Grinsted</title>
       <link>https://dlilien.github.io/authors/aslak-grinsted/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/aslak-grinsted/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Christine S. Hvidberg</title>
+      <link>https://dlilien.github.io/authors/christine-s.-hvidberg/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/christine-s.-hvidberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>David A. Lilien</title>
       <link>https://dlilien.github.io/authors/david-a.-lilien/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/david-a.-lilien/</guid>
       <description></description>
@@ -43,45 +48,207 @@ Find my C.V. here.</description>
     <item>
       <title>Dorthe Dahl-Jensen</title>
       <link>https://dlilien.github.io/authors/dorthe-dahl-jensen/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/dorthe-dahl-jensen/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Helle A. Kjær</title>
+      <link>https://dlilien.github.io/authors/helle-a.-kj%C3%A6r/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/helle-a.-kj%C3%A6r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanna B. Karlsson</title>
+      <link>https://dlilien.github.io/authors/nanna-b.-karlsson/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/nanna-b.-karlsson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nicholas M. Rathmann</title>
       <link>https://dlilien.github.io/authors/nicholas-m.-rathmann/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/nicholas-m.-rathmann/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Paul Vallelonga</title>
+      <link>https://dlilien.github.io/authors/paul-vallelonga/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/paul-vallelonga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tamara A. Gerber</title>
       <link>https://dlilien.github.io/authors/tamara-a.-gerber/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/tamara-a.-gerber/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Angelika Humbert</title>
+      <link>https://dlilien.github.io/authors/angelika-humbert/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/angelika-humbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles O&#39;Neill</title>
+      <link>https://dlilien.github.io/authors/charles-oneill/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/charles-oneill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Steinhage</title>
+      <link>https://dlilien.github.io/authors/daniel-steinhage/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/daniel-steinhage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniela Jansen</title>
+      <link>https://dlilien.github.io/authors/daniela-jansen/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/daniela-jansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Valero-Delgado</title>
+      <link>https://dlilien.github.io/authors/fernando-valero-delgado/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/fernando-valero-delgado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heinrich Miller</title>
+      <link>https://dlilien.github.io/authors/heinrich-miller/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/heinrich-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilka Weikusat</title>
+      <link>https://dlilien.github.io/authors/ilka-weikusat/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/ilka-weikusat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Paden</title>
+      <link>https://dlilien.github.io/authors/john-paden/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/john-paden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Stoll</title>
+      <link>https://dlilien.github.io/authors/nicolas-stoll/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/nicolas-stoll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olaf Eisen</title>
+      <link>https://dlilien.github.io/authors/olaf-eisen/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/olaf-eisen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ole Zeising</title>
+      <link>https://dlilien.github.io/authors/ole-zeising/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/ole-zeising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prasad Gogineni</title>
+      <link>https://dlilien.github.io/authors/prasad-gogineni/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/prasad-gogineni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinhard Drews</title>
+      <link>https://dlilien.github.io/authors/reinhard-drews/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/reinhard-drews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reza Ershadi</title>
+      <link>https://dlilien.github.io/authors/reza-ershadi/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/reza-ershadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Franke</title>
+      <link>https://dlilien.github.io/authors/steven-franke/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/authors/steven-franke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tun Jan Young</title>
       <link>https://dlilien.github.io/authors/tun-jan-young/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/tun-jan-young/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Christine S. Hvidberg</title>
-      <link>https://dlilien.github.io/authors/christine-s.-hvidberg/</link>
-      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Veit Helm</title>
+      <link>https://dlilien.github.io/authors/veit-helm/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dlilien.github.io/authors/christine-s.-hvidberg/</guid>
+      <guid>https://dlilien.github.io/authors/veit-helm/</guid>
       <description></description>
     </item>
     
@@ -104,24 +271,6 @@ Find my C.V. here.</description>
     </item>
     
     <item>
-      <title>Charles O&#39;Neill</title>
-      <link>https://dlilien.github.io/authors/charles-oneill/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/charles-oneill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Steinhage</title>
-      <link>https://dlilien.github.io/authors/daniel-steinhage/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/daniel-steinhage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Drew Taylor</title>
       <link>https://dlilien.github.io/authors/drew-taylor/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
@@ -140,15 +289,6 @@ Find my C.V. here.</description>
     </item>
     
     <item>
-      <title>Heinrich Miller</title>
-      <link>https://dlilien.github.io/authors/heinrich-miller/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/heinrich-miller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jie-Bang Yan</title>
       <link>https://dlilien.github.io/authors/jie-bang-yan/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
@@ -163,24 +303,6 @@ Find my C.V. here.</description>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/massimo-frezzotti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Olaf Eisen</title>
-      <link>https://dlilien.github.io/authors/olaf-eisen/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/olaf-eisen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prasad Gogineni</title>
-      <link>https://dlilien.github.io/authors/prasad-gogineni/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/authors/prasad-gogineni/</guid>
       <description></description>
     </item>
     
@@ -439,7 +561,7 @@ Find my C.V. here.</description>
     <item>
       <title>Antonia Monteiro</title>
       <link>https://dlilien.github.io/authors/antonia-monteiro/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/antonia-monteiro/</guid>
       <description></description>
@@ -448,7 +570,7 @@ Find my C.V. here.</description>
     <item>
       <title>April J. Dinwiddie</title>
       <link>https://dlilien.github.io/authors/april-j.-dinwiddie/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/april-j.-dinwiddie/</guid>
       <description></description>
@@ -457,7 +579,7 @@ Find my C.V. here.</description>
     <item>
       <title>Bethany R. Wasik</title>
       <link>https://dlilien.github.io/authors/bethany-r.-wasik/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/bethany-r.-wasik/</guid>
       <description></description>
@@ -466,7 +588,7 @@ Find my C.V. here.</description>
     <item>
       <title>Heeso Noh</title>
       <link>https://dlilien.github.io/authors/heeso-noh/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/heeso-noh/</guid>
       <description></description>
@@ -475,7 +597,7 @@ Find my C.V. here.</description>
     <item>
       <title>Hui Cao</title>
       <link>https://dlilien.github.io/authors/hui-cao/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/hui-cao/</guid>
       <description></description>
@@ -484,7 +606,7 @@ Find my C.V. here.</description>
     <item>
       <title>Seng Fatt Liew</title>
       <link>https://dlilien.github.io/authors/seng-fatt-liew/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/authors/seng-fatt-liew/</guid>
       <description></description>

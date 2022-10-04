@@ -6,16 +6,12 @@
     <description>Recent content in H2s on David Lilien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 David Lilien</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://dlilien.github.io/h2/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2022 David Lilien</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://dlilien.github.io/h2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biography</title>
       <link>https://dlilien.github.io/h2/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/h2/about/</guid>
       <description></description>

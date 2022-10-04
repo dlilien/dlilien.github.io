@@ -6,25 +6,16 @@
     <description>Recent content on David Lilien</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 David Lilien</copyright>
-    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2022 David Lilien</copyright>
+    <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dlilien.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Talks</title>
-      <link>https://dlilien.github.io/talk/</link>
-      <pubDate>Tue, 08 Dec 2020 08:30:00 +0200</pubDate>
-      
-      <guid>https://dlilien.github.io/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>https://dlilien.github.io/project/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/project/</guid>
       <description></description>
@@ -33,9 +24,18 @@
     <item>
       <title>Photos</title>
       <link>https://dlilien.github.io/photos/</link>
-      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://dlilien.github.io/talk/</link>
+      <pubDate>Tue, 08 Dec 2020 08:30:00 +0200</pubDate>
+      
+      <guid>https://dlilien.github.io/talk/</guid>
       <description></description>
     </item>
     
@@ -60,7 +60,7 @@
     <item>
       <title>H2s</title>
       <link>https://dlilien.github.io/h2/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/h2/</guid>
       <description></description>

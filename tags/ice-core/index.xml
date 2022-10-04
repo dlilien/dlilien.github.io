@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ice core on David Lilien</title>
+    <link>https://dlilien.github.io/tags/ice-core/</link>
+    <description>Recent content in ice core on David Lilien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022 David Lilien</copyright>
+    <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dlilien.github.io/tags/ice-core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Müller Ice Cap</title>
+      <link>https://dlilien.github.io/project/muller_proj/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/muller_proj/</guid>
+      <description>Preparing for an ice core on Müller Ice Cap</description>
+    </item>
+    
+  </channel>
+</rss>

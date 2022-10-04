@@ -6,18 +6,23 @@
     <description>Recent content in Publication_types on David Lilien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 David Lilien</copyright>
-    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://dlilien.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2022 David Lilien</copyright>
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dlilien.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2</title>
       <link>https://dlilien.github.io/publication_types/2/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://dlilien.github.io/publication_types/3/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication_types/3/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,6 @@
     <description>Recent content in Categories on David Lilien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 David Lilien</copyright>
-    
-	<atom:link href="https://dlilien.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2022 David Lilien</copyright><atom:link href="https://dlilien.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

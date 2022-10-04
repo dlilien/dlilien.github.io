@@ -6,11 +6,25 @@
     <description>Recent content in project on David Lilien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 David Lilien</copyright>
-    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2022 David Lilien</copyright>
+    <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dlilien.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Müller Ice Cap</title>
+      <link>https://dlilien.github.io/project/muller_proj/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/muller_proj/</guid>
+      <description>Preparing for an ice core on Müller Ice Cap</description>
+    </item>
     
-	<atom:link href="https://dlilien.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Ice-crystal fabric</title>
+      <link>https://dlilien.github.io/project/fabric/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/project/fabric/</guid>
+      <description>Improving models of fabric and anisotropy to learn about ice flow</description>
+    </item>
     
     <item>
       <title>Radar processing</title>
@@ -19,24 +33,6 @@
       
       <guid>https://dlilien.github.io/project/radar_proj/</guid>
       <description>Tools for processing radar data</description>
-    </item>
-    
-    <item>
-      <title>Flow history of NEGIS</title>
-      <link>https://dlilien.github.io/project/negis_proj/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/project/negis_proj/</guid>
-      <description>Modeling ice fabric to understand the Northeast Greenland Ice Stream</description>
-    </item>
-    
-    <item>
-      <title>Ice-crystal fabric</title>
-      <link>https://dlilien.github.io/project/fabric/</link>
-      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dlilien.github.io/project/fabric/</guid>
-      <description>Using crystal fabric to infer past flow</description>
     </item>
     
     <item>

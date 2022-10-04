@@ -6,11 +6,34 @@
     <description>Recent content in Publications on David Lilien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 David Lilien</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2022 David Lilien</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://dlilien.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accelerating ice flow at the onset of the Northeast Greenland Ice Stream</title>
+      <link>https://dlilien.github.io/publication/grinsted_accel/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/grinsted_accel/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://dlilien.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crystal fabric anisotropy causes directional hardening of the Northeast Greenland Ice Stream</title>
+      <link>https://dlilien.github.io/publication/gerber_negis/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/gerber_negis/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>On the nonlinear viscosity of the orthotropic bulk rheology</title>
+      <link>https://dlilien.github.io/publication/rathmann_ortho/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlilien.github.io/publication/rathmann_ortho/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Limitations of Using Polarimetric Radar Sounding to Infer the Crystal Orientation Fabric of Ice Masses</title>
@@ -123,7 +146,7 @@
     <item>
       <title>Artificial selection for structural color on butterfly wings and comparison with natural evolution</title>
       <link>https://dlilien.github.io/publication/wasik-2014/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://dlilien.github.io/publication/wasik-2014/</guid>
       <description></description>
