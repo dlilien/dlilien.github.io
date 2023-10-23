@@ -242,7 +242,7 @@
 
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=351968544"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1HDD8QG8KC"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
 
@@ -272,7 +272,7 @@
   }
 
   gtag('js', new Date());
-  gtag('config', '351968544', {});
+  gtag('config', 'G-1HDD8QG8KC', {});
   gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
 
   
