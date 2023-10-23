@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPIceCore | David Lilien</title>
+    <link>https://dlilien.github.io/tag/spicecore/</link>
+      <atom:link href="https://dlilien.github.io/tag/spicecore/index.xml" rel="self" type="application/rss+xml" />
+    <description>SPIceCore</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jan 2018 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>SPIceCore</title>
+      <link>https://dlilien.github.io/tag/spicecore/</link>
+    </image>
+    
+    <item>
+      <title>2018 South Pole Field Season</title>
+      <link>https://dlilien.github.io/post/sp_s2/</link>
+      <pubDate>Wed, 17 Jan 2018 10:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/post/sp_s2/</guid>
+      <description>
+
+
+
+  
+
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dlilien.github.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I&amp;rsquo;m freshly back from another field season in Antarctica. This was a quick one, with only about two weeks down at the South Pole, though with transit I was gone for just over a month. We were continuing GPS and radar surveys, logging boreholes, and checking on instruments that had overwintered. The team this year was a subset of the folks we had last year; since we were not drilling and only had a little bit of camping we didn&amp;rsquo;t have the IDDO folks or Maurice along.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://dlilien.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/erebus.jpg&#34; alt=&#34;Getting of the Herc and onto Ivan&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/erebus.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;The season started out smoothly, and we miraculously made it to the pole without delays, and Twit and I were able to start our surveying after just a day and a half of acclimatization. We were riding the same snow machines as last year, though Twit&amp;rsquo;s had a great custom shifter knob added. After our heavy use last year, the belt on that machine had to be replaced, and the tight, new belt prevented the Skidoo from starting in gear. Instead the season was spent with something resembling a manual transmission with no clutch, which worked great!&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/gps_sled.jpg&#34; alt=&#34;We had to haul a lot of GPS units and a lot of gas&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/gps_sled.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;After a few days of surveying we brought the Conestoga (a &amp;ldquo;hard-sided structure&amp;rdquo;) to go and help put in a small camp at our field site from last year. This site, 50 km upstream of South Pole along the flowline, had all the instruments that Max had overwintered and an open borehole for the other David to use to log temperature and density. We were able to get all our equipment out there with just one trip on skidoos, so we loaded up everything onto large sleds and hauled it out the day after Christmas.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/camp_sled.jpg&#34; alt=&#34;Camping gear&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/camp_sled.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/full_conestoga.jpg&#34; alt=&#34;Our hard-sided structure full of soft goods&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/full_conestoga.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Even though we knew it was going to be as we left it, I was still pretty amazed to see our old campsite from few kilometers off, then come to it and find everything as expected. About 20 cm of snow blanketed the site, but flags, solar panels, and a wind turbine made everything easy to find. Even a little remnant of our discarded-ice-core sculptures remained, though it was wind-eroded.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/flags.jpg&#34; alt=&#34;Loading up equipment after testing near Mt. Erebus, just outside McMurdo&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/flags.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;Max left twelve instruments logging compaction of the snow and firn (older snow compacting to ice) over the winter, as well as a string of thermistors down another hole to measure temperature, and we did not know if they had successfully recorded through the six-month night. As it turned out, all the instruments had survived the winter despite -75 C temperatures, and so Max only had to download data, replace one instrument that had failed on installation, and then he was done. David got to logging the borehole straight away since the tools have to move slowly through the hole. In the end the neutron probe was unable to handle the temperatures, same as last year, so he had plenty of time to do the temperature log of the hole.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/it_worked.jpg&#34; alt=&#34;Max at the moment of truth. It survived winter!&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/it_worked.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/potentiometer.jpg&#34; alt=&#34;A quick replacement for some bad solder&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/potentiometer.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Skidoo camping is not quite as luxurious as Challenger camping, since you have to do things like wait until you get there to set up your cook tent, but it was still quite comfortable. My best night&amp;rsquo;s sleep of the whole season was my one night at camp. I think this is a result of the relative humidity; the station is filled with air that was formerly really cold then heated, and so has very little moisture. On the other hand, air at that lower temperature can be close to saturation (it was about 75% relative humidity a lot of the time), so in a tent it does not feel as dry.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/tents.jpg&#34; alt=&#34;Sleep tents&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/tents.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/endurance.jpg&#34; alt=&#34;Cook/logging tent&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/endurance.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Twit and I headed back to the Pole after just one night, and did a couple additional radar profiles to complement those we took the previous year. We took radar profiles for two days, it was back to the GPS survey. Max and David came back the day after we did, and while David logged the temperature in the SPICEcore hole, the other three of us traded off doing GPS. We managed to resurvey almost all of our stake network before running out of time.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/radar.jpg&#34; alt=&#34;Shallow radar setup&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/radar.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/spice.jpg&#34; alt=&#34;Logging temperature in SPICEcore&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/spice.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;We made it back to McMurdo with only a short delay, and were sent off by an incredible halo. We ended up waiting for planes in McMurdo for over a week, during which time Max won the McMurdo marathon. During the delay I saw my first penguins, and was able to work on my computer from the station. After a week I was ready to be home though, and after a brief layover in summery Christchurch came right back to Seattle.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/pole18.jpg&#34; alt=&#34;The marker for South Pole for 2018&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/pole18.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/halo.jpg&#34; alt=&#34;A great halo&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/halo.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/seals.jpg&#34; alt=&#34;Lots of seals and some tiny penguins!&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/seals.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017 SPICEcore Meeting</title>
+      <link>https://dlilien.github.io/post/spicecore/</link>
+      <pubDate>Fri, 29 Sep 2017 10:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/post/spicecore/</guid>
+      <description>
+
+
+
+  
+
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dlilien.github.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I attended the annual meeting of the scientists who work on the South Pole Ice Core (&lt;a href=&#34;http://spicecore.org/meetings/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPICEcore&lt;/a&gt;) last week, which was a great opportunity to learn about all the work that people are doing using the core. This meeting was held at the University of Washington, September 19-20, 2017, and had scientists from throughout the US in attendance.&lt;/p&gt;
+&lt;p&gt;As lead PI for the upstream South-Pole project, Michelle Koutnik gave an update on our progress to the community. After some work over the summer, it was great to see a lot of our results coming together into a cohesive story. The most exciting result so far is that the shallow radar data, in conjunction with layers dated in SPICEcore, show that the current pattern of accumulation explains ~60% of the variance in layer thickness in SPICEcore. This result seems to suggest stable flow upstream of the South Pole for the past several thousand years! Here&amp;rsquo;s a short bit on the work I&amp;rsquo;ve helped with:&lt;/p&gt;
+&lt;p&gt;Last field season we resurveyed GPS stakes that Twit Conway and Michelle had put out the year before. This allowed us to determine the flowline of ice into SPICEcore, and set up our camp on this flowline. We then drove a lot of radar, both shallow (200mhz antenna, to ~100m depth) and deep (to the bed).&lt;/p&gt;
+&lt;p&gt;This summer, I went through and traced layers using the GSSI Radan software. These layers are reflections off of some kind of contrast in the ice; they could come from density variations or from other conductivity variations, e.g. chemical composition changes or an ash layer. I was able to follow 13 of these layers for a full 100km upstream along the flowline.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://dlilien.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; style=&#34;max-width:500px&#34;&gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_posts/change_pole_1.png&#34; alt=&#34;**a** Relative change of layer depth in space. **b** Traced layers along the flowline. Layer 4 is used in a&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_posts/change_pole_1.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Tracing layers from SPICEcore to 100km upstream&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;Looking just the variations in the first layer in map view, we can see that there is significant variation, likely reflecting variable snowfall or perhaps some redistribution of snow from wind. T.J. Fudge was then able to correlate some of these layers with conductivity variations measured directly in SPICEcore and a core we drilled at the camp 50km upstream. In conjunction with the velocities we measured, we can determine where the snow at different depths in the core fell, assuming no change in flow patterns. We can then determine if the observed variation in layer thickness correlates to the current patterns in accumulation, found using the shallow radar. Stay tuned for more results on this front!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
