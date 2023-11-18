@@ -318,12 +318,12 @@
 
   
 
-<meta name="description" content="I&rsquo;m giving a short seminar on python for matlab users this Friday. I plan to give a short presentation on why grad students in Earth and Space Sciences might want to switch from Matlab, followed by prepared demos where people can follow along." />
+<meta name="description" content="Converting measurements of ice-sheet surface elevation change to mass change requires measurements of accumulation and knowledge of the evolution of the density profile in the firn. Most firn-densification models are tuned using measured depth–density profiles, a method which is based on an assumption that the density profile in the firn is invariant through time. Here we present continuous measurements of firn-compaction rates in 12 boreholes near the South Pole over a 2 year period. To our knowledge, these are the first continuous measurements of firn compaction on the Antarctic plateau. We use the data to derive a new firn-densification algorithm framed as a constitutive relationship. We also compare our measurements to compaction rates predicted by several existing firn-densification models. Results indicate that an activation energy of 60 kJ mol−1, a value within the range used by current models, best predicts the seasonal cycle in compaction rates on the Antarctic plateau. Our results suggest models can predict firn-compaction rates with at best 7% uncertainty and cumulative firn compaction on a 2 year timescale with at best 8% uncertainty." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://dlilien.github.io/post/python_demo/" />
-<link rel="canonical" href="https://dlilien.github.io/post/python_demo/" />
+<link rel="alternate" hreflang="en-us" href="https://dlilien.github.io/doi.org/10.1017/jog.2023.87" />
+<link rel="canonical" href="https://dlilien.github.io/doi.org/10.1017/jog.2023.87" />
 
 
 
@@ -346,30 +346,31 @@
 
 
   
+  
 
 
 
 
 
 
-<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:card" content="summary" />
 
   <meta property="twitter:site" content="@wowchemy" />
   <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://dlilien.github.io/post/python_demo/featured.png" />
+<meta property="twitter:image" content="https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="David Lilien" />
-<meta property="og:url" content="https://dlilien.github.io/post/python_demo/" />
-<meta property="og:title" content="Python Brownbag | David Lilien" />
-<meta property="og:description" content="I&rsquo;m giving a short seminar on python for matlab users this Friday. I plan to give a short presentation on why grad students in Earth and Space Sciences might want to switch from Matlab, followed by prepared demos where people can follow along." /><meta property="og:image" content="https://dlilien.github.io/post/python_demo/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://dlilien.github.io/doi.org/10.1017/jog.2023.87" />
+<meta property="og:title" content="A new model of dry firn-densification constrained by continuous strain measurements near South Pole | David Lilien" />
+<meta property="og:description" content="Converting measurements of ice-sheet surface elevation change to mass change requires measurements of accumulation and knowledge of the evolution of the density profile in the firn. Most firn-densification models are tuned using measured depth–density profiles, a method which is based on an assumption that the density profile in the firn is invariant through time. Here we present continuous measurements of firn-compaction rates in 12 boreholes near the South Pole over a 2 year period. To our knowledge, these are the first continuous measurements of firn compaction on the Antarctic plateau. We use the data to derive a new firn-densification algorithm framed as a constitutive relationship. We also compare our measurements to compaction rates predicted by several existing firn-densification models. Results indicate that an activation energy of 60 kJ mol−1, a value within the range used by current models, best predicts the seasonal cycle in compaction rates on the Antarctic plateau. Our results suggest models can predict firn-compaction rates with at best 7% uncertainty and cumulative firn compaction on a 2 year timescale with at best 8% uncertainty." /><meta property="og:image" content="https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2017-10-16T12:30:00&#43;00:00"
+      content="2023-11-01T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2017-10-16T12:30:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-11-01T00:00:00&#43;00:00">
   
 
 
@@ -384,31 +385,25 @@
 
 
 
-  
-
 
 
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://dlilien.github.io/post/python_demo/"
+    "@id": "https://dlilien.github.io/doi.org/10.1017/jog.2023.87"
   },
-  "headline": "Python Brownbag",
+  "headline": "A new model of dry firn-densification constrained by continuous strain measurements near South Pole",
   
-  "image": [
-    "https://dlilien.github.io/post/python_demo/featured.png"
-  ],
-  
-  "datePublished": "2017-10-16T12:30:00Z",
-  "dateModified": "2017-10-16T12:30:00Z",
+  "datePublished": "2023-11-01T00:00:00Z",
+  "dateModified": "2023-11-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "David A. Lilien"
+    "name": "C. Max Stevens"
   },
   
   "publisher": {
@@ -419,7 +414,7 @@
       "url": "https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "I\u0026rsquo;m giving a short seminar on python for matlab users this Friday. I plan to give a short presentation on why grad students in Earth and Space Sciences might want to switch from Matlab, followed by prepared demos where people can follow along."
+  "description": "Converting measurements of ice-sheet surface elevation change to mass change requires measurements of accumulation and knowledge of the evolution of the density profile in the firn. Most firn-densification models are tuned using measured depth–density profiles, a method which is based on an assumption that the density profile in the firn is invariant through time. Here we present continuous measurements of firn-compaction rates in 12 boreholes near the South Pole over a 2 year period. To our knowledge, these are the first continuous measurements of firn compaction on the Antarctic plateau. We use the data to derive a new firn-densification algorithm framed as a constitutive relationship. We also compare our measurements to compaction rates predicted by several existing firn-densification models. Results indicate that an activation energy of 60 kJ mol−1, a value within the range used by current models, best predicts the seasonal cycle in compaction rates on the Antarctic plateau. Our results suggest models can predict firn-compaction rates with at best 7% uncertainty and cumulative firn compaction on a 2 year timescale with at best 8% uncertainty."
 }
 </script>
 
@@ -441,7 +436,7 @@
 
 
   
-  <title>Python Brownbag | David Lilien</title>
+  <title>A new model of dry firn-densification constrained by continuous strain measurements near South Pole | David Lilien</title>
 
   
   
@@ -461,7 +456,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="0f93fba3042f160a89aa4680c1cb2fd1" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="ab6d5cdead5a868cc807d1949a485cef" >
 
   
   
@@ -859,7 +854,16 @@
     
     
 
-    <article class="article">
+    
+
+
+  
+    
+    
+  
+
+
+<div class="pub">
 
   
 
@@ -875,30 +879,38 @@
 
 
 
-
-
-
-
-
-
-
-
+  
 
   
   
-
-
-
+  
 <div class="article-container pt-3">
-  <h1>Python Brownbag</h1>
+  <h1>A new model of dry firn-densification constrained by continuous strain measurements near South Pole</h1>
 
   
 
   
+    
 
 
 <div class="article-metadata">
 
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      C. Max Stevens</span>, <span class="author-highlighted">
+      David A. Lilien</span>, <span >
+      Howard Conway</span>, <span >
+      T.J. Fudge</span>, <span >
+      Michelle Koutnik</span>, <span >
+      Catherine Ritz</span>, <span >
+      Edwin D. Waddington</span>
+  </div>
   
   
 
@@ -908,17 +920,12 @@
     
       
     
-    Oct 16, 2017
+    November, 2023
   </span>
   
 
   
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
   
 
   
@@ -931,46 +938,103 @@
 
 </div>
 
-  
-
-
-
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 203px;">
-  <div style="position: relative">
-    <img src="/post/python_demo/featured_huc79fdd99aa1afca86173a42b6cf64bae_35593_08a0a5f2adac4ba86333bdfcd186ecf4.webp" width="720" height="203" alt="" class="featured-image">
     
-  </div>
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1017/jog.2023.87" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+  
 </div>
 
 
 
   <div class="article-container">
 
-    <div class="article-style">
-      <p>I&rsquo;m giving a short seminar on python for matlab users this Friday. I plan to give a short presentation on why grad students in Earth and Space Sciences might want to switch from Matlab, followed by prepared demos where people can follow along.</p>
-<p>I&rsquo;ll also introduce git, since I think it is probably more important for productivity than the matlab/python choice. Hopefully I&rsquo;ll have a few open-source converts by the end of the week!</p>
-<p>Everything I&rsquo;m presenting is on <a href="https://github.com/dlilien/pybb" target="_blank" rel="noopener">github</a>. There are two sets of slides, one on <a href="/files/python_v_matlab.pdf">Python vs. Matlab</a> and one giving a whirlwind intro to <a href="/fildes/commandline_git.pdf">git and the package managers</a>.</p>
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Converting measurements of ice-sheet surface elevation change to mass change requires measurements of accumulation and knowledge of the evolution of the density profile in the firn. Most firn-densification models are tuned using measured depth–density profiles, a method which is based on an assumption that the density profile in the firn is invariant through time. Here we present continuous measurements of firn-compaction rates in 12 boreholes near the South Pole over a 2 year period. To our knowledge, these are the first continuous measurements of firn compaction on the Antarctic plateau. We use the data to derive a new firn-densification algorithm framed as a constitutive relationship. We also compare our measurements to compaction rates predicted by several existing firn-densification models. Results indicate that an activation energy of 60 kJ mol−1, a value within the range used by current models, best predicts the seasonal cycle in compaction rates on the Antarctic plateau. Our results suggest models can predict firn-compaction rates with at best 7% uncertainty and cumulative firn compaction on a 2 year timescale with at best 8% uncertainty.</p>
+    
 
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#article-journal">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Journal of Glaciology</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
 
 
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/python/">python</a>
-  
-  <a class="badge badge-light" href="/tag/talks/">talks</a>
-  
-</div>
 
 
 
@@ -989,7 +1053,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F&amp;text=Python&#43;Brownbag" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.87&amp;text=A&#43;new&#43;model&#43;of&#43;dry&#43;firn-densification&#43;constrained&#43;by&#43;continuous&#43;strain&#43;measurements&#43;near&#43;South&#43;Pole" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1006,7 +1070,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F&amp;t=Python&#43;Brownbag" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.87&amp;t=A&#43;new&#43;model&#43;of&#43;dry&#43;firn-densification&#43;constrained&#43;by&#43;continuous&#43;strain&#43;measurements&#43;near&#43;South&#43;Pole" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1025,7 +1089,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Python%20Brownbag&amp;body=https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=A%20new%20model%20of%20dry%20firn-densification%20constrained%20by%20continuous%20strain%20measurements%20near%20South%20Pole&amp;body=https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.87" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1042,7 +1106,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F&amp;title=Python&#43;Brownbag" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.87&amp;title=A&#43;new&#43;model&#43;of&#43;dry&#43;firn-densification&#43;constrained&#43;by&#43;continuous&#43;strain&#43;measurements&#43;near&#43;South&#43;Pole" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1059,7 +1123,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Python&#43;Brownbag%20https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=A&#43;new&#43;model&#43;of&#43;dry&#43;firn-densification&#43;constrained&#43;by&#43;continuous&#43;strain&#43;measurements&#43;near&#43;South&#43;Pole%20https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.87" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1076,7 +1140,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F&amp;title=Python&#43;Brownbag" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.87&amp;title=A&#43;new&#43;model&#43;of&#43;dry&#43;firn-densification&#43;constrained&#43;by&#43;continuous&#43;strain&#43;measurements&#43;near&#43;South&#43;Pole" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1096,6 +1160,13 @@
 
   
   
+    
+
+
+
+
+  
+    
 
 
 
@@ -1188,6 +1259,37 @@
   </div>
 
 
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 
@@ -1205,7 +1307,7 @@
 
 
   </div>
-</article>
+</div>
   </div>
 
   <div class="page-footer">

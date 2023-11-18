@@ -318,12 +318,12 @@
 
   
 
-<meta name="description" content="I&rsquo;m giving a short seminar on python for matlab users this Friday. I plan to give a short presentation on why grad students in Earth and Space Sciences might want to switch from Matlab, followed by prepared demos where people can follow along." />
+<meta name="description" content="Ice-crystal fabric can induce mechanical anisotropy that significantly affects flow, but ice-flow models generally do not include fabric development or its effect upon flow. Here, we incorporate a new spectral expansion of fabric, and more complete description of its evolution, into the ice-flow model Elmer/Ice. This approach allows us to model the effect of both lattice rotation and migration recrystallization on large-scale ice flow. The fabric evolution is coupled to flow using an unapproximated non-linear orthotropic rheology that better describes deformation when the stress and fabric states are misaligned. These improvements are most relevant for simulating dynamically interesting areas, where recrystallization can be important, tuning data are scarce and rapid flow can lead to misalignment between stress and fabric. We validate the model by comparing simulated fabric to ice-core and phase-sensitive radar measurements on a transect across Dome C, East Antarctica. With appropriately tuned rates for recrystallization, the model is able to reproduce observations of fabric. However, these tuned rates differ from those previously derived from laboratory experiments, suggesting a need to better understand how recrystallization acts differently in the laboratory compared to natural settings." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://dlilien.github.io/post/python_demo/" />
-<link rel="canonical" href="https://dlilien.github.io/post/python_demo/" />
+<link rel="alternate" hreflang="en-us" href="https://dlilien.github.io/doi.org/10.1017/jog.2023.78" />
+<link rel="canonical" href="https://dlilien.github.io/doi.org/10.1017/jog.2023.78" />
 
 
 
@@ -346,30 +346,31 @@
 
 
   
+  
 
 
 
 
 
 
-<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:card" content="summary" />
 
   <meta property="twitter:site" content="@wowchemy" />
   <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://dlilien.github.io/post/python_demo/featured.png" />
+<meta property="twitter:image" content="https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="David Lilien" />
-<meta property="og:url" content="https://dlilien.github.io/post/python_demo/" />
-<meta property="og:title" content="Python Brownbag | David Lilien" />
-<meta property="og:description" content="I&rsquo;m giving a short seminar on python for matlab users this Friday. I plan to give a short presentation on why grad students in Earth and Space Sciences might want to switch from Matlab, followed by prepared demos where people can follow along." /><meta property="og:image" content="https://dlilien.github.io/post/python_demo/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://dlilien.github.io/doi.org/10.1017/jog.2023.78" />
+<meta property="og:title" content="Simulating higher-order fabric structure in a coupled, anisotropic ice-flow model: application to Dome C | David Lilien" />
+<meta property="og:description" content="Ice-crystal fabric can induce mechanical anisotropy that significantly affects flow, but ice-flow models generally do not include fabric development or its effect upon flow. Here, we incorporate a new spectral expansion of fabric, and more complete description of its evolution, into the ice-flow model Elmer/Ice. This approach allows us to model the effect of both lattice rotation and migration recrystallization on large-scale ice flow. The fabric evolution is coupled to flow using an unapproximated non-linear orthotropic rheology that better describes deformation when the stress and fabric states are misaligned. These improvements are most relevant for simulating dynamically interesting areas, where recrystallization can be important, tuning data are scarce and rapid flow can lead to misalignment between stress and fabric. We validate the model by comparing simulated fabric to ice-core and phase-sensitive radar measurements on a transect across Dome C, East Antarctica. With appropriately tuned rates for recrystallization, the model is able to reproduce observations of fabric. However, these tuned rates differ from those previously derived from laboratory experiments, suggesting a need to better understand how recrystallization acts differently in the laboratory compared to natural settings." /><meta property="og:image" content="https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2017-10-16T12:30:00&#43;00:00"
+      content="2023-10-02T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2017-10-16T12:30:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-10-02T00:00:00&#43;00:00">
   
 
 
@@ -384,27 +385,21 @@
 
 
 
-  
-
 
 
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://dlilien.github.io/post/python_demo/"
+    "@id": "https://dlilien.github.io/doi.org/10.1017/jog.2023.78"
   },
-  "headline": "Python Brownbag",
+  "headline": "Simulating higher-order fabric structure in a coupled, anisotropic ice-flow model: application to Dome C",
   
-  "image": [
-    "https://dlilien.github.io/post/python_demo/featured.png"
-  ],
-  
-  "datePublished": "2017-10-16T12:30:00Z",
-  "dateModified": "2017-10-16T12:30:00Z",
+  "datePublished": "2023-10-02T00:00:00Z",
+  "dateModified": "2023-10-02T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -419,7 +414,7 @@
       "url": "https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "I\u0026rsquo;m giving a short seminar on python for matlab users this Friday. I plan to give a short presentation on why grad students in Earth and Space Sciences might want to switch from Matlab, followed by prepared demos where people can follow along."
+  "description": "Ice-crystal fabric can induce mechanical anisotropy that significantly affects flow, but ice-flow models generally do not include fabric development or its effect upon flow. Here, we incorporate a new spectral expansion of fabric, and more complete description of its evolution, into the ice-flow model Elmer/Ice. This approach allows us to model the effect of both lattice rotation and migration recrystallization on large-scale ice flow. The fabric evolution is coupled to flow using an unapproximated non-linear orthotropic rheology that better describes deformation when the stress and fabric states are misaligned. These improvements are most relevant for simulating dynamically interesting areas, where recrystallization can be important, tuning data are scarce and rapid flow can lead to misalignment between stress and fabric. We validate the model by comparing simulated fabric to ice-core and phase-sensitive radar measurements on a transect across Dome C, East Antarctica. With appropriately tuned rates for recrystallization, the model is able to reproduce observations of fabric. However, these tuned rates differ from those previously derived from laboratory experiments, suggesting a need to better understand how recrystallization acts differently in the laboratory compared to natural settings."
 }
 </script>
 
@@ -441,7 +436,7 @@
 
 
   
-  <title>Python Brownbag | David Lilien</title>
+  <title>Simulating higher-order fabric structure in a coupled, anisotropic ice-flow model: application to Dome C | David Lilien</title>
 
   
   
@@ -461,7 +456,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="0f93fba3042f160a89aa4680c1cb2fd1" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="8606a8f624e26dc516e828604b5c815c" >
 
   
   
@@ -859,7 +854,16 @@
     
     
 
-    <article class="article">
+    
+
+
+  
+    
+    
+  
+
+
+<div class="pub">
 
   
 
@@ -875,30 +879,38 @@
 
 
 
-
-
-
-
-
-
-
-
+  
 
   
   
-
-
-
+  
 <div class="article-container pt-3">
-  <h1>Python Brownbag</h1>
+  <h1>Simulating higher-order fabric structure in a coupled, anisotropic ice-flow model: application to Dome C</h1>
 
   
 
   
+    
 
 
 <div class="article-metadata">
 
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      David A. Lilien</span>, <span >
+      Nicholas M. Rathmann</span>, <span >
+      Christine S. Hvidberg</span>, <span >
+      Aslak Grinsted</span>, <span >
+      M. Reza Ershadi</span>, <span >
+      Reinhard Drews</span>, <span >
+      Dorthe Dahl-Jensen</span>
+  </div>
   
   
 
@@ -908,17 +920,12 @@
     
       
     
-    Oct 16, 2017
+    October, 2023
   </span>
   
 
   
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
   
 
   
@@ -931,46 +938,103 @@
 
 </div>
 
-  
-
-
-
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 203px;">
-  <div style="position: relative">
-    <img src="/post/python_demo/featured_huc79fdd99aa1afca86173a42b6cf64bae_35593_08a0a5f2adac4ba86333bdfcd186ecf4.webp" width="720" height="203" alt="" class="featured-image">
     
-  </div>
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1017/jog.2023.78" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+  
 </div>
 
 
 
   <div class="article-container">
 
-    <div class="article-style">
-      <p>I&rsquo;m giving a short seminar on python for matlab users this Friday. I plan to give a short presentation on why grad students in Earth and Space Sciences might want to switch from Matlab, followed by prepared demos where people can follow along.</p>
-<p>I&rsquo;ll also introduce git, since I think it is probably more important for productivity than the matlab/python choice. Hopefully I&rsquo;ll have a few open-source converts by the end of the week!</p>
-<p>Everything I&rsquo;m presenting is on <a href="https://github.com/dlilien/pybb" target="_blank" rel="noopener">github</a>. There are two sets of slides, one on <a href="/files/python_v_matlab.pdf">Python vs. Matlab</a> and one giving a whirlwind intro to <a href="/fildes/commandline_git.pdf">git and the package managers</a>.</p>
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Ice-crystal fabric can induce mechanical anisotropy that significantly affects flow, but ice-flow models generally do not include fabric development or its effect upon flow. Here, we incorporate a new spectral expansion of fabric, and more complete description of its evolution, into the ice-flow model Elmer/Ice. This approach allows us to model the effect of both lattice rotation and migration recrystallization on large-scale ice flow. The fabric evolution is coupled to flow using an unapproximated non-linear orthotropic rheology that better describes deformation when the stress and fabric states are misaligned. These improvements are most relevant for simulating dynamically interesting areas, where recrystallization can be important, tuning data are scarce and rapid flow can lead to misalignment between stress and fabric. We validate the model by comparing simulated fabric to ice-core and phase-sensitive radar measurements on a transect across Dome C, East Antarctica. With appropriately tuned rates for recrystallization, the model is able to reproduce observations of fabric. However, these tuned rates differ from those previously derived from laboratory experiments, suggesting a need to better understand how recrystallization acts differently in the laboratory compared to natural settings.</p>
+    
 
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#article-journal">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Journal of Glaciology</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
 
 
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/python/">python</a>
-  
-  <a class="badge badge-light" href="/tag/talks/">talks</a>
-  
-</div>
 
 
 
@@ -989,7 +1053,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F&amp;text=Python&#43;Brownbag" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.78&amp;text=Simulating&#43;higher-order&#43;fabric&#43;structure&#43;in&#43;a&#43;coupled%2C&#43;anisotropic&#43;ice-flow&#43;model%3A&#43;application&#43;to&#43;Dome&#43;C" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1006,7 +1070,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F&amp;t=Python&#43;Brownbag" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.78&amp;t=Simulating&#43;higher-order&#43;fabric&#43;structure&#43;in&#43;a&#43;coupled%2C&#43;anisotropic&#43;ice-flow&#43;model%3A&#43;application&#43;to&#43;Dome&#43;C" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1025,7 +1089,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Python%20Brownbag&amp;body=https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Simulating%20higher-order%20fabric%20structure%20in%20a%20coupled%2C%20anisotropic%20ice-flow%20model%3A%20application%20to%20Dome%20C&amp;body=https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.78" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1042,7 +1106,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F&amp;title=Python&#43;Brownbag" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.78&amp;title=Simulating&#43;higher-order&#43;fabric&#43;structure&#43;in&#43;a&#43;coupled%2C&#43;anisotropic&#43;ice-flow&#43;model%3A&#43;application&#43;to&#43;Dome&#43;C" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1059,7 +1123,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Python&#43;Brownbag%20https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Simulating&#43;higher-order&#43;fabric&#43;structure&#43;in&#43;a&#43;coupled%2C&#43;anisotropic&#43;ice-flow&#43;model%3A&#43;application&#43;to&#43;Dome&#43;C%20https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.78" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1076,7 +1140,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fdlilien.github.io%2Fpost%2Fpython_demo%2F&amp;title=Python&#43;Brownbag" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fdlilien.github.io%2Fdoi.org%2F10.1017%2Fjog.2023.78&amp;title=Simulating&#43;higher-order&#43;fabric&#43;structure&#43;in&#43;a&#43;coupled%2C&#43;anisotropic&#43;ice-flow&#43;model%3A&#43;application&#43;to&#43;Dome&#43;C" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1096,6 +1160,7 @@
 
   
   
+    
 
 
 
@@ -1188,6 +1253,43 @@
   </div>
 
 
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 
@@ -1205,7 +1307,7 @@
 
 
   </div>
-</article>
+</div>
   </div>
 
   <div class="page-footer">
