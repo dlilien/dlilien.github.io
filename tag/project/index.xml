@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project | David Lilien</title>
+    <link>https://dlilien.github.io/tag/project/</link>
+      <atom:link href="https://dlilien.github.io/tag/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Project</title>
+      <link>https://dlilien.github.io/tag/project/</link>
+    </image>
+    
+    <item>
+      <title>Müller Ice Cap</title>
+      <link>https://dlilien.github.io/project/muller_proj/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/project/muller_proj/</guid>
+      <description>
+
+
+
+  
+
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dlilien.github.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;
+&lt;p&gt;We plan to drill an ice core on Müller Ice Cap in the Canadian Arctic.
+This core is part of Dorthe Dahl-Jensen&amp;rsquo;s Canada Excellence Research Chair at the University of Manitoba, and will provide a proxy for climate and sea ice in the Canadian Arctic over several millennia.
+Picking an ice-core site is tricky business, and I have been involved in the surveying to ensure that the drillers get the best record possible for the area.
+We went to the field to select a site in 2023.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://mullericecore.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mullericecore.org&lt;/a&gt; for our field blog or the &lt;a href=&#34;https://umanitoba.ca/earth-observation-science/muller-ice-cap-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;U. Manitoba website&lt;/a&gt; for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ice-crystal fabric</title>
+      <link>https://dlilien.github.io/project/fabric/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/project/fabric/</guid>
+      <description>
+
+
+
+  
+
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dlilien.github.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Glacier ice is composed of small grains that grow in size with depth, starting at the millimeter scale at the surface and growing to centimeters or more deep in the ice sheet.
+At the surface, these crystals are randomly oriented, because snow falls in random orientations.
+Deeper in a glacier, deformation causes these crystals to tend to align in preferred direction, which has some interesting effects.&lt;/p&gt;
+&lt;p&gt;It is easiest to start by thinking of an individual ice crystal.
+Each ice crystal has its water molecules bonded in a hexagonal crystal lattice&amp;ndash;this lattice is quasi-rotationally symmetric in its hexagonal plane (think of a snow flake&amp;ndash;if you rotate it by 60 degrees it looks the same).
+However, the direction perpendicular to this hexagonal plane does not match this symmetry, and we term this direction the c-axis.
+We can then describe an individual crystal based on its c-axis orientation.
+This orientation is a result of the flow history of that crystal&amp;ndash;how it pointed when it fell as snow, how it was squashed, stretched, and rotated with ice flow.
+This ice crystal fabric affects deformation by making it easier in some directions (think of a deck of cards&amp;ndash;two directions of deforming the deck are easy, one is hard).&lt;/p&gt;
+&lt;h1 id=&#34;goals&#34;&gt;Goals&lt;/h1&gt;
+&lt;p&gt;Ice-crystal fabric causes mechanical anisotropy in ice&amp;ndash;that is to say, depending on the orientation of the ice crystals, ice flow is easier or harder. Incorporating the effect of this mechanical anisotropy is a key way to make models of ice flow more accurate. Better understanding the effect of fabric on ice flow is the main goal of my fabric-related work.&lt;/p&gt;
+&lt;p&gt;Since ice crystals are reoriented by flow, they may also lend us information about how ice flowed in the past. Since we only have a relatively short time series of observations of ice flow, inferring ice flow over long periods using fabric could be very useful to contextualize modern ice-sheet retreat. Developing the methods to use ice-crystal fabric as such a proxy is a secondary goal of my fabric work.&lt;/p&gt;
+&lt;h1 id=&#34;fabric-basics&#34;&gt;Fabric basics&lt;/h1&gt;
+&lt;p&gt;Thinking about what happens to an individual crystal is well and good, but if we want to understand how a whole glacier moves we are thinking about an enormous number of crystals, far too many for us to keep track of individually.
+Instead, we think of a &amp;ldquo;crystal fabric&amp;rdquo;, some kind of aggregate of grains that we may be able to describe in relatively simple mathematical terms.
+Isotropic (randomly oriented), girdle (forming a circle) and single maximum (pointing mainly in one direction) are probably the most common fabric types in ice.&lt;/p&gt;
+&lt;p&gt;Ice divides (ice flows vertically and in one horizontal dimension away from a ridge), or domes (ice flows radially outward from the dome center), are the simplest to think about since the flow fields in these areas are relatively tame. I&amp;rsquo;ll focus on divides. At divides, the surface has no slope, so there is no shear stress but only downward stress due to gravity, extensional stress away from the divide, and some containing force along the divide. At the divide, the crystal fabric gradually transitions from isotropic (randomly oriented) at the surface to a girdle, or circle in the plane of the divide, due to the extensional stresses. At depth, the ice reaches something of single maximum with crystals pointing upwards, where the vertical stresses dominate. This type of fabric has been seen in ice cores, and models can do a reasonable job reproducing it (see figure below). Just off the divide, we get complex effects as ice is moved around and stress states become more complex. This is seen, for example, in the angle of the fabric which tends to point leftward at certain depths in the right panel of the figure, or in the complex pattern of the shear strain in the left panel. Fabrics are not entirely intuitive, and assessing what fabrics are likely to result from complex deformation regimes is best done with an ice-flow model.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://dlilien.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/idealized_init_zoom.png&#34; alt=&#34;Anisotropic modeling at an ice divide.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/idealized_init_zoom.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Anisotropic modeling at an ice divide.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;effect-on-flow&#34;&gt;Effect on flow&lt;/h1&gt;
+&lt;p&gt;Recently we worked on &lt;a href=&#34;../../publication/rathmann_tamm&#34;&gt;methods to infer fabric from radar&lt;/a&gt;, providing a small update to the 15-year old methodology that is widely used.
+Applying multiple methods to radar data from the Northeast Greenland Ice Stream (NEGIS) has shown that &lt;a href=&#34;../../publication/gerber_negis&#34;&gt;fabric there significantly affects flow&lt;/a&gt;.
+Moreover, we have shown that &lt;a href=&#34;../../publication/grinsted_accel&#34;&gt;recent, slow speedup of NEGIS is likely due to fabric development&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;modeling&#34;&gt;Modeling&lt;/h1&gt;
+&lt;p&gt;In an ice flow model, we seek to approximate how fabric evolves in response to the deformation of ice, and how it affects the deformation of the glacier.
+Modeling ice-crystal fabric is a fairly difficult exercise: the fabric evolves in multiple dimensions, it get moves around by ice flow, and the description we use is continuous despite the fabric itself being discrete.
+I have been helping Nicholas Rathmann with his work developing a &lt;a href=&#34;../../publication/rathmann_nonlinear_grains&#34;&gt;new, small-scale model of ice flow&lt;/a&gt;.
+This work has allowed us to demonstrate that, even though most of us would love to avoid the complications of fabric, &lt;a href=&#34;../../publication/rathmann_inv&#34;&gt;fabric really is important for understanding ice-flow properties that people care about, like basal conditions&lt;/a&gt;.
+We have also worked to improve how the modeled fabric is &lt;a href=&#34;../../publication/rathmann_ortho&#34;&gt;coupled to flow&lt;/a&gt;.
+With these developments in hand, I recently submitted a paper implementing Nicholas&amp;rsquo; model in Elmer/Ice; this allowed recrystallization, an important and often-neglected fabric process, to be included, and makes the model applicable to a wider range of areas. Elmer/Ice has a relatively large user base, so hopefully this work helps others out as well!&lt;/p&gt;
+&lt;h1 id=&#34;inferring-flow-history&#34;&gt;Inferring flow history&lt;/h1&gt;
+&lt;p&gt;To see if we could infer flow history from fabric, I ran a number of model simulations along flowtubes.
+This work was published in &lt;a href=&#34;../../publication/idealized_aniso&#34;&gt;2021&lt;/a&gt;.
+The model was implemented in Elmer/Ice, an open-source software package that is one of the only codes capable of handling the coupled evolution of ice flow and fabric.
+Using the model, we can get a sense of what fabrics result from ice streams, shown here for a few different ways of having the ice converge together to form a stream.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/idealized_convergence.png&#34; alt=&#34;Anisotropic modeling of ice streams. Details are not critical here, but these fabrics are readily distinguished from non-streaming flow.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/idealized_convergence.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Anisotropic modeling of ice streams. Details are not critical here, but these fabrics are readily distinguished from non-streaming flow.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;Skipping over the details of all the simulations I have run, it is important to ask whether we could observe these differences. Ice cores allow quite detailed measurement of fabric, so it is almost given that they could resolve these fabrics. However, it would be particularly exciting if we could observe the fabrics without drilling. One potential tool for this is pRES or ApRES, a type of phase sensitive radar. By rotating the radar around, we can identify some integrated information about the fabric. I have used the output of the ice-flow model to generate synthetic radargrams, which tell us what to expect when observing such fabrics with pRES in the field. As seen in the figure below, these are quite complicated, but easily distinguished from pure internal deformation (on the left). This is quite encouraging, and suggest that it should be possible to identify changes to past ice-stream flow by observing the fabric from the surface.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/pres_modeling_streams.png&#34; alt=&#34;Synthetic radargrams for pRES on hypothetical ice streams.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/pres_modeling_streams.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Synthetic radargrams for pRES on hypothetical ice streams.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;So how can all this information be used to infer past ice flow? It takes a relatively long time to reorient the ice crystals (thousands of years or more), so if modern ice-crystal fabric does not match modern ice flow, we may have evidence of past changes. Moreover, if we can use an ice-flow model to match different changes to flow with different fabrics, we may be able to identify what changes could cause such a mismatch between fabric and flow. I have been working to model how changes to ice streams will be manifest in the crystal fabric, and thus what we might look for in terms of inferring past changes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radar processing</title>
+      <link>https://dlilien.github.io/project/radar_proj/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/project/radar_proj/</guid>
+      <description>
+
+
+
+  
+
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dlilien.github.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;While camping and collecting radar data near the South Pole in 2017, I needed a way to visualize results in the field. Since the readily available software was Windows-only, I started developing the tools that I needed to process the data I was collecting using Python on my Mac. While in the field, I wrote all the code for the basic loading and processing steps. These scripts, which were specific to the GSSI system I was using, eventually grew to the point that they implemented most of the common steps for processing both the shallow ice-penetrating radar data, collected with commercial systems like the one I used, and deep radar data generally collected with custom systems.&lt;/p&gt;
+&lt;p&gt;It became clear that there was a general need for a tool like this for the broader community of glaciologists; available processing chains were all either secret, commercial, outdated, system-specific, or some combination of those. Because much of the heavy lifting in terms of development was done, I decided to push forward with making this radar processor more broadly useful, which meant writing the tools to ingest other forms of radar data. To make this code most useful for colleagues at UW, I also moved the code to be backwards compatible with the St. Olaf Deep radar processor, StODeep, which was a mass of deprecated matlab code with outdated interface. Most importantly, I added an interface to pick layers, allowing the full chain of processing and interpretation to be executed in this program. The code is freely available on &lt;a href=&#34;http://github.com/dlilien/impdar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;. I also maintain documentation for the software on &lt;a href=&#34;http://impdar.readthedocs.io/en/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;readthedocs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There was momentum for further development, and I had assistance from other UW students in making this happen. Ben Hills, a UW graduate student, implented various migration routines in the software, and added capability for ApRES processing. Joshua Driscol, an undergraduate, worked on algorithms for automatic picking and on comparison between data processed with other chains and with the software I&amp;rsquo;ve written. He &lt;a href=&#34;https://dlilien.github.io/talk/igs_2019/&#34;&gt;presented&lt;/a&gt; some data processed with this new software at the International Glaciological Society&amp;rsquo;s &lt;em&gt;Five decades of radioglaciology&lt;/em&gt; meeting. A &lt;a href=&#34;https://doi.org/10.1017/aog.2020.44&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; describing this software is in the special issue of the &lt;em&gt;Annals of Glaciology&lt;/em&gt; special issue on radioglaciology.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://dlilien.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/gssi.png&#34; alt=&#34;A shallow radar system&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/gssi.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;A shallow radar system&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retreat of Smith Glacier, Antarctica</title>
+      <link>https://dlilien.github.io/project/cd_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/project/cd_proj/</guid>
+      <description>
+
+
+
+  
+
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dlilien.github.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Crosson and Dotson are two of the most rapidly changing ice shelves in West Antarctica. Ice shelves are floating extensions of land-based glaciers, and are important for the flow of those glaciers upstream because they can provide resistive stresses at the grounding zone (the area where the ice goes afloat). Because of the cold air temperature there is little surface melt in Antarctica, so the vast majority of ice reaches the ocean and either melts at the underside of ice shelves or calves off as icebergs. Ice shelves are therefore critical as both a stabilizing force and as the conduit for the reservoir of ice in Antarctica to reach the ocean.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://dlilien.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/overview_smith.png&#34; alt=&#34;Location of Crosson and Dotson in West Antarctica&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/overview_smith.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Location of Crosson and Dotson in West Antarctica&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;The first chapter of my thesis investigated the stability of Crosson and Dotson ice shelves during the satellite record (1996-2015). Previous work has shown a 35 km retreat of the grounding line (Figure 2), the largest known present-day grounding-line retreat. These two ice shelves move at very different speeds; Crosson is fast (up to ~1500 m/yr) while Dotson is slow (around 300 m/yr). Additionally, Crosson sped up through the satellite record while Dotson did not. I&amp;rsquo;m interested in the reasons behind the different speed changes and grounding-line position changes that have been observed. This mostly observational work was published in &lt;a href=&#34;https://dlilien.github.io/publication/cd_obs_inv/&#34;&gt;The Cryosphere&lt;/a&gt; in 2018.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/over_vel.png&#34; alt=&#34;Ice speeds in 2010 (from Ian Joughin) and grounding line positions (from Scheuchl et. al. 2016)&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/over_vel.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Ice speeds in 2010 (from Ian Joughin) and grounding line positions (from Scheuchl et. al. 2016)&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;A central conclusion of the work is that although Dotson is sluggish, high melt rates near its grounding line imply that it has been out of balance since at least 1996. Using relict surface features of the shelf, we argue that this imbalance began much earlier, likely prior to to 1974.&lt;/p&gt;
+&lt;p&gt;The second portion of this project used a numerical model to try to understand how much melt, or how much grounding-line retreat or weakening of the ice shelves, was required to cause the observed changes. This work is currently in review at &lt;a href=&#34;https://dlilien.github.io/publication/cd_prog/&#34;&gt;The Cryosphere Discussions&lt;/a&gt;. I ran a suite of numerical model simulations, initialized to match the state of these glaciers in 1996, then simulated their evolution during the last 20 years using various melt forcings. The model results indicate that high melt rates were needed to cause the retreat, and that rates needed to be strong near the grounding line for significant retreat to ensue. This conclusion remained regardless of whether the ice shelves weakened; weak shelves hastened retreat, but appeared unable to precipitate it.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/gl.png&#34; alt=&#34;Simulations of grounding-line retreat during the time period with observations&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/gl.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Simulations of grounding-line retreat during the time period with observations&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;After comparing the results of these model simulations to satellite data, I ran a subset of the simulations forward in time to 2100. While these simulations are not predictions in the sense that the ocean forcing is not tied directly to likely scenarios, they are realistic estimates of likely retreat in that they maintain reasonable melt rates (around modern) for the duration of the simulations. The simulations that match the present-day retreat continue to retreat into the future, and suggest that a significant portion of the ice in these catchments will be lost by 2100. Such extensive retreat has the potential to hasten the destabilization of Thwaites glacier, Smith&amp;rsquo;s larger neighbor.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/long.png&#34; alt=&#34;Long-term simulations of retreat of these glaciers&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/long.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Long-term simulations of retreat of these glaciers&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>South Pole Geophysics</title>
+      <link>https://dlilien.github.io/project/sp_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/project/sp_proj/</guid>
+      <description>
+
+
+
+  
+
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dlilien.github.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I&amp;rsquo;ve had the great opportunity to join in a collaborative research project, spearheaded by Michelle Koutnik, studying ice flow near South Pole. An overall summary of the project is &lt;a href=&#34;http://www.michelle-koutnik.com/south-pole-survey/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Michelle&amp;rsquo;s website&lt;/a&gt;, so here I&amp;rsquo;ll just summarize the portions with which I&amp;rsquo;m involved.&lt;/p&gt;
+&lt;p&gt;The South Pole Ice Core (&lt;a href=&#34;http://spicecore.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPICEcore&lt;/a&gt;) was drilled during 2014-2016 by scientists working around the US, recovering ice from about 1 km from the geographic south pole. There are a lot of benefits to drilling at this site, but one complication is that South Pole is not on an ice divide. The ice at South Pole moves about 10 m/yr; one fun consequence is that South Pole Station and surrounding surface is moving relative to the Pole, so each year on New Years the marker for the Pole gets replaced by a new one, made by the overwintering crew, placed at the new location of the Pole.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://dlilien.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/pole18.jpg&#34; alt=&#34;The marker for South Pole for 2018&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/pole18.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;The motion of the ice means that the composition of gas, impurities, and water isotopes in SPICEcore is affected by the composition of those components upstream at the time the ice originated as snow. This is both a blessing and a curse; it creates ambiguity in the cause of variations recorded in the core, since some changes in isotopes or temperature may be caused by spatial rather than temporal variation. However, an ice core drilled in stationary ice contains information about only one point in horizontal space, whereas SPICEcore recors information along a line. My involvement is mostly driving a snowmachine around.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_posts/tracks.png&#34; alt=&#34;The flowline into SPICEcore&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_posts/tracks.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;The flowline into SPICEcore&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;The central aim of this project is to characterize ice flow upstream of the site of SPICEcore in both the vertical and horizontal dimensions. In the vertical, this means understanding firn (old snow) compaction, while in the horizontal this means determining where the ice is coming from and how long it took to get to the core site. I&amp;rsquo;ve mainly been involved with the horizontal portion, though I&amp;rsquo;ve also done two seasons of shallow radar profiling to look at horizontal variability of layers in the firn.&lt;/p&gt;
+&lt;p&gt;To determine the flowline, and how long the ice takes to flow along that flowline, we used a network of GPS stakes. These days, when we want to find out how ice is moving we use satellite observations (InSAR or optical feature tracking), but the orbits of satellites generally do not go over the poles, so we are unable to use satellite velocities in this region. While GPS also uses satellites, the satellites do not need to be directly overhead, and GPS receivers near South Pole can still see at least twelve satellites and thus obtain an accurate position. By putting out stakes and measuring their displacement over the course of 1-2 years using GPS, we figured out the velocity in the region upstream of South Pole (Figure 2). Using this velocity, it is straightforward to determine the flowline into SPICEcore. My role in this GPS work has mainly been a lot of snowmachining out to place and measure the position of these stakes.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/gps.jpg&#34; alt=&#34;Measuring stake position with a GPS&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/gps.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/flow.png&#34; alt=&#34;The flowline into SPICEcore&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/flow.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;The flowline into SPICEcore&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;My other main involvement with the project has been with the spatial variation of accumulation (i.e. snowfall). About 20 cm of snow fall each year at South Pole, which compacts into about 9 cm of ice, but the amount of accumulation varies horizontally, probably based on weather patterns and surface topography (imagine snow blowing off hilltops into valleys). In order to figure out how much accumulation takes place at different places upstream of South Pole, we used a ground penetrating radar. This is just a commercial system, usually used by geologists to see through a few meters of soil or rock. However, the frequency travels farther in ice and snow than rock, especially in cold, dry snow, so we can see layers (likely caused by density variations) down to 100 m near South Pole. By dragging this radar around behind a snowmachine, I traced layers to determine how accumulation varies along the lines we profiled (Figure 3).&lt;/p&gt;
+&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/pole_1718/radar.jpg&#34; alt=&#34;The shallow radar setup&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/pole_1718/radar.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/layers.png&#34; alt=&#34;Tracing layers in a profile for 100 km upstream from SPICEcore&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/layers.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Tracing layers in a profile for 100 km upstream from SPICEcore&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;By comparing the accumulation along the flowline upstream of SPICEcore to the layer thicknesses in SPICEcore, we were able to determine that the flow direction and the pattern of accumulation have been approximately unchanged over the last 10,000 years. During that time, ice flow speeds increased by around 15%. This speedup is not surprising given what we know about the ice thickness history. Ice has gotten thicker in the Antarctic interior since the last glacial because warmer air is able to transport more moisture and thus cause more snow, and ice near the Antarctic margin has thinned due to the warmer temperatures resulting in more melt (mostly from warm water contacting ice shelves). These results were &lt;a href=&#34;https://dlilien.github.io/publication/holocene_ice_flow/&#34;&gt;published in Geophysical Research Letters in 2018&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The flow of ice upstream also has implications for interpreting the ice core. T.J. Fudge is leading a paper on these effects, and that will be coming out soon (likely 2019).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

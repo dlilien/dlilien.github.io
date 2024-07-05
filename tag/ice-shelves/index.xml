@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ice Shelves | David Lilien</title>
+    <link>https://dlilien.github.io/tag/ice-shelves/</link>
+      <atom:link href="https://dlilien.github.io/tag/ice-shelves/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ice Shelves</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Ice Shelves</title>
+      <link>https://dlilien.github.io/tag/ice-shelves/</link>
+    </image>
+    
+    <item>
+      <title>Retreat of Smith Glacier, Antarctica</title>
+      <link>https://dlilien.github.io/project/cd_proj/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/project/cd_proj/</guid>
+      <description>
+
+
+
+  
+
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dlilien.github.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Crosson and Dotson are two of the most rapidly changing ice shelves in West Antarctica. Ice shelves are floating extensions of land-based glaciers, and are important for the flow of those glaciers upstream because they can provide resistive stresses at the grounding zone (the area where the ice goes afloat). Because of the cold air temperature there is little surface melt in Antarctica, so the vast majority of ice reaches the ocean and either melts at the underside of ice shelves or calves off as icebergs. Ice shelves are therefore critical as both a stabilizing force and as the conduit for the reservoir of ice in Antarctica to reach the ocean.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://dlilien.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/overview_smith.png&#34; alt=&#34;Location of Crosson and Dotson in West Antarctica&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/overview_smith.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Location of Crosson and Dotson in West Antarctica&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;The first chapter of my thesis investigated the stability of Crosson and Dotson ice shelves during the satellite record (1996-2015). Previous work has shown a 35 km retreat of the grounding line (Figure 2), the largest known present-day grounding-line retreat. These two ice shelves move at very different speeds; Crosson is fast (up to ~1500 m/yr) while Dotson is slow (around 300 m/yr). Additionally, Crosson sped up through the satellite record while Dotson did not. I&amp;rsquo;m interested in the reasons behind the different speed changes and grounding-line position changes that have been observed. This mostly observational work was published in &lt;a href=&#34;https://dlilien.github.io/publication/cd_obs_inv/&#34;&gt;The Cryosphere&lt;/a&gt; in 2018.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/over_vel.png&#34; alt=&#34;Ice speeds in 2010 (from Ian Joughin) and grounding line positions (from Scheuchl et. al. 2016)&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/over_vel.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Ice speeds in 2010 (from Ian Joughin) and grounding line positions (from Scheuchl et. al. 2016)&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;A central conclusion of the work is that although Dotson is sluggish, high melt rates near its grounding line imply that it has been out of balance since at least 1996. Using relict surface features of the shelf, we argue that this imbalance began much earlier, likely prior to to 1974.&lt;/p&gt;
+&lt;p&gt;The second portion of this project used a numerical model to try to understand how much melt, or how much grounding-line retreat or weakening of the ice shelves, was required to cause the observed changes. This work is currently in review at &lt;a href=&#34;https://dlilien.github.io/publication/cd_prog/&#34;&gt;The Cryosphere Discussions&lt;/a&gt;. I ran a suite of numerical model simulations, initialized to match the state of these glaciers in 1996, then simulated their evolution during the last 20 years using various melt forcings. The model results indicate that high melt rates were needed to cause the retreat, and that rates needed to be strong near the grounding line for significant retreat to ensue. This conclusion remained regardless of whether the ice shelves weakened; weak shelves hastened retreat, but appeared unable to precipitate it.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/gl.png&#34; alt=&#34;Simulations of grounding-line retreat during the time period with observations&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/gl.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Simulations of grounding-line retreat during the time period with observations&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;After comparing the results of these model simulations to satellite data, I ran a subset of the simulations forward in time to 2100. While these simulations are not predictions in the sense that the ocean forcing is not tied directly to likely scenarios, they are realistic estimates of likely retreat in that they maintain reasonable melt rates (around modern) for the duration of the simulations. The simulations that match the present-day retreat continue to retreat into the future, and suggest that a significant portion of the ice in these catchments will be lost by 2100. Such extensive retreat has the potential to hasten the destabilization of Thwaites glacier, Smith&amp;rsquo;s larger neighbor.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/long.png&#34; alt=&#34;Long-term simulations of retreat of these glaciers&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/long.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Long-term simulations of retreat of these glaciers&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

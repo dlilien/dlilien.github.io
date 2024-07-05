@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radar | David Lilien</title>
+    <link>https://dlilien.github.io/tag/radar/</link>
+      <atom:link href="https://dlilien.github.io/tag/radar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Radar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Radar</title>
+      <link>https://dlilien.github.io/tag/radar/</link>
+    </image>
+    
+    <item>
+      <title>ImpDAR: An open-source impulse radar processor</title>
+      <link>https://dlilien.github.io/publication/radar_processing/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/publication/radar_processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radar processing</title>
+      <link>https://dlilien.github.io/project/radar_proj/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/project/radar_proj/</guid>
+      <description>
+
+
+
+  
+
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dlilien.github.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;While camping and collecting radar data near the South Pole in 2017, I needed a way to visualize results in the field. Since the readily available software was Windows-only, I started developing the tools that I needed to process the data I was collecting using Python on my Mac. While in the field, I wrote all the code for the basic loading and processing steps. These scripts, which were specific to the GSSI system I was using, eventually grew to the point that they implemented most of the common steps for processing both the shallow ice-penetrating radar data, collected with commercial systems like the one I used, and deep radar data generally collected with custom systems.&lt;/p&gt;
+&lt;p&gt;It became clear that there was a general need for a tool like this for the broader community of glaciologists; available processing chains were all either secret, commercial, outdated, system-specific, or some combination of those. Because much of the heavy lifting in terms of development was done, I decided to push forward with making this radar processor more broadly useful, which meant writing the tools to ingest other forms of radar data. To make this code most useful for colleagues at UW, I also moved the code to be backwards compatible with the St. Olaf Deep radar processor, StODeep, which was a mass of deprecated matlab code with outdated interface. Most importantly, I added an interface to pick layers, allowing the full chain of processing and interpretation to be executed in this program. The code is freely available on &lt;a href=&#34;http://github.com/dlilien/impdar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;. I also maintain documentation for the software on &lt;a href=&#34;http://impdar.readthedocs.io/en/latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;readthedocs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There was momentum for further development, and I had assistance from other UW students in making this happen. Ben Hills, a UW graduate student, implented various migration routines in the software, and added capability for ApRES processing. Joshua Driscol, an undergraduate, worked on algorithms for automatic picking and on comparison between data processed with other chains and with the software I&amp;rsquo;ve written. He &lt;a href=&#34;https://dlilien.github.io/talk/igs_2019/&#34;&gt;presented&lt;/a&gt; some data processed with this new software at the International Glaciological Society&amp;rsquo;s &lt;em&gt;Five decades of radioglaciology&lt;/em&gt; meeting. A &lt;a href=&#34;https://doi.org/10.1017/aog.2020.44&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; describing this software is in the special issue of the &lt;em&gt;Annals of Glaciology&lt;/em&gt; special issue on radioglaciology.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://dlilien.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/gssi.png&#34; alt=&#34;A shallow radar system&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/gssi.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;A shallow radar system&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radar processing</title>
+      <link>https://dlilien.github.io/post/impdar/</link>
+      <pubDate>Fri, 10 Aug 2018 10:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/post/impdar/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been doing some work to bring the St. Olaf deep radar processor (StODeep) up into this decade. I&amp;rsquo;ve had some time twiddling my thumbs while running ice-flow models, and I&amp;rsquo;ve been doing the work of migrating StODeep as I wait for the model runs. I&amp;rsquo;m not a fan of Matlab, so I&amp;rsquo;ve migrated things to Python.&lt;/p&gt;
+&lt;h2 id=&#34;a-bit-of-background&#34;&gt;A bit of background&lt;/h2&gt;
+&lt;p&gt;The St. Olaf Deep radar processor has a long history that I don&amp;rsquo;t fully know. I&amp;rsquo;m not at St. Olaf, and the processor can also do shallow radar, and is better described as an impulse radar processor. I&amp;rsquo;ve decided to call it ImpDAR for that reason.&lt;/p&gt;
+&lt;h2 id=&#34;full-documentation&#34;&gt;Full Documentation&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m still working on examples, but the documentation is &lt;a href=&#34;https://impdar.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on this site&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

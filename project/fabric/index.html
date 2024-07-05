@@ -1,0 +1,2337 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: July 5, 2024 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.9.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.047268c6dd09ad74ba54a0ba71837064.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.f14c7fa9c6a26eeb29b63dff84fb6b0a.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" disabled>
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" >
+  
+
+  
+  
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1HDD8QG8KC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-1HDD8QG8KC', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="David A. Lilien" />
+
+
+
+
+
+  
+
+<meta name="description" content="Improving models of fabric and anisotropy to learn about ice flow
+" />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://dlilien.github.io/project/fabric/" />
+<link rel="canonical" href="https://dlilien.github.io/project/fabric/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#ffffff" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+
+  <meta property="twitter:site" content="@wowchemy" />
+  <meta property="twitter:creator" content="@wowchemy" />
+<meta property="twitter:image" content="https://dlilien.github.io/project/fabric/featured.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="David Lilien" />
+<meta property="og:url" content="https://dlilien.github.io/project/fabric/" />
+<meta property="og:title" content="Ice-crystal fabric | David Lilien" />
+<meta property="og:description" content="Improving models of fabric and anisotropy to learn about ice flow
+" /><meta property="og:image" content="https://dlilien.github.io/project/fabric/featured.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2021-02-10T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2021-02-10T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dlilien.github.io/project/fabric/"
+  },
+  "headline": "Ice-crystal fabric",
+  
+  "image": [
+    "https://dlilien.github.io/project/fabric/featured.png"
+  ],
+  
+  "datePublished": "2021-02-10T00:00:00Z",
+  "dateModified": "2021-02-10T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "David A. Lilien"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "David Lilien",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Improving models of fabric and anisotropy to learn about ice flow\n"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Ice-crystal fabric | David Lilien</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="bc0b351e45979f3362755c5b6e6edc5d" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.cb1d9153aeb8df7d8705db5b7cb2e1ba.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">David Lilien</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">David Lilien</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#opportunities"><span>Opportunities</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/uploads/cv.pdf"><span>CV</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+<div class="article-container pt-3">
+  <h1>Ice-crystal fabric</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Feb 10, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 393px; max-height: 398px;">
+  <div style="position: relative">
+    <img src="/project/fabric/featured_hu52a4354cb4618bc6e90229df2eba4234_5821_e838d724da34f628a2b12e355a65ee81.webp" width="393" height="398" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="/js/load-photoswipe.js"></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<h1 id="introduction">Introduction</h1>
+<p>Glacier ice is composed of small grains that grow in size with depth, starting at the millimeter scale at the surface and growing to centimeters or more deep in the ice sheet.
+At the surface, these crystals are randomly oriented, because snow falls in random orientations.
+Deeper in a glacier, deformation causes these crystals to tend to align in preferred direction, which has some interesting effects.</p>
+<p>It is easiest to start by thinking of an individual ice crystal.
+Each ice crystal has its water molecules bonded in a hexagonal crystal lattice&ndash;this lattice is quasi-rotationally symmetric in its hexagonal plane (think of a snow flake&ndash;if you rotate it by 60 degrees it looks the same).
+However, the direction perpendicular to this hexagonal plane does not match this symmetry, and we term this direction the c-axis.
+We can then describe an individual crystal based on its c-axis orientation.
+This orientation is a result of the flow history of that crystal&ndash;how it pointed when it fell as snow, how it was squashed, stretched, and rotated with ice flow.
+This ice crystal fabric affects deformation by making it easier in some directions (think of a deck of cards&ndash;two directions of deforming the deck are easy, one is hard).</p>
+<h1 id="goals">Goals</h1>
+<p>Ice-crystal fabric causes mechanical anisotropy in ice&ndash;that is to say, depending on the orientation of the ice crystals, ice flow is easier or harder. Incorporating the effect of this mechanical anisotropy is a key way to make models of ice flow more accurate. Better understanding the effect of fabric on ice flow is the main goal of my fabric-related work.</p>
+<p>Since ice crystals are reoriented by flow, they may also lend us information about how ice flowed in the past. Since we only have a relatively short time series of observations of ice flow, inferring ice flow over long periods using fabric could be very useful to contextualize modern ice-sheet retreat. Developing the methods to use ice-crystal fabric as such a proxy is a secondary goal of my fabric work.</p>
+<h1 id="fabric-basics">Fabric basics</h1>
+<p>Thinking about what happens to an individual crystal is well and good, but if we want to understand how a whole glacier moves we are thinking about an enormous number of crystals, far too many for us to keep track of individually.
+Instead, we think of a &ldquo;crystal fabric&rdquo;, some kind of aggregate of grains that we may be able to describe in relatively simple mathematical terms.
+Isotropic (randomly oriented), girdle (forming a circle) and single maximum (pointing mainly in one direction) are probably the most common fabric types in ice.</p>
+<p>Ice divides (ice flows vertically and in one horizontal dimension away from a ridge), or domes (ice flows radially outward from the dome center), are the simplest to think about since the flow fields in these areas are relatively tame. I&rsquo;ll focus on divides. At divides, the surface has no slope, so there is no shear stress but only downward stress due to gravity, extensional stress away from the divide, and some containing force along the divide. At the divide, the crystal fabric gradually transitions from isotropic (randomly oriented) at the surface to a girdle, or circle in the plane of the divide, due to the extensional stresses. At depth, the ice reaches something of single maximum with crystals pointing upwards, where the vertical stresses dominate. This type of fabric has been seen in ice cores, and models can do a reasonable job reproducing it (see figure below). Just off the divide, we get complex effects as ice is moved around and stress states become more complex. This is seen, for example, in the angle of the fabric which tends to point leftward at certain depths in the right panel of the figure, or in the complex pattern of the shear strain in the left panel. Fabrics are not entirely intuitive, and assessing what fabrics are likely to result from complex deformation regimes is best done with an ice-flow model.</p>
+
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/for_proj/idealized_init_zoom.png" alt="Anisotropic modeling at an ice divide."/>
+    </div>
+    <a href="/img/for_proj/idealized_init_zoom.png" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Anisotropic modeling at an ice divide.</p>
+      </figcaption>
+  </figure>
+</div>
+<h1 id="effect-on-flow">Effect on flow</h1>
+<p>Recently we worked on <a href="../../publication/rathmann_tamm">methods to infer fabric from radar</a>, providing a small update to the 15-year old methodology that is widely used.
+Applying multiple methods to radar data from the Northeast Greenland Ice Stream (NEGIS) has shown that <a href="../../publication/gerber_negis">fabric there significantly affects flow</a>.
+Moreover, we have shown that <a href="../../publication/grinsted_accel">recent, slow speedup of NEGIS is likely due to fabric development</a>.</p>
+<h1 id="modeling">Modeling</h1>
+<p>In an ice flow model, we seek to approximate how fabric evolves in response to the deformation of ice, and how it affects the deformation of the glacier.
+Modeling ice-crystal fabric is a fairly difficult exercise: the fabric evolves in multiple dimensions, it get moves around by ice flow, and the description we use is continuous despite the fabric itself being discrete.
+I have been helping Nicholas Rathmann with his work developing a <a href="../../publication/rathmann_nonlinear_grains">new, small-scale model of ice flow</a>.
+This work has allowed us to demonstrate that, even though most of us would love to avoid the complications of fabric, <a href="../../publication/rathmann_inv">fabric really is important for understanding ice-flow properties that people care about, like basal conditions</a>.
+We have also worked to improve how the modeled fabric is <a href="../../publication/rathmann_ortho">coupled to flow</a>.
+With these developments in hand, I recently submitted a paper implementing Nicholas&rsquo; model in Elmer/Ice; this allowed recrystallization, an important and often-neglected fabric process, to be included, and makes the model applicable to a wider range of areas. Elmer/Ice has a relatively large user base, so hopefully this work helps others out as well!</p>
+<h1 id="inferring-flow-history">Inferring flow history</h1>
+<p>To see if we could infer flow history from fabric, I ran a number of model simulations along flowtubes.
+This work was published in <a href="../../publication/idealized_aniso">2021</a>.
+The model was implemented in Elmer/Ice, an open-source software package that is one of the only codes capable of handling the coupled evolution of ice flow and fabric.
+Using the model, we can get a sense of what fabrics result from ice streams, shown here for a few different ways of having the ice converge together to form a stream.</p>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/for_proj/idealized_convergence.png" alt="Anisotropic modeling of ice streams. Details are not critical here, but these fabrics are readily distinguished from non-streaming flow."/>
+    </div>
+    <a href="/img/for_proj/idealized_convergence.png" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Anisotropic modeling of ice streams. Details are not critical here, but these fabrics are readily distinguished from non-streaming flow.</p>
+      </figcaption>
+  </figure>
+</div>
+<p>Skipping over the details of all the simulations I have run, it is important to ask whether we could observe these differences. Ice cores allow quite detailed measurement of fabric, so it is almost given that they could resolve these fabrics. However, it would be particularly exciting if we could observe the fabrics without drilling. One potential tool for this is pRES or ApRES, a type of phase sensitive radar. By rotating the radar around, we can identify some integrated information about the fabric. I have used the output of the ice-flow model to generate synthetic radargrams, which tell us what to expect when observing such fabrics with pRES in the field. As seen in the figure below, these are quite complicated, but easily distinguished from pure internal deformation (on the left). This is quite encouraging, and suggest that it should be possible to identify changes to past ice-stream flow by observing the fabric from the surface.</p>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/for_proj/pres_modeling_streams.png" alt="Synthetic radargrams for pRES on hypothetical ice streams."/>
+    </div>
+    <a href="/img/for_proj/pres_modeling_streams.png" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Synthetic radargrams for pRES on hypothetical ice streams.</p>
+      </figcaption>
+  </figure>
+</div>
+<p>So how can all this information be used to infer past ice flow? It takes a relatively long time to reorient the ice crystals (thousands of years or more), so if modern ice-crystal fabric does not match modern ice flow, we may have evidence of past changes. Moreover, if we can use an ice-flow model to match different changes to flow with different fabrics, we may be able to identify what changes could cause such a mismatch between fabric and flow. I have been working to model how changes to ice streams will be manifest in the crystal fabric, and thus what we might look for in terms of inferring past changes.</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/project/">Project</a>
+  
+  <a class="badge badge-light" href="/tag/anisotropy/">Anisotropy</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdlilien.github.io%2Fproject%2Ffabric%2F&amp;text=Ice-crystal&#43;fabric" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdlilien.github.io%2Fproject%2Ffabric%2F&amp;t=Ice-crystal&#43;fabric" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Ice-crystal%20fabric&amp;body=https%3A%2F%2Fdlilien.github.io%2Fproject%2Ffabric%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fdlilien.github.io%2Fproject%2Ffabric%2F&amp;title=Ice-crystal&#43;fabric" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Ice-crystal&#43;fabric%20https%3A%2F%2Fdlilien.github.io%2Fproject%2Ffabric%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fdlilien.github.io%2Fproject%2Ffabric%2F&amp;title=Ice-crystal&#43;fabric" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://dlilien.github.io/"><img class="avatar mr-3 avatar-square" src="/authors/dlilien/avatar_hu8787856247a3989cc7d881600d5c9583_208608_270x270_fill_q75_lanczos_center.jpg" alt="David A. Lilien"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://dlilien.github.io/">David A. Lilien</a></h5>
+      <h6 class="card-subtitle">Assistant Professor</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=niOLTSgAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/dlilien" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/gerber_negis/" >Crystal fabric anisotropy causes directional hardening of the Northeast Greenland Ice Stream</a>
+    </div>
+
+    
+    <a href="/publication/gerber_negis/"  class="summary-link">
+      <div class="article-style">
+        The dynamic mass loss of ice sheets due to ice flow constitutes one of the biggest uncertainties in projections of ice-sheet evolution …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Tamara A. Gerber</span>, <span >
+      Admin</span>, <span >
+      Nicholas M. Rathmann</span>, <span >
+      Steven Franke</span>, <span >
+      Tun Jan Young</span>, <span >
+      Fernando Valero-Delgado</span>, <span >
+      Reza Ershadi</span>, <span >
+      Reinhard Drews</span>, <span >
+      Ole Zeising</span>, <span >
+      Angelika Humbert</span>, <span >
+      Nicolas Stoll</span>, <span >
+      Ilka Weikusat</span>, <span >
+      Aslak Grinsted</span>, <span >
+      Christine S. Hvidberg</span>, <span >
+      Daniela Jansen</span>, <span >
+      Heinrich Miller</span>, <span >
+      Veit Helm</span>, <span >
+      Daniel Steinhage</span>, <span >
+      Charles O&#39;Neill</span>, <span >
+      Prasad Gogineni</span>, <span >
+      John Paden</span>, <span >
+      Dorthe Dahl-Jensen</span>, <span >
+      Olaf Eisen</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nature.com/articles/s41467-023-38139-8.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/fabric/">
+    Project
+  </a>
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/doi.org/10.1038/s41467-023-38139-8" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41467-023-38139-8" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/rathmann_ortho/" >On the nonlinear viscosity of the orthotropic bulk rheology</a>
+    </div>
+
+    
+    <a href="/publication/rathmann_ortho/"  class="summary-link">
+      <div class="article-style">
+        We compare different ways the bulk flow nonlinearity of glacier ice can be captured in an orthotropic rheology. Specifically, we …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Nicholas M. Rathmann</span>, <span >
+      Admin</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DF57C72F3F56A97C97D9C019AA42727B/S0022143022000338a.pdf/on-the-nonlinear-viscosity-of-the-orthotropic-bulk-rheology.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/fabric/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/doi.org/10.1017/jog.2022.33" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1017/jog.2022.33" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/rathmann_tamm/" >On the Limitations of Using Polarimetric Radar Sounding to Infer the Crystal Orientation Fabric of Ice Masses</a>
+    </div>
+
+    
+    <a href="/publication/rathmann_tamm/"  class="summary-link">
+      <div class="article-style">
+        We introduce a transfer matrix model for radio-wave propagation through layered anisotropic ice that permits an arbitrary dielectric …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Nicholas M. Rathmann</span>, <span >
+      Admin</span>, <span >
+      Aslak Grinsted</span>, <span >
+      Tamara A. Gerber</span>, <span >
+      Tun Jan Young</span>, <span >
+      Dorthe Dahl-Jensen</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021GL096244" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/fabric/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/doi.org/10.1029/2021GL096244" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1029/2021GL096244" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/rathmann_inv/" >Inferred basal friction and mass flux affected by crystal-orientation fabrics</a>
+    </div>
+
+    
+    <a href="/publication/rathmann_inv/"  class="summary-link">
+      <div class="article-style">
+        We investigate the errors caused by neglecting the crystal-orientation fabric when inferring the basal friction coefficient field, and …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Nicholas M. Rathmann</span>, <span >
+      Admin</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1EA03980C6A46B613C5DC74BED3C56B8/S0022143021000885a.pdf/inferred-basal-friction-and-mass-flux-affected-by-crystal-orientation-fabrics.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/fabric/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/doi.org/10.1017/jog.2021.88" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1017/jog.2021.88" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/idealized_aniso/" >Modeling Ice-Crystal Fabric as a Proxy for Ice-Stream Stability</a>
+    </div>
+
+    
+    <a href="/publication/idealized_aniso/"  class="summary-link">
+      <div class="article-style">
+        The crystal structure within an ice sheet evolves in response to deformation; hence ice- crystal fabric records ice-flow history. …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Admin</span>, <span >
+      Nicholas M. Rathmann</span>, <span >
+      Christine S. Hvidberg</span>, <span >
+      Dorthe Dahl-Jensen</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021JF006306" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/fabric/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/doi.org/10.1029/2021JF006306" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1029/2021JF006306" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/rathmann_nonlinear_grains/" >Effect of an orientation-dependent non-linear grain fluidity on bulk directional enhancement factors</a>
+    </div>
+
+    
+    <a href="/publication/rathmann_nonlinear_grains/"  class="summary-link">
+      <div class="article-style">
+        Bulk directional enhancement factors are determined for axisymmetric (girdle and single-maximum) orientation fabrics using a …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Nicholas M. Rathmann</span>, <span >
+      Christine S. Hvidberg</span>, <span >
+      Aslak Grinsted</span>, <span >
+      Admin</span>, <span >
+      Dorthe Dahl-Jensen</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1970FEA5F77F287000D954BBCBD4C509/S0022143020001173a.pdf/effect-of-an-orientation-dependent-non-linear-grain-fluidity-on-bulk-directional-enhancement-factors.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/fabric/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/doi.org/10.1017/jog.2020.117" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1017/jog.2020.117" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2023 David Lilien
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAF0wDV6qkz53EaGK6OQugpzBDeuXjh8Dc"></script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/hpneo/gmaps@0.4.25/gmaps.min.js" integrity="sha512-gauu0VKZq9ry8hOZHgNpcB2ogbSDojs+XLDItpOLY0IyA+KigeuT/suwSdPgfU/TGYLAn4Nan4OeaCa/UPr70Q==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.3cdf6a1525636b7ef1118475b6859bbf.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

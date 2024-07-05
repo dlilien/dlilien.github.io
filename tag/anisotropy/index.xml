@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anisotropy | David Lilien</title>
+    <link>https://dlilien.github.io/tag/anisotropy/</link>
+      <atom:link href="https://dlilien.github.io/tag/anisotropy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anisotropy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Anisotropy</title>
+      <link>https://dlilien.github.io/tag/anisotropy/</link>
+    </image>
+    
+    <item>
+      <title>Ice-crystal fabric</title>
+      <link>https://dlilien.github.io/project/fabric/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/project/fabric/</guid>
+      <description>
+
+
+
+  
+
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dlilien.github.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Glacier ice is composed of small grains that grow in size with depth, starting at the millimeter scale at the surface and growing to centimeters or more deep in the ice sheet.
+At the surface, these crystals are randomly oriented, because snow falls in random orientations.
+Deeper in a glacier, deformation causes these crystals to tend to align in preferred direction, which has some interesting effects.&lt;/p&gt;
+&lt;p&gt;It is easiest to start by thinking of an individual ice crystal.
+Each ice crystal has its water molecules bonded in a hexagonal crystal lattice&amp;ndash;this lattice is quasi-rotationally symmetric in its hexagonal plane (think of a snow flake&amp;ndash;if you rotate it by 60 degrees it looks the same).
+However, the direction perpendicular to this hexagonal plane does not match this symmetry, and we term this direction the c-axis.
+We can then describe an individual crystal based on its c-axis orientation.
+This orientation is a result of the flow history of that crystal&amp;ndash;how it pointed when it fell as snow, how it was squashed, stretched, and rotated with ice flow.
+This ice crystal fabric affects deformation by making it easier in some directions (think of a deck of cards&amp;ndash;two directions of deforming the deck are easy, one is hard).&lt;/p&gt;
+&lt;h1 id=&#34;goals&#34;&gt;Goals&lt;/h1&gt;
+&lt;p&gt;Ice-crystal fabric causes mechanical anisotropy in ice&amp;ndash;that is to say, depending on the orientation of the ice crystals, ice flow is easier or harder. Incorporating the effect of this mechanical anisotropy is a key way to make models of ice flow more accurate. Better understanding the effect of fabric on ice flow is the main goal of my fabric-related work.&lt;/p&gt;
+&lt;p&gt;Since ice crystals are reoriented by flow, they may also lend us information about how ice flowed in the past. Since we only have a relatively short time series of observations of ice flow, inferring ice flow over long periods using fabric could be very useful to contextualize modern ice-sheet retreat. Developing the methods to use ice-crystal fabric as such a proxy is a secondary goal of my fabric work.&lt;/p&gt;
+&lt;h1 id=&#34;fabric-basics&#34;&gt;Fabric basics&lt;/h1&gt;
+&lt;p&gt;Thinking about what happens to an individual crystal is well and good, but if we want to understand how a whole glacier moves we are thinking about an enormous number of crystals, far too many for us to keep track of individually.
+Instead, we think of a &amp;ldquo;crystal fabric&amp;rdquo;, some kind of aggregate of grains that we may be able to describe in relatively simple mathematical terms.
+Isotropic (randomly oriented), girdle (forming a circle) and single maximum (pointing mainly in one direction) are probably the most common fabric types in ice.&lt;/p&gt;
+&lt;p&gt;Ice divides (ice flows vertically and in one horizontal dimension away from a ridge), or domes (ice flows radially outward from the dome center), are the simplest to think about since the flow fields in these areas are relatively tame. I&amp;rsquo;ll focus on divides. At divides, the surface has no slope, so there is no shear stress but only downward stress due to gravity, extensional stress away from the divide, and some containing force along the divide. At the divide, the crystal fabric gradually transitions from isotropic (randomly oriented) at the surface to a girdle, or circle in the plane of the divide, due to the extensional stresses. At depth, the ice reaches something of single maximum with crystals pointing upwards, where the vertical stresses dominate. This type of fabric has been seen in ice cores, and models can do a reasonable job reproducing it (see figure below). Just off the divide, we get complex effects as ice is moved around and stress states become more complex. This is seen, for example, in the angle of the fabric which tends to point leftward at certain depths in the right panel of the figure, or in the complex pattern of the shear strain in the left panel. Fabrics are not entirely intuitive, and assessing what fabrics are likely to result from complex deformation regimes is best done with an ice-flow model.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://dlilien.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/idealized_init_zoom.png&#34; alt=&#34;Anisotropic modeling at an ice divide.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/idealized_init_zoom.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Anisotropic modeling at an ice divide.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;effect-on-flow&#34;&gt;Effect on flow&lt;/h1&gt;
+&lt;p&gt;Recently we worked on &lt;a href=&#34;../../publication/rathmann_tamm&#34;&gt;methods to infer fabric from radar&lt;/a&gt;, providing a small update to the 15-year old methodology that is widely used.
+Applying multiple methods to radar data from the Northeast Greenland Ice Stream (NEGIS) has shown that &lt;a href=&#34;../../publication/gerber_negis&#34;&gt;fabric there significantly affects flow&lt;/a&gt;.
+Moreover, we have shown that &lt;a href=&#34;../../publication/grinsted_accel&#34;&gt;recent, slow speedup of NEGIS is likely due to fabric development&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;modeling&#34;&gt;Modeling&lt;/h1&gt;
+&lt;p&gt;In an ice flow model, we seek to approximate how fabric evolves in response to the deformation of ice, and how it affects the deformation of the glacier.
+Modeling ice-crystal fabric is a fairly difficult exercise: the fabric evolves in multiple dimensions, it get moves around by ice flow, and the description we use is continuous despite the fabric itself being discrete.
+I have been helping Nicholas Rathmann with his work developing a &lt;a href=&#34;../../publication/rathmann_nonlinear_grains&#34;&gt;new, small-scale model of ice flow&lt;/a&gt;.
+This work has allowed us to demonstrate that, even though most of us would love to avoid the complications of fabric, &lt;a href=&#34;../../publication/rathmann_inv&#34;&gt;fabric really is important for understanding ice-flow properties that people care about, like basal conditions&lt;/a&gt;.
+We have also worked to improve how the modeled fabric is &lt;a href=&#34;../../publication/rathmann_ortho&#34;&gt;coupled to flow&lt;/a&gt;.
+With these developments in hand, I recently submitted a paper implementing Nicholas&amp;rsquo; model in Elmer/Ice; this allowed recrystallization, an important and often-neglected fabric process, to be included, and makes the model applicable to a wider range of areas. Elmer/Ice has a relatively large user base, so hopefully this work helps others out as well!&lt;/p&gt;
+&lt;h1 id=&#34;inferring-flow-history&#34;&gt;Inferring flow history&lt;/h1&gt;
+&lt;p&gt;To see if we could infer flow history from fabric, I ran a number of model simulations along flowtubes.
+This work was published in &lt;a href=&#34;../../publication/idealized_aniso&#34;&gt;2021&lt;/a&gt;.
+The model was implemented in Elmer/Ice, an open-source software package that is one of the only codes capable of handling the coupled evolution of ice flow and fabric.
+Using the model, we can get a sense of what fabrics result from ice streams, shown here for a few different ways of having the ice converge together to form a stream.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/idealized_convergence.png&#34; alt=&#34;Anisotropic modeling of ice streams. Details are not critical here, but these fabrics are readily distinguished from non-streaming flow.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/idealized_convergence.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Anisotropic modeling of ice streams. Details are not critical here, but these fabrics are readily distinguished from non-streaming flow.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;Skipping over the details of all the simulations I have run, it is important to ask whether we could observe these differences. Ice cores allow quite detailed measurement of fabric, so it is almost given that they could resolve these fabrics. However, it would be particularly exciting if we could observe the fabrics without drilling. One potential tool for this is pRES or ApRES, a type of phase sensitive radar. By rotating the radar around, we can identify some integrated information about the fabric. I have used the output of the ice-flow model to generate synthetic radargrams, which tell us what to expect when observing such fabrics with pRES in the field. As seen in the figure below, these are quite complicated, but easily distinguished from pure internal deformation (on the left). This is quite encouraging, and suggest that it should be possible to identify changes to past ice-stream flow by observing the fabric from the surface.&lt;/p&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dlilien.github.io/img/for_proj/pres_modeling_streams.png&#34; alt=&#34;Synthetic radargrams for pRES on hypothetical ice streams.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dlilien.github.io/img/for_proj/pres_modeling_streams.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Synthetic radargrams for pRES on hypothetical ice streams.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;So how can all this information be used to infer past ice flow? It takes a relatively long time to reorient the ice crystals (thousands of years or more), so if modern ice-crystal fabric does not match modern ice flow, we may have evidence of past changes. Moreover, if we can use an ice-flow model to match different changes to flow with different fabrics, we may be able to identify what changes could cause such a mismatch between fabric and flow. I have been working to model how changes to ice streams will be manifest in the crystal fabric, and thus what we might look for in terms of inferring past changes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling ice-crystal fabric as a proxy for ice-stream stability</title>
+      <link>https://dlilien.github.io/talk/agu_2020/</link>
+      <pubDate>Tue, 08 Dec 2020 08:30:00 +0200</pubDate>
+      <guid>https://dlilien.github.io/talk/agu_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling fabric development using coupled non-parametric orientation and lattice strain-energy distribution functions</title>
+      <link>https://dlilien.github.io/talk/nicholas_egu_2020/</link>
+      <pubDate>Wed, 06 May 2020 08:30:00 +0200</pubDate>
+      <guid>https://dlilien.github.io/talk/nicholas_egu_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

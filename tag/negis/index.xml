@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NEGIS | David Lilien</title>
+    <link>https://dlilien.github.io/tag/negis/</link>
+      <atom:link href="https://dlilien.github.io/tag/negis/index.xml" rel="self" type="application/rss+xml" />
+    <description>NEGIS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dlilien.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>NEGIS</title>
+      <link>https://dlilien.github.io/tag/negis/</link>
+    </image>
+    
+    <item>
+      <title>Thermal Weakening, Convergent Flow, and Vertical Heat Transport in the Northeast Greenland Ice Stream Shear Margins</title>
+      <link>https://dlilien.github.io/publication/negis_margins/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://dlilien.github.io/publication/negis_margins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeled temperature and basal shear stress of NEGIS and implications for surge mechanics of Storstrømmen</title>
+      <link>https://dlilien.github.io/talk/eastgrip_2018/</link>
+      <pubDate>Mon, 12 Nov 2018 15:00:00 +0100</pubDate>
+      <guid>https://dlilien.github.io/talk/eastgrip_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
